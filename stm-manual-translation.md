@@ -307,8 +307,6 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 > -
 > Stoffenmanager® es ahora responsivo para uso en tableta y smartphone
 
-> 
-
 ##### Bloque 7
 
 > **112**

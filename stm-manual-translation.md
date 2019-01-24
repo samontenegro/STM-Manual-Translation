@@ -12,58 +12,59 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 2. [Índice](#indice)
 3. [Registro de cambios](#registro-de-cambios)
 4. [Introduccion](#introduccion)
+5. [Panel de Control](#panel-de-control)
 
 # Portada
 
 ##### Bloque 1
 
-> Manual Stoffenmanager® 8 Premium
-> Version 2.7
+> Manual Stoffenmanager® 8 Premium <br>
+> Version 2.7 <br>
 
-> Manual Stoffenmanager® 8 Premium
-> Versión 2.7
+> Manual Stoffenmanager® 8 Premium <br>
+> Versión 2.7 <br>
 
 ##### Bloque 2
 
-> ​**Contact details**
-> Cosanta B.V.
-> Laan van Kronenburg 14
-> 1183 AS Amstelveen
-> The Netherlands
-> www.cosanta.nl	
+> **Contact details** <br>
+> Cosanta B.V. <br>
+> Laan van Kronenburg 14 <br>
+> 1183 AS Amstelveen <br>
+> The Netherlands <br>
+> www.cosanta.nl <br>
 
-> **Información de Contacto**
-> Cosanta B.V.
-> Laan van Kronenburg 14
-> 1183 AS Amstelveen
-> The Netherlands
-> www.cosanta.nl	
+> **Información de Contacto**<br>
+> Cosanta B.V. <br>
+> Laan van Kronenburg 14 <br>
+> 1183 AS Amstelveen <br>
+> The Netherlands <br>
+> www.cosanta.nl <br>
 
 ##### Bloque 3
 
-> status: definitive
-> version: October 2018	
+> status: definitive <br>
+> version: October 2018 <br>
 
-> status: definitivo	
-> versión: Octubre de 2018
+> status: definitivo <br>
+> versión: Octubre de 2018 <br>
 
 ##### Bloque 4
 
-> E-mail: info@cosanta.nl
+> E-mail: info@cosanta.nl <br>
 >
-> Contact person:
-> Karin Overdijk
-> Marketing & Sales
-> Stoffenmanager®
-> T. +31 20 792 0013
+> Contact person: <br>
+> Karin Overdijk <br>
+> Marketing & Sales <br>
+> Stoffenmanager® <br>
+> T. +31 20 792 0013 <br>
 
-> E-mail: info@cosanta.nl
+> E-mail: info@cosanta.nl <br>
 >
-> Contacto personal:
-> Karin Overdijk
-> Marketing y Ventas
-> Stoffenmanager®
-> T. +31 20 792 0013
+> Contacto personal: <br>
+> Karin Overdijk <br>
+> Marketing y Ventas <br>
+> Stoffenmanager® <br>
+> T. +31 20 792 0013 <br>
 
 ##### Bloque 5
 
@@ -117,109 +118,109 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 ##### Bloque 5
 
-> **Settings**
-> My company
-> Locations
-> Users & permissions
-> My account
-> Offered files
+> **Settings** <br>
+> My company <br>
+> Locations <br>
+> Users & permissions <br>
+> My account <br>
+> Offered files <br>
 
-> **Configuración**
-> Mi compañía
-> Ubicaciones
-> Usuarios y permisos
-> Mi cuenta
-> Archivos disponibles
+> **Configuración** <br>
+> Mi compañía <br>
+> Ubicaciones <br>
+> Usuarios y permisos <br>
+> Mi cuenta <br>
+> Archivos disponibles <br>
 
 ##### Bloque 6
 
-> **Inventory**
-> Products
-> Components
-> Suppliers
-> Processes
-> Workplaces
-> CMR
-> Digital Product Depot
+> **Inventory**<br>
+> Products <br>
+> Components <br>
+> Suppliers <br>
+> Processes <br>
+> Workplaces <br>
+> CMR <br>
+> Digital Product Depot <br>
 
-> **Inventario**
-> Productos
-> Componentes
-> Proveedores
-> Procesos
-> Áreas de trabajo
-> CMR
-> Almacén Digital de Productos
+> **Inventario**<br>
+> Productos <br>
+> Componentes <br>
+> Proveedores <br>
+> Procesos <br>
+> Áreas de trabajo <br>
+> CMR <br>
+> Almacén Digital de Productos <br>
 
 ##### Bloque 7
 
-> **Prioritisation**
-> Inhalation risk assessment
-> Dermal risk assessment
+> **Prioritisation**<br>
+> Inhalation risk assessment <br>
+> Dermal risk assessment <br>
 
-> **Priorización**
-> Evaluación de riesgo respiratorio
-> Evaluación de riesgo dérmico
+> **Priorización**<br>
+> Evaluación de riesgo respiratorio <br>
+> Evaluación de riesgo dérmico <br>
 
 ##### Bloque 8
 
-> **Assessment**
-> Inhalation risk assessment
-> Job daily average
-> Assessment REACH
+> **Assessment**<br>
+> Inhalation risk assessment <br>
+> Job daily average <br>
+> Assessment REACH <br>
 
-> **Evaluación**
-> Evaluación de riesgo respiratorio
-> Promedio diario de trabajo
-> Evaluación REACH
+> **Evaluación**<br>
+> Evaluación de riesgo respiratorio <br>
+> Promedio diario de trabajo <br>
+> Evaluación REACH <br>
 
 ##### Bloque 9
 
-> **Control**
-> Control Measures
-> Action Plan
+> **Control** <br>
+> Control Measures <br>
+> Action Plan <br>
 
-> **Control**
-> Medidas de Control
-> Plan de Acción
+> **Control** <br>
+> Medidas de Control <br>
+> Plan de Acción <br>
 
 ##### Bloque 10
 
-> **Communication**
-> Register
-> WIC (workplace instruction cards)
-> Reports
-> Log (Notification*)
-> Pimex
+> **Communication**<br>
+> Register <br>
+> WIC (workplace instruction cards) <br>
+> Reports <br>
+> Log (Notification*) <br>
+> Pimex <br>
 
 *Corregido del original "Notifciation".
 
-> **Comunicación**
-> Registrar
-> TIAT* (Tarjetas de instrucciones del ambiente de trabajo)
-> Reportes
-> Registro (Notificación)
-> Pimex
+> **Comunicación**<br>
+> Registrar <br>
+> TIAT* (Tarjetas de instrucciones del ambiente de trabajo) <br>
+> Reportes <br>
+> Registro (Notificación) <br>
+> Pimex <br>
 
 *Siglas sugeridas; moderación requerida.
 
 ##### Bloque 11
 
-> **Modules**
-> Nano
+> **Modules**<br>
+> Nano <br>
 
-> **Módulos**
-> Nano
+> **Módulos**<br>
+> Nano <br>
 
 ##### Bloque 12
 
-> **Anchoring**
-> Version management
-> Archive
+> **Anchoring**<br>
+> Version management <br>
+> Archive <br>
 
-> **Anclaje**
-> Control de versiones
-> Archivo
+> **Anclaje**<br>
+> Control de versiones <br>
+> Archivo <br>
 
 ##### Bloque 13
 
@@ -245,83 +246,21 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 ##### Bloque 3
 
-> Nr.
-> Version
-> Date
-> Type
-> Reference
-> Description
+| Nr.     | Version | Date    | Type | Reference   | Description                                                  |
+| ------- | :-----: | ------- | ---- | ----------- | :----------------------------------------------------------- |
+| **109** |   2.7   | 10-2018 | New  | -           | Website changed to www.stoffenmanager.com                    |
+| **110** |   2.7   | 10-2018 | New  | -           | User interface chaged - new workflow                         |
+| **111** |   2.7   | 10-2018 | New  | -           | Stoffenmanager® is now responsive for use on tablet and smartphone |
+| **112** |   2.7   | 10-2018 | New  | § 4.4 y 4.5 | Processes and workplaces can be assigned to locations        |
 
-> Nr.
-> Version
-> Fecha
-> Tipo
-> Referencia
-> Descripción
 
-##### Bloque 4
 
-> **109**
-> 2.7
-> 10-2018
-> New
-> -
-> Website changed to www.stoffenmanager.com
-
-> **109**
-> 2.7
-> 10-2018
-> Nuevo
-> -
-> Sitio web cambiado a www.stoffenmanager.com
-
-##### Bloque 5
-
-> **110**
-> 2.7
-> 10-2018
-> New
-> -
-> User interface changed - new workflow
-
-> **110**
-> 2.7
-> 10-2018
-> Nuevo
-> -
-> Interfaz de usuario cambiada - nuevo flujo de trabajo
-
-##### Bloque 6
-
-> **111**
-> 2.7
-> 10-2018
-> New
-> -
-> Stoffenmanager® is now responsive for use on tablet and smartphone
-
-> **111**
-> 2.7
-> 10-2018
-> Nuevo
-> -
-> Stoffenmanager® es ahora responsivo para uso en tableta y smartphone
-
-##### Bloque 7
-
-> **112**
-> 2.7
-> 10-2018
-> New
-> § 4.4 & 4.5
-> Processes and workplaces can be assigned to locations
-
-> **112**
-> 2.7
-> 10-2018
-> Nuevo
-> § 4.4 & 4.5
-> Procesos y áreas de trabajo pueden ser asignadas a ubicaciones
+| Nr.     | Version | Fecha   | Tipo | Referencia  | Descripción                                                  |
+| ------- | :-----: | ------- | ---- | ----------- | :----------------------------------------------------------- |
+| **109** |   2.7   | 10-2018 | New  | -           | Sitio web cambiado a www.stoffenmanager.com                  |
+| **110** |   2.7   | 10-2018 | New  | -           | Interfaz de usuario cambiada - nuevo flujo de trabajo        |
+| **111** |   2.7   | 10-2018 | New  | -           | Stoffenmanager® es ahora responsivo para uso en tableta y smartphone |
+| **112** |   2.7   | 10-2018 | New  | § 4.4 y 4.5 | Procesos y áreas de trabajo pueden ser asignadas a ubicaciones |
 
 [^](#tabla-de-contenidos)
 
@@ -368,4 +307,46 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 >- Erika Ustailieva - Desarrollador de Negocios Internacionales
 >- Ina Dijkman - Consultor
 >- Leonie de Jong - Consultor
+
+[^](#tabla-de-contenidos)
+
+# Panel de Control
+
+##### Bloque 1
+
+> You can log in via www.stoffenmanager.com. After log-in you arrive at the Dashboard page. You can now start using Stoffenmanager®. The Dashboard presents a direct overview of important key figures of the database like number of products and risk assessments. This overview can be filtered by location and date. Using the top navigation you can directly switch to specific functionalities. The tiles can be turned on or off and can be rearranged according to your specific wishes. The recent version of the Stoffenmanager® manual is available on the Dashboard. You can download it there.
+
+>Usted puede iniciar sesión desde www.stoffenmanager.com. Después de iniciar sesión, aparecerá la página del Panel de Control. Ahora puede empezar a utilizar Stoffenmanager®. El Panel de Control presenta un resumen directo de datos clave importantes en la base de datos como el número de productos y evaluaciones de riesgo. Este resumen puede ser filtrado por ubicación y fecha. Usando la barra de navegación superior, puede alternar directamente entre funcionalidades específicas. Las fichas pueden ser activadas o desactivadas y cambiadas de posición a su gusto. La versión más reciente del manual de Stoffenmanager® está disponible en el Panel de Control. Desde ahí puede descargarlo.
+
+##### Bloque 2
+
+>The tiles give a visual feedback of the risk priority scores for inhalation and dermal exposure. The Risk Characterization Ratio (RCR) tile gives feedback of the quantitative risk assessment. The figure shows how many scenarios are sufficiently controlled. This is indicated by the RCR. The RCR is calculated by dividing the concentration with the limit value of the component. An RCR ≥ 1 indicates that the exposure possibly exceeds the limit value. This is indicated in red. In column one the concentration during the task is directly compared with the limit value. This indicates whether or not exposure during the task is sufficiently controlled. The duration of the task is taken into account in column two. The column indicates whether or not the exposure during the full workday is sufficiently controlled. If a worker performs multiple tasks with the same component on the same day the total exposure (or job daily average) can be calculated. Column three indicates whether or not job scenarios are sufficiently controlled. The last column show which REACH scenarios are sufficiently controlled.
+
+>Las fichas proveen información visual acerca de los puntajes de prioridad de riesgo para exposición dérmica y respiratoria. La ficha Ratio de Caracterización de Riesgo (RCR)  provee información acerca de la evaluación cuantitativa de riesgo. La figura muestra cuantos escenarios se encuentran suficientemente controlados. Esto es indicado por el RCR. El RCR se calcula dividiendo la concentración con el valor límite del componente. Un RCR ≥ 1 indica que la exposición posiblemente excede el valor límite. Esto es indicado con color rojo. En la columna uno, la concentración durante la tarea is comparada directamente con el valor límite. Esto indica si la exposición durante la tarea está suficientemente controlada o no. La duración de la tarea es tomada en cuenta en la columna dos. Esta columna indica si la exposición durante la jornada de trabajo completa está suficientemente controlada o no. Si un trabajador realiza múltiples tareas con el mismo compuesto en el mismo día, el total de exposición (o promedio diario de trabajo) puede ser calculado. La columna tres indica si los escenarios de trabajo están suficientemente controlados o no. La última columna muestra cuales escenarios REACH están suficientemente controlados.
+
+##### Bloque 3
+
+> Table 1: Top navigation in Stoffenmanager®
+
+> Tabla 1: Barra de navegación superior de Stoffenmanager®
+
+##### Bloque 4
+
+|   Dashboard   |   Inventory   |   Prioritisation   |   Assessment   |    Control  |   Communication   |   Module   |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| - | Products | Inhalation risk assessment | Inhalation risk assessment | Control Measures<br /> -Prioritisation<br />--- Inhalation<br />--- Dermal<br />-Assessment<br />--- Inhalation | Register | Nano |
+| - | Components | Dermal risk assessment      | Job daily average | Plan of Action<br /> -Prioritisation<br />--- Inhalation<br />--- Dermal<br />-Assessment<br />--- Inhalation | WIC | - |
+| - | Suppliers | - | Assessment REACH | - | Plan of Action<br /> -Prioritisation<br />--- Inhalation<br />--- Dermal<br />-Assessment<br />--- Inhalation<br />--- Job daily average<br />--- REACH | - |
+| - | Processes | - | - | - | Log | - |
+| - | Workplaces | - | - | - | Primex | - |
+| - | CMR<br />-Registration<br />-Report<br />-Search CMR list | - | - | - | - | - |
+
+|   Panel de Control   |   Inventario   |   Priorización   |   Evaluación   |    Control  |   Comunicación   |   Módulo   |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| - | Productos | Evaluación de riesgo respiratorio | Evaluación de Riesgo Respiratorio | Medidas de Control<br /> -Priorización<br />--- Respiratoria<br />--- Dérmica<br />-Evaluación<br />--- Respiratoria | Registrar | Nano |
+| - | Componentes | Evaluación de riesgo dérmico      | Promedio diario de trabajo | Plan de Acción<br /> -Priorización<br />--- Respiratoria<br />--- Dérmica<br />-Evaluación<br />--- Respiratoria | TIAT* | - |
+| - | Proveedores | - | Evalución REACH | - | Plan de Acción<br /> -Priorización<br />--- Respiratoria<br />--- Dérmica<br />-Evaluación<br />--- Respiratoria<br />--- Promedio diario de trabajo<br />--- REACH | - |
+| - | Procesos | - | - | - | Registro | - |
+| - | Ambientes de Trabajo | - | - | - | Primex | - |
+| - | CMR<br />-Registrar<br />-Reportar<br />-Buscar en lista CMR | - | - | - | - | - |
 

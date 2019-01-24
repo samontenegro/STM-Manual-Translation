@@ -2,7 +2,7 @@
 
 Ciudad Autónoma de Buenos Aires, enero de 2019.
 
-​	El presente documento constituye una traducción completa, de inglés a español latinoamericano, del manual de usuario de Stoffenmanager® 8 Premium, versión 2.7, desarrollado por Cosanta B.V. Con la intención de preservar la flexibilidad del formato el documento estará escrito en su totalidad en formato _Markdown_. A lo largo del texto, las traducciones de las distintas secciones irán acompañadas de sus textos originales en inglés, y agrupadas según la página en la cual se encuentren. Además, y con la intención de preservar la distinción entre sustantivos y nombres particulares, la capitalización de las palabras destinadas a representar nombres o palabras clave se ha mantenido idéntica. Para acceder a cada página y la correspondiente traducción de cada uno de sus bloques de texto bastará con seleccionarla desde la tabla de contenidos. Los títulos de los elementos en la tabla de contenidos aparecerán sin acentuación, a fin de preservar compatibilidad entre los visores de *Markdown*. Finalmente, la enumeración de los bloques de texto de cada página se realiza de izquierda a derecha, de arriba hacia abajo, sobre el espacio de la página.
+​	El presente documento constituye una traducción completa, de inglés a español latinoamericano, del manual de usuario de Stoffenmanager® 8 Premium, versión 2.7, desarrollado por Cosanta B.V. Con la intención de preservar la flexibilidad del formato el documento estará escrito en su totalidad en formato _Markdown_. A lo largo del texto, las traducciones de las distintas secciones irán acompañadas de sus textos originales en inglés, y agrupadas según la página en la cual se encuentren. Además, y con la intención de preservar la distinción entre sustantivos y nombres particulares, la capitalización de las palabras destinadas a representar nombres o palabras clave se ha mantenido idéntica. Para acceder a cada página y la correspondiente traducción de cada uno de sus bloques de texto bastará con seleccionarla desde la tabla de contenidos. Los títulos de los elementos en la tabla de contenidos aparecerán sin acentuación, a fin de preservar compatibilidad entre los visores de *Markdown*. Los íconos de ciertas secciones serán reemplazados por un texto descriptivo entre corchetes, tanto para los textos en inglés como en español. Finalmente, la enumeración de los bloques de texto de cada página se realiza de izquierda a derecha, de arriba hacia abajo, sobre el espacio de la página.
 
 -Samuel Alonso
 
@@ -13,6 +13,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 3. [Registro de cambios](#registro-de-cambios)
 4. [Introduccion](#introduccion)
 5. [Panel de Control](#panel-de-control)
+6. [Configuracion](#configuracion)
 
 # Portada
 
@@ -88,7 +89,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 >
 > © Stoffenmanager®, http://www.stoffenmanager.com
 
-[^](#tabla-de-contenidos)
+[Tabla de Contenidos](#tabla-de-contenidos)
 
 # Indice
 
@@ -228,7 +229,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 > **Anexo I - Registro Completo**
 
-[^](#tabla-de-contenidos)
+[Tabla de Contenidos](#tabla-de-contenidos)
 
 # Registro de cambios
 
@@ -262,7 +263,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 | **111** |   2.7   | 10-2018 | New  | -           | Stoffenmanager® es ahora responsivo para uso en tableta y smartphone |
 | **112** |   2.7   | 10-2018 | New  | § 4.4 y 4.5 | Procesos y áreas de trabajo pueden ser asignadas a ubicaciones |
 
-[^](#tabla-de-contenidos)
+[Tabla de Contenidos](#tabla-de-contenidos)
 
 # Introduccion
 
@@ -308,7 +309,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 >- Ina Dijkman - Consultor
 >- Leonie de Jong - Consultor
 
-[^](#tabla-de-contenidos)
+[Tabla de Contenidos](#tabla-de-contenidos)
 
 # Panel de Control
 
@@ -322,7 +323,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 >The tiles give a visual feedback of the risk priority scores for inhalation and dermal exposure. The Risk Characterization Ratio (RCR) tile gives feedback of the quantitative risk assessment. The figure shows how many scenarios are sufficiently controlled. This is indicated by the RCR. The RCR is calculated by dividing the concentration with the limit value of the component. An RCR ≥ 1 indicates that the exposure possibly exceeds the limit value. This is indicated in red. In column one the concentration during the task is directly compared with the limit value. This indicates whether or not exposure during the task is sufficiently controlled. The duration of the task is taken into account in column two. The column indicates whether or not the exposure during the full workday is sufficiently controlled. If a worker performs multiple tasks with the same component on the same day the total exposure (or job daily average) can be calculated. Column three indicates whether or not job scenarios are sufficiently controlled. The last column show which REACH scenarios are sufficiently controlled.
 
->Las fichas proveen información visual acerca de los puntajes de prioridad de riesgo para exposición dérmica y respiratoria. La ficha Ratio de Caracterización de Riesgo (RCR)  provee información acerca de la evaluación cuantitativa de riesgo. La figura muestra cuantos escenarios se encuentran suficientemente controlados. Esto es indicado por el RCR. El RCR se calcula dividiendo la concentración con el valor límite del componente. Un RCR ≥ 1 indica que la exposición posiblemente excede el valor límite. Esto es indicado con color rojo. En la columna uno, la concentración durante la tarea is comparada directamente con el valor límite. Esto indica si la exposición durante la tarea está suficientemente controlada o no. La duración de la tarea es tomada en cuenta en la columna dos. Esta columna indica si la exposición durante la jornada de trabajo completa está suficientemente controlada o no. Si un trabajador realiza múltiples tareas con el mismo compuesto en el mismo día, el total de exposición (o promedio diario de trabajo) puede ser calculado. La columna tres indica si los escenarios de trabajo están suficientemente controlados o no. La última columna muestra cuales escenarios REACH están suficientemente controlados.
+>Las fichas proveen información visual acerca de los puntajes de prioridad de riesgo para exposición dérmica y respiratoria. La ficha Ratio de Caracterización de Riesgo (RCR)  provee información acerca de la evaluación cuantitativa de riesgo. La figura muestra cuantos escenarios se encuentran suficientemente controlados. Esto es indicado por el RCR. El RCR se calcula dividiendo la concentración con el valor límite del componente. Un RCR ≥ 1 indica que la exposición posiblemente excede el valor límite. Esto es indicado con color rojo. En la columna uno, la concentración durante la tarea es comparada directamente con el valor límite. Esto indica si la exposición durante la tarea está suficientemente controlada o no. La duración de la tarea es tomada en cuenta en la columna dos. Esta columna indica si la exposición durante la jornada de trabajo completa está suficientemente controlada o no. Si un trabajador realiza múltiples tareas con el mismo compuesto en el mismo día, el total de exposición (o promedio diario de trabajo) puede ser calculado. La columna tres indica si los escenarios de trabajo están suficientemente controlados o no. La última columna muestra cuales escenarios REACH están suficientemente controlados.
 
 ##### Bloque 3
 
@@ -349,4 +350,144 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 | - | Procesos | - | - | - | Registro | - |
 | - | Ambientes de Trabajo | - | - | - | Primex | - |
 | - | CMR<br />-Registrar<br />-Reportar<br />-Buscar en lista CMR | - | - | - | - | - |
+
+*Siglas sugeridas; moderación requerida
+
+[Tabla de Contenidos](#tabla-de-contenidos)
+
+# Configuracion
+
+##### Bloque 1
+
+> To start using Stoffenmanager® it is important to first define some settings. This can be done via the top right menu, at ‘Settings’ selecting the ‘[cogwheel icon]’ icon. Here you can find all personal and company settings. In the top menu the main categories can be found. These can consist of submenus, that are presented on the left side.
+
+>Antes de empezar a utilizar Stoffenmanager® es importante definir algunos ajustes. Esto puede hacerse a través de la barra de navegación superior, en "Configuración" seleccionando el ícono "[ícono de engranaje]". En la barra de navegación superior puede encontrar las categorías principales. Éstas pueden consistir de submenús, que aparecerán del lado izquierdo.
+
+##### Bloque 2
+
+> My company
+
+>Mi compañía
+
+##### Bloque 3
+
+> <u>Company information</u>
+> At company information ([building icon]) the company's address details can be entered or updated. Here, the name can be entered of the company's internal contact person or coordinator for Stoffenmanager®. A company logo can be uploaded here. This logo will be displayed on the reports and workplace instruction cards.	
+
+> <u>Información de Compañía</u>
+> En "Información de Compañía"† ([ícono de edificio]) los detalles de dirección de la compañía pueden ser introducidos o actualizados. Aquí puede introducirse el nombre de la persona de contacto interno o coordinador de Stoffenmanager® para la compañía. Además, aquí puede cargarse el logotipo de la compañía. Este logotipo aparecerá en los reportes y en las tarjetas de instrucciones del ambiente de trabajo*.		
+
+†Modificado del original por motivo de contexto: comillas denotan nombre propio
+*traducción sugerida; moderación requerida
+
+##### Bloque 4
+
+> <u>General settings</u>
+> Here you will find general settings ([alt. cogwheel icon]) for different functionalities in Stoffenmanager®.
+>
+> - Allow the use of the Digital Product Depot (see § 4.7)
+> -  Security – allow two-step verification
+> - REACH compliance – allow users to select a REACH process category (PROC) in the risk assessments
+> - Data update & synchronization. With this functionality you can directly update all versions of products and risk assessments and recalculate all scenarios. All products are coupled to the latest versions of components, all risk assessments to the most recent version of the products etc. Items that are archived or available in a read-only product set are not updated. You can choose to save adjusted information as ‘new version’
+
+> <u>Ajustes Generales</u>
+> Aquí encontrará los ajustes generales ([ícono de engranaje alt.]) para distintas funcionalidades de Stoffenmanager®.
+>
+> - Habilitar el uso del Almacén Digital de Productos (ver § 4.7)
+> -  Seguridad – activar verificación de dos pasos
+> - Conformidad REACH – permitir a usuarios seleccionar una categoría de procesos de REACH (PROC) en las evaluaciones de riesgo
+> - Actualización y sincronización de información. Con esta funcionalidad puede actualizar directamente todas las versiones de los productos y las evaluaciones de riesgo, y recalcular todos los escenarios. Todos los productos son acoplados a las últimas versiones de los componentes, todas las evaluaciones de riesgo a las versiones más recientes de los productos, etc. Los artículos archivados o que están disponibles en un set de productos de solo lectura no son actualizados. Opcionalmente, puede guardar la información ajustada como "nueva versión".
+
+##### Bloque 4
+
+> ​<u>Notification settings</u>
+> At notification settings ([bell icon]), it is possible to define default validity dates for products and risk assessments, e.g. 1 year for a risk assessment with a CMR-substance. When the validity date is expired this triggers a notification and the product or risk assessment is highlighted in the product or risk assessment overview. In this way, the current status of the products and risk assessments can be quickly viewed. Please note: for each individual risk assessment and product a specific expiration data can also be entered. This can be done in the first screen for the risk assessment or for the product. This specific data overrules the generic entered date.
+
+> <u>Ajustes de Notificación</u>
+> En ajustes de notificación ([ícono de campana]), es posible definir fechas de validez por defecto para productos y evaluaciones de riesgo; p. ej. 1 año para una evaluación de riesgo con una sustancia CMR. Al expirar la fecha de validez, se activa una notificación que resalta el producto o la evaluación de riesgo en el resumen del producto o la evaluación. De esta manera, el estado actual de los productos y las evaluaciones de riesgo puede ser revisada rápidamente. Nota: para cada evaluación de riesgo o producto individual también puede introducirse información de expiración específica. Esto puede hacerse desde la primera pantalla para la evaluación de riesgo o producto. Esta información específica anulará la fecha por defecto.
+
+##### Bloque 5
+
+> ​	Specific expiration data
+
+> ​	Información de expiración específica
+
+##### Bloque 6
+
+> ​<u>Custom product fields</u>
+> Within each premium account, 10 additional product data fields can be created that can be entered at product information. Select ‘Add column’ to create a new product field. Give the field a name and select ‘save’.	
+
+> <u>Campos de producto personalizados</u>
+> Para cada cuenta premium, pueden introducirse hasta 10 campos de información de producto adicionales en "Información de Producto"*. Seleccione "Agregar Columna" para crear un nuevo campo de producto. Asigne un nombre para el campo y seleccione "guardar".
+
+*Modificado del original por motivo de contexto: comillas denotan nombre propio
+
+##### Bloque 7
+
+> The new fields are visible when adjusting or creating new products. The fields are added to the first product information screen ‘General product information’. The information can be entered as free text. All new fields are available as columns in the product overview. Information can be filtered and exported to Excel.
+
+> Los campos nuevos serán visible al ajustar o crear nuevos productos. Los campos son agregados a la primera pantalla de información de producto "Información General de Producto". La información puede ser introducida como texto sin formato. Todos los campos nuevos estarán disponibles como columnas en el resumen de producto. Esta información puede ser filtrada y exportada a Excel.
+
+##### Bloque 8
+
+> <u>​Stoffenmanager® SHARE</u>
+> With Stoffenmanager® SHARE ([shared doc. icon]) you can publish SDS and workplace instruction cards (WIC) to external users without Stoffenmanager® account. Each publication can be limited to a specific set of locations. For each publication, you create a unique URL of 64 characters that can be shared with other users.
+>
+> - Click on ‘new publication’
+> - Give the publication a name
+> - Select locations from which data will be published;
+> - Select the information to be published:
+>   - Workplace instruction card: Product WIC
+>   - Workplace instruction card: Risk WIC
+>   - Safety Data Sheet: SDS
+> -  Decide if a password is required to view the information;
+> - After saving the url is generated. This can be forwarded to users or placed on your company’s intranet. If needed you can renew the url from time to time.
+> - You can generate multiple publication links	
+
+> <u>Stoffenmanager® SHARE</u>
+> Con Stoffenmanager® SHARE ([ícono de doc. compartido]) puede publicar HIS* y tarjetas de instrucciones del ambiente de trabajo (TIAT)† para usuarios externos sin cuentas de Stoffenmanager®. Cada publicación puede ser restringida a un conjunto específico de ubicaciones. Para cada publicación, se crea un URL único de 64 caracteres que puede ser compartido con otros usuarios.
+>
+> - Haga click en "nueva publicación"
+> - Dé un nombre a la publicación
+> - Seleccione ubicaciones desde las cuales la información será publicada
+> - Seleccione la información a ser publicada:
+>   - Tarjeta de instrucciones del ambiente de trabajo:  TIAT de producto
+>   - Tarjeta de instrucciones del ambiente de trabajo: TIAT de riesgo
+>   - Hoja de Información de Seguridad: HIS*
+> -  Decida si es necesaria una contraseña para acceder a la información
+> - Conserve el URL después de ser generado. Este puede ser reenviado a usuarios o colocado en la red interna de su compañía. De ser necesario, puede renovar el URL de vez en cuando
+> - Puede generar múltiples enlaces de publicación	
+
+*Siglas y traducción sugerida; moderación requerida
+†Ídem
+
+##### Bloque 9
+
+> ​When you have activated Stoffenmanager® SHARE it is also possible to view product-WICs, RISK-WICs and SDS of products using a weblink. Following this url (which may be password protected) you arrive at an overview. Here you can directly search for:
+> - Product WIC
+>
+> - Risk WIC
+>
+> - SDS
+>
+> You can search per location or filter the list. You can choose the relevant view (HTML or PDF) and the appearance (layout). Product information can also be downloaded as xml-file. These files can be used directly by other users who can import the file into their Stoffenmanager® account. This makes it more easy to exchange data.
+
+> ​Al activar Stoffenmanager® SHARE también es posible ver TIAT de productos, TIAT de riesgos, y HIS*  de productos usando un enlace. Al seguir dicho enlace (que podría estar protegido por contraseña) encontrará un resumen. En el resumen podrá buscar directamente por :
+>
+> - TIAT de producto
+>
+> - TIAT de riesgo
+>
+> - HIS
+>
+> Puede realizar una búsqueda por ubicaciones o filtrar la lista. Puede escoger la forma de visualización (HTML o PDF) y la apariencia (diseño). También puede descargarse la información de producto como un archivo XML†. Otros usuarios pueden usar estos archivos directamente importándolos a sus cuentas de Stoffenmanager®. Esto facilita el intercambio de información.
+
+*Ídem
+†Modificado del original: capitalización para indicar siglas
+
+##### Bloque 10
+
+> You can also view the documents using your smartphone or tablet. Stoffenmanager® SHARE is available as a separate module. Please contact Cosanta for more information.
+
+> También puede acceder a los documentos usando su smartphone o tablet. Stoffenmanager® SHARE se encuentra disponible como un módulo por separado. Por favor, contacte a Cosanta para más información.
 

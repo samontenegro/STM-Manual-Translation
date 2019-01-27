@@ -472,7 +472,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 >
 > You can search per location or filter the list. You can choose the relevant view (HTML or PDF) and the appearance (layout). Product information can also be downloaded as xml-file. These files can be used directly by other users who can import the file into their Stoffenmanager® account. This makes it more easy to exchange data.
 
-> ​Al activar Stoffenmanager® SHARE también es posible ver TIAT de productos, TIAT de riesgos, y HIS*  de productos usando un enlace. Al seguir dicho enlace (que podría estar protegido por contraseña) encontrará un resumen. En el resumen podrá buscar directamente por :
+> Al activar Stoffenmanager® SHARE también es posible ver TIAT de productos, TIAT de riesgos, y HIS*  de productos usando un enlace. Al seguir dicho enlace (que podría estar protegido por contraseña) encontrará un resumen. En el resumen podrá buscar directamente por :
 >
 > - TIAT de producto
 >
@@ -491,3 +491,34 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 > También puede acceder a los documentos usando su smartphone o tablet. Stoffenmanager® SHARE se encuentra disponible como un módulo por separado. Por favor, contacte a Cosanta para más información.
 
+##### Bloque 11
+
+> <u>WIC Templates</u>
+> In Stoffenmanager® there are different Workplace instruction card (WIC)-templates. These are a comprised version of the product information entered and give you instructions on the use of the product. At WIC-templates ([template icon]) you can select which templates can be used within your company and which template will be the default one.	
+
+> <u>Plantillas TIAT</u>
+> En Stoffenmanager® hay distintas plantillas para Tarjetas de instrucciones del ambiente laboral. Estas contienen la información de cada producto y proveen instrucciones sobre su uso*. En Plantillas TIAT ([ícono de plantilla]) puede seleccionar cuales plantillas pueden usarse en su compañía y cual plantilla será la predeterminada.
+
+*Traducción inferida del contexto; revisar el uso de "comprised" en texto original
+
+##### Bloque 12
+
+> <u>Custom personal protective equipment</u> 
+> At custom personal protective equipment ([gas mask icon]) you can create additional company-specific personal protective equipment devices for each category (respiratory, protective clothing, gloves and eye- and face protection). After adding new categories these can be selected when adjusting or creating a product. You can upload an existing or own icon / picture to the new type. This can be done in multiple languages.
+
+> <u>Equipo de protección personalizado</u> 
+> En Equipo de protección personalizado ([ícono de máscara de gas]) puede crear equipos de protección personal adicionales, específicos de su compañía, para cada categoría (respiratorio, ropa protectora, guantes y protección de ojos-y-cara). Después de agregar nuevas categorías, éstas podrán ser seleccionadas al ajustar o crear un producto. Puede agregar una fotografía o ícono al nuevo tipo. Esto puede hacerse en distintos lenguajes.
+
+##### Bloque 13
+
+> For a respirator you can assign an ‘assigned protection factor’. This has to be a number >1. An assigned protection factor of 10 indicates that the estimated exposure is reduced with a factor 10. The justification of the assigned protection factor can be entered. You can indicate if the new respirator is suitable for vapours, dust or both. The new respirator can be selected in the risk assessment. The exposure calculation will then be performed with this assigned protection factor.
+
+> Para los respiradores puede indicar un "factor de protección asignado". Éste debe ser un número mayor a 1. Un factor de protección asignado de 10 indica que la exposición estimada se reduce por un factor de 10. Puede introducirse una justificación para el factor de protección asignado. Además, puede indicar si el nuevo respirador es adecuado para vapores, polvos o ambos. El nuevo respirador puede ser seleccionado en la evaluación de riesgo. El cálculo de la exposición será entonces calculado con el factor de protección asignado de éste.
+
+##### Bloque 14
+
+> <u>Hazardous substances lists</u>
+> At hazardous substances lists ([death risk icon]) you have an overview of different lists that can be activated for data comparison. This can be CMR-lists of different countries or other lists e.g. the REACH Substances of Very High Concern list. Cosanta will periodically upload these lists into Stoffenmanager®. You can select which lists can be used by the users in your company. Subsequently, each user (in the ‘Settings > my account > preferences) selects from the enabled lists which one(s) are to be used in their specific user account.
+
+> <u>Listas de Sustancias Peligrosas</u>
+> En Listas de sustancias peligrosas ([ícono de riesgo de muerte]) encontrará un resumen de las distintas listas que pueden activarse para la comparación de información. Éstas pueden ser listas de CMR de distintos países u otras listas, p. ej. la lista REACH de sustancias extremadamente preocupantes. Cosanta cargará periódicamente éstas listas a Stoffenmanager®. Aquí, puede seleccionar cuales listas podrán ser usadas por los usuarios de su compañía. Luego, cada usuario (en Configuración> mi cuenta > preferencias) seleccionará de entre las listas permitidas cuales usará en su cuenta específica.

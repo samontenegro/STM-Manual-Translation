@@ -256,12 +256,12 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 
 
-| Nr.     | Version | Fecha   | Tipo | Referencia  | Descripción                                                  |
-| ------- | :-----: | ------- | ---- | ----------- | :----------------------------------------------------------- |
-| **109** |   2.7   | 10-2018 | New  | -           | Sitio web cambiado a www.stoffenmanager.com                  |
-| **110** |   2.7   | 10-2018 | New  | -           | Interfaz de usuario cambiada - nuevo flujo de trabajo        |
-| **111** |   2.7   | 10-2018 | New  | -           | Stoffenmanager® es ahora responsivo para uso en tableta y smartphone |
-| **112** |   2.7   | 10-2018 | New  | § 4.4 y 4.5 | Procesos y áreas de trabajo pueden ser asignadas a ubicaciones |
+| Nr.     | Version | Fecha   | Tipo  | Referencia  | Descripción                                                  |
+| ------- | :-----: | ------- | ----- | ----------- | :----------------------------------------------------------- |
+| **109** |   2.7   | 10-2018 | Nuevo | -           | Sitio web cambiado a www.stoffenmanager.com                  |
+| **110** |   2.7   | 10-2018 | Nuevo | -           | Interfaz de usuario cambiada - nuevo flujo de trabajo        |
+| **111** |   2.7   | 10-2018 | Nuevo | -           | Stoffenmanager® es ahora responsivo para uso en tableta y smartphone |
+| **112** |   2.7   | 10-2018 | Nuevo | § 4.4 y 4.5 | Procesos y áreas de trabajo pueden ser asignadas a ubicaciones |
 
 [Tabla de Contenidos](#tabla-de-contenidos)
 
@@ -522,3 +522,112 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 > <u>Listas de Sustancias Peligrosas</u>
 > En Listas de sustancias peligrosas ([ícono de riesgo de muerte]) encontrará un resumen de las distintas listas que pueden activarse para la comparación de información. Éstas pueden ser listas de CMR de distintos países u otras listas, p. ej. la lista REACH de sustancias extremadamente preocupantes. Cosanta cargará periódicamente éstas listas a Stoffenmanager®. Aquí, puede seleccionar cuales listas podrán ser usadas por los usuarios de su compañía. Luego, cada usuario (en Configuración> mi cuenta > preferencias) seleccionará de entre las listas permitidas cuales usará en su cuenta específica.
+
+##### Bloque 15
+
+> Components in your account will be compared with substances on these lists using the CAS-number as a reference. If your CMR-component is on one of these lists it will be indicated with the ([red warning icon]) icon. If it is on one of the other lists you can activate the column ‘Lists of hazardous substances’ in the component overview and by the icon ([orange warning icon]).
+
+> Los componentes en su cuenta serán comparados con las sustancias en éstas listas usando el número CAS como referencia. Si su componente CMR se encuentra en alguna de estas listas, se indicará con el ícono ([ícono rojo de advertencia]). Si se encuentra en alguna de las otras, puede activar la columna "Lista de sustancias peligrosas" en el resumen de componentes y se indicará con el ícono ([ícono naranja de advertencia]).
+
+##### Bloque 16
+
+> ​	Example:
+>
+> - Cosanta has uploaded 5 different CMR-lists (NL, BE, DE, ES, FI) into Stoffenmanager® and one REACH-SHVC list
+> - As an administrator, you only select two CMR-lists (Netherlands  and Belgium) because you have factories in those two countries only.
+> - All users without administrator rights can only see the Dutch and Belgian lists. The users in the Netherlands can activate the Dutch list. The users in Belgium can activate the Belgian list.
+
+> ​	Ejemplo:
+>
+> - Cosanta ha cargado cinco listas CMR distintas (NL, BE, DE, ES, FI) a Stoffenmanager® y una lista REACH-SHVC
+> - Como administrador, puede seleccionar solo dos listas CMR (Países Bajos y Bélgica) porque solo tiene fábricas en esos países.
+> - Todos los usuarios sin privilegios de administrador solo pueden ver la lista belga y la holandesa. Los usuarios de los Países Bajos solo pueden activar la lista holandesa, mientras que los usuarios en Bélgica solo pueden activar la lista belga.
+
+##### Bloque 17
+
+> ​	The following lists are currently available in Stoffenmanager®
+
+> ​	A continuación se muestran las listas disponibles en Stoffenmanager®
+
+##### Bloque 18
+
+> ​	CMR-lists
+>
+> - Dutch CMR-list as published twice per year in the Staatscourant, https://tinyurl.com/yc3zendx
+> - The German list of carcinogenic and mutagenic substances category 1A and 1B. More information can be found here: https://www.dguv.de/ifa/fachinfos/kmr-liste/index.jsp
+
+> ​	Listas CMR
+>
+> - La lista holandesa, según la publicación bianual en el Staatscourant, https://tinyurl.com/yc3zendx
+> - La lista alemana de sustancias carcinogénicas y mutagénicas de categoría 1A y 1B. Más información al respecto puede encontrarse aquí: https://www.dguv.de/ifa/fachinfos/kmr-liste/index.jsp
+
+##### Bloque 19
+
+> Other hazardous substances list:
+>
+> -  Dutch list of substances of very high concern (ZZS-list), published by the Dutch National Institute for Public Health and the Environment (RIVM) which is a combination of multiple lists:<br>https://rvs.rivm.nl/zoeksysteem/ZZSlijst/TotaleLijst and https://rvs.rivm.nl/stoffenlijsten/Zeer-Zorgwekkende-Stoffen
+> - Dutch list of **potential** substances of very high concern (ZZS-list), published by the Dutch National Institute for Public Health and the Environment (RIVM): https://rvs.rivm.nl/stoffenlijsten/Zeer-Zorgwekkende-Stoffen/Potentiele-ZZS
+> - REACH authorisation list: https://echa.europa.eu/authorisation-list
+> - REACH SVHC list: https://echa.europa.eu/candidate-list-table
+> - ChemSec SIN (Substitute It Now) list: http://sinlist.chemsec.org/
+
+> Otras listas de sustancias peligrosas:
+>
+> - Lista holandesa de sustancias de extrema preocupación (lista ZZS), publicada por el Instituto Nacional Holandés de Salud Pública y Medio Ambiente (RIVM), que es una combinación de múltiples listas:<br>https://rvs.rivm.nl/zoeksysteem/ZZSlijst/TotaleLijst and https://rvs.rivm.nl/stoffenlijsten/Zeer-Zorgwekkende-Stoffen
+> - Lista holandesa de sustancias **candidatas** extremadamente preocupantes (lista ZZS), publicada por el Instituto Nacional Holandés de Salud Pública y Medio Ambiente (RIVM):  https://rvs.rivm.nl/stoffenlijsten/Zeer-Zorgwekkende-Stoffen/Potentiele-ZZS
+> - Lista de autorización REACH: https://echa.europa.eu/authorisation-list
+> - Lista SVHC de REACH: https://echa.europa.eu/candidate-list-table
+> - Lista ChemSec SIN ('Substitute It Now'): http://sinlist.chemsec.org/
+
+##### Bloque 20
+
+> Please note: only with their CAS-number are components compared with these lists. If the CAS-number is listed in one of these lists, this will be indicated in a separate column in the component-overview, the product overview and the risk assessment overview.
+
+> Nota: los componentes se comparan con las listas únicamente mediante sus números CAS. Si el número CAS aparece en alguna de éstas listas, se indicará en una columna separada del resumen de componente, el resumen de producto y el resumen de evaluación de riesgo.
+
+##### Bloque 21
+
+> <u>​Import</u>
+> At ‘Import’ data can be imported from another database using XML-files. A product set can be added and coupled to one or more particular locations.	
+
+> <u>Importar</u>
+> En "Importar", puede importar información de otras bases de datos usando archivos XML. Un set de productos puede añadirse y acoplarse a una o más ubicaciones particulares.
+
+##### Bloque 22
+
+> NB*: For it to be possible to work with the imported data, the correct data must be supplied by the external software package. This would mean, for example, the vapour pressure in Pascal, occupational exposure limit values in mg/m<sup>3</sup> and the appearance (solid / liquid) of the products. More information about how to create an XML file and the conditions that the file must comply to are provided in the document entitled, Exporting Product Data for Stoffenmanager® 8. This document can be requested via info@cosanta.nl. To import products, the administrator follows the steps below:	
+
+*Significado de siglas desconocido. No traducidas.
+
+> NB: Para que sea posible trabajar con la información importada, el software externo debe proveer la información correcta. Esto significa que, por ejemplo, la presión de vapor en Pascal, los valores límite de exposición ocupacional en mg/m<sup>3</sup> y la apariencia (sólido/líquido) de los productos. Más información acerca de cómo crear un archivo XML y las especificaciones que debe cumplir el archivo están disponibles en el documento titulado "Exportando Información de Producto para Stoffenmanager® 8". Este documento puede ser solicitado por correo electrónico a través de info@cosanta.nl. Para importar productos, el administrador debe seguir los pasos siguientes:
+
+##### Bloque 23
+
+> Step 1) Select file
+>
+> - Click on the Browse button and select the import file from your local drive. If the file is too big (max 40MB), an error message will appear. In this case, the import file can be split into smaller import files (all of which must be valid). These must then be imported as separate ‘sets’.
+> - Select a product set or create a new one. The default product set is ‘Stoffenmanager®’. All manually entered data is also stored in this product set. NB: when you import data only once we advise to import data into the Stoffenmanager® product set instead of creating a new product set.
+>   - Create a new product set: click on the Add icon ([pencil icon])
+>   - Enter a name for the new product set and indicate if the product set is ‘read-only’. In that case, the information cannot be adjusted in Stoffenmanager®.
+>   - Click on the Save button
+>   - Select the added product set
+> - Indicate if archived products and components need to be dearchived when importing data. If you select ‘yes’ these components and products are activated and updated. If you select ‘no’ these products remain archived.
+> - Select ‘Create a new version of modified components and products instead of updating the existing version’ if a new version needs to be created for products and components. If you don’t select this item the existing data is overwritten by the import.
+> - Select ‘Create a new version of a product if a product contains an updated version of a component in the import file’ if a new version of the component also should lead to a new version of the product.
+> - Select if necessary a location for which the products are relevant. For the imported products to be visible/usable from all locations, the top (default) location must be selected. If the import file contains locations for products, the information in the xml-file is leading. You can also assign products to the digital product depot here.
+> - Click on ‘next page’.
+
+> ​	Paso 1) Seleccione el archivo
+>
+> - Haga clic en "Buscar" y seleccione el archivo a importar desde su disco duro. Si el archivo es muy grande (máx. 40MB), aparecerá un mensaje de error. En este caso, el archivo a importar puede ser dividido en archivos más pequeños (los cuales deben ser todos válidos). Éstos deberán ser importados luego como sets separados.
+> - Seleccione un set de productos o cree uno nuevo. El set de productos por defecto es "Stoffenmanager®". Toda la información introducida manualmente también será almacenada en este set de productos. NB: si importará información solo una vez, recomendamos que importe información al set de productos "Stoffenmanager®" en lugar de crear un set de productos nuevo.
+>   - Cree un nuevo set de productos: haga clic sobre el ícono "Agregar" ([ícono de lápiz])
+>   - Introduzca un nombre para el nuevo set de productos e indique si el set de productos es de solo lectura. En este caso, la información no podrá ser modificada en Stoffenmanager®.
+>   - Haga clic sobre el botón de "Guardar"
+>   - Seleccione el set de productos añadido.
+> - Indique si los productos y componentes archivados necesitan ser desarchivados al importar información. De seleccionar "sí", éstos serán activados y actualizados. De seleccionar "no" éstos permanecerán archivados.
+> - Seleccione "Crear una nueva versión de productos y componentes modificados en lugar de actualizar la versión existente" si es necesario crear una nueva versión para productos y componentes. Si no selecciona esta opción, la información existente será sobrescrita por la importada. 
+> - Seleccione "Crear una nueva versión de un producto si un producto contiene una versión actualizada de un componente en el archivo importado" si desea que una nueva versión de un componente genere una nueva versión de un producto. 
+> - Seleccione, de ser necesario, una ubicación para la cual los productos serán relevantes. Para que los productos importados sean visibles/usables desde todas las ubicaciones, seleccione la opción al tope ("Por Defecto"). Si el archivo a importar contiene ubicaciones para los productos, la información en el archivo XML será la predominante. También podrá asignar productos al almacén digital de productos aquí.
+> - Haga clic en "siguiente página".
+

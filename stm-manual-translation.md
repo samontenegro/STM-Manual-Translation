@@ -518,7 +518,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 ##### Bloque 14
 
 > <u>Hazardous substances lists</u>
-> At hazardous substances lists ([death risk icon]) you have an overview of different lists that can be activated for data comparison. This can be CMR-lists of different countries or other lists e.g. the REACH Substances of Very High Concern list. Cosanta will periodically upload these lists into Stoffenmanager®. You can select which lists can be used by the users in your company. Subsequently, each user (in the ‘Settings > my account > preferences) selects from the enabled lists which one(s) are to be used in their specific user account.
+> At Hazardous substances lists ([death risk icon]) you have an overview of different lists that can be activated for data comparison. This can be CMR-lists of different countries or other lists e.g. the REACH Substances of Very High Concern list. Cosanta will periodically upload these lists into Stoffenmanager®. You can select which lists can be used by the users in your company. Subsequently, each user (in the ‘Settings > my account > preferences) selects from the enabled lists which one(s) are to be used in their specific user account.
 
 > <u>Listas de Sustancias Peligrosas</u>
 > En Listas de sustancias peligrosas ([ícono de riesgo de muerte]) encontrará un resumen de las distintas listas que pueden activarse para la comparación de información. Éstas pueden ser listas de CMR de distintos países u otras listas, p. ej. la lista REACH de sustancias extremadamente preocupantes. Cosanta cargará periódicamente éstas listas a Stoffenmanager®. Aquí, puede seleccionar cuales listas podrán ser usadas por los usuarios de su compañía. Luego, cada usuario (en Configuración> mi cuenta > preferencias) seleccionará de entre las listas permitidas cuales usará en su cuenta específica.
@@ -617,17 +617,111 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 > - Select if necessary a location for which the products are relevant. For the imported products to be visible/usable from all locations, the top (default) location must be selected. If the import file contains locations for products, the information in the xml-file is leading. You can also assign products to the digital product depot here.
 > - Click on ‘next page’.
 
-> ​	Paso 1) Seleccione el archivo
+> Paso 1) Seleccione el archivo
 >
-> - Haga clic en "Buscar" y seleccione el archivo a importar desde su disco duro. Si el archivo es muy grande (máx. 40MB), aparecerá un mensaje de error. En este caso, el archivo a importar puede ser dividido en archivos más pequeños (los cuales deben ser todos válidos). Éstos deberán ser importados luego como sets separados.
+> - Haga clic en Buscar y seleccione el archivo a importar desde su disco duro. Si el archivo es muy grande (máx. 40MB), aparecerá un mensaje de error. En este caso, el archivo a importar puede ser dividido en archivos más pequeños (los cuales deben ser todos válidos). Éstos deberán ser importados luego como sets separados.
 > - Seleccione un set de productos o cree uno nuevo. El set de productos por defecto es "Stoffenmanager®". Toda la información introducida manualmente también será almacenada en este set de productos. NB: si importará información solo una vez, recomendamos que importe información al set de productos "Stoffenmanager®" en lugar de crear un set de productos nuevo.
->   - Cree un nuevo set de productos: haga clic sobre el ícono "Agregar" ([ícono de lápiz])
+>   - Cree un nuevo set de productos: haga clic sobre el ícono Agregar ([ícono de lápiz])
 >   - Introduzca un nombre para el nuevo set de productos e indique si el set de productos es de solo lectura. En este caso, la información no podrá ser modificada en Stoffenmanager®.
->   - Haga clic sobre el botón de "Guardar"
+>   - Haga clic sobre el botón Guardar
 >   - Seleccione el set de productos añadido.
 > - Indique si los productos y componentes archivados necesitan ser desarchivados al importar información. De seleccionar "sí", éstos serán activados y actualizados. De seleccionar "no" éstos permanecerán archivados.
 > - Seleccione "Crear una nueva versión de productos y componentes modificados en lugar de actualizar la versión existente" si es necesario crear una nueva versión para productos y componentes. Si no selecciona esta opción, la información existente será sobrescrita por la importada. 
 > - Seleccione "Crear una nueva versión de un producto si un producto contiene una versión actualizada de un componente en el archivo importado" si desea que una nueva versión de un componente genere una nueva versión de un producto. 
 > - Seleccione, de ser necesario, una ubicación para la cual los productos serán relevantes. Para que los productos importados sean visibles/usables desde todas las ubicaciones, seleccione la opción al tope ("Por Defecto"). Si el archivo a importar contiene ubicaciones para los productos, la información en el archivo XML será la predominante. También podrá asignar productos al almacén digital de productos aquí.
 > - Haga clic en "siguiente página".
+
+##### Bloque 24
+
+> Step 2) Import data overview
+>
+> - An overview is presented of the products and components that are about to be imported
+> - A list is also presented of products that will not be imported. This can be for different reasons:
+>   - A product refers to a component that has not been defined in the import document, nor does it yet exist in Stoffenmanager®
+>   - Hazard- or precautionary statements have been used that are not recognized
+>   - Mandatory fields are lacking
+>   - A product is archived and needs to remain archived. It will not be imported again.
+> - Proceed to import the approved products and components, or stop now and first update the import document
+> - To proceed, click on the Import button
+
+> Paso 2) Resumen de importación
+>
+> - Se presenta un resumen de los componentes y productos a ser importados
+> - Además, se presenta una lista de los productos que no serán importados. Esto puede deberse a distintas razones:
+>   - Un producto hace referencia a un componente que no ha sido definido en el documento de importación y que tampoco está presente en Stoffenmanager®
+>   - Se han usado declaraciones de peligro o de precaución que no han sido reconocidos
+>   - No se han llenado campos obligatorios
+>   - Un producto está archivado y necesita mantenerse archivado. No será importado de nuevo
+> - Proceda a importar los componentes y productos aprobados, o detenga la importación y modifique el documento de importación primero.
+> - Para proceder, haga clic en el botón Importar
+
+##### Bloque 25
+
+> Step 3) Log result
+> This screen provides an overview of the total number of products and components that have been successfully imported. Now, these products can be checked, updated or assessed.
+
+> Paso 3) Registro de Resultados
+> Esta pantalla provee un resumen del número total de componentes y productos que han sido importados exitosamente. Ahora, éstos productos podrán ser chequeados, actualizados o evaluados.
+
+##### Bloque 26
+
+> **Please note**: existing product data will be overwritten by the new data. This is of no consequence when a product remains unchanged. If the product data have changed, the completed risk assessment may be affected and this should be checked.
+
+> **Nota**: la información de producto será sobrescrita con la información nueva. Sin embargo, esto no tendrá consecuencias si el producto no ha sido modificado. Si la información de producto ha cambiado, la evaluación de riesgo puede ser afectada y esto debe ser revisado.
+
+##### Bloque 27
+
+> <u>Assigning and unassigning locations</u>
+> At assigning and unassigning location ([robot arm icon]) it is possible to quickly couple multiple products or risk assessments to other locations. For example, it is possible to couple all your products at once to a new location that you just created.
+
+> ​<u>Asignar y remover ubicaciones</u>
+> En Asignar y remover ubicaciones ([ícono de brazo robótico]) es posible acoplar múltiples productos o evaluaciones de riesgo rápidamente a otras ubicaciones. Por ejemplo, es posible acoplar todos sus productos, al mismo tiempo, a una nueva ubicación recién creada.
+
+##### Bloque 28
+
+> The bulk assigning is a stepwise process. Step 1 is to indicate if you like to change the location of products or risk assessments. By clicking ‘next page’ you will see a list of products or risk assessments. Here you can select all relevant items that need to be reassigned. To select all items (e.g. all products) make sure that all items are presented on the screen by changing the number of items per page.
+
+> La asignación en masa es un proceso paso a paso. El paso 1 es indicar si desea cambiar la ubicación de productos o evaluaciones de riesgo. Al hacer clic en "siguiente página", verá una lista de productos o evaluaciones de riesgo. Aquí podrá seleccionar todos los artículos que necesitan ser reasignados. Para seleccionar todos los artículos (p. ej. todos los productos) asegúrese de que todos los artículos aparezcan en la página cambiando el número de artículos por pagina.
+
+##### Bloque 29
+
+> Subsequently, you choose whether you like to assign / unassign locations and after this you select the relevant locations. Here you can also assign products to the Digital Product Depot. By selecting next page the process starts and products or risk assessments are assigned or unassigned.
+
+> Luego, deberá escoger si desea asignar/remover ubicaciones y después seleccionar las ubicaciones relevantes. Aquí también podrá asignar productos al Almacén Digital de Productos. Al seleccionar "siguiente página" el proceso empieza y los productos y evaluaciones de riesgo son asignados o removidos.
+
+##### Bloque 30
+
+> You will receive notice if a connection or disconnection is not possible, e.g. when a risk assessment for a product at a specific location is performed.
+
+> Si alguna conexión o desconexión no es posible, recibirá una notificación; p. ej. cuando se realice la evaluación de riesgo para un producto en una ubicación específica.
+
+##### Bloque 31
+
+> <u>Product sets</u>
+> At product sets ([three stacks icon]) you can manage and delete product sets if necessary. A product set is a way of keeping certain imported products together within Stoffenmanager®. A product set can be created. Where products are used within Stoffenmanager® it is possible to filter on product set. One product set is named Stoffenmanager®. This set contains the group of products that has been manually entered in Stoffenmanager®. It is also possible to import data into this default product set, without creating a new product set.
+
+> <u>Sets de productos</u>
+> En Sets de productos ([ícono de tres pilas]) puede administrar y eliminar sets de productos, de ser necesario. Un set de productos es una forma de agrupar ciertos productos importados dentro de Stoffenmanager®. Puede crearse un set de productos. En las funcionalidades de Stoffenmanager® que utilizan productos, es posible filtrar sobre los sets de productos. Uno de los sets de productos es denominado "Stoffenmanager®". Este set contiene el grupo de productos que han sido introducidos manualmente a Stoffenmanager®. También es posible importar información a este set de productos por defecto, sin crear un nuevo set.
+
+##### Bloque 32
+
+> Each product set can be opened to view how many risk assessments have been performed for products within a product set. It is also possible to assign ‘read only’ rights to a product set. In this way it is not possible to change the data of this product set.
+
+> Cada set de productos puede ser revisado para ver cuantas evaluaciones de riesgo han sido realizadas por producto en un set específico. También es posible asignar permisos de solo lectura a un set de productos. De esta forma, no es posible modificar la información del set de productos.
+
+##### Bloque 33
+
+> **Locations**
+> Locations are hierarchically structured entities that serve to provide a structure in which data can be ordered, sorted and filtered. Products and risk assessments can be coupled to a single location. Subsequently, these products and risk assessments can be retrieved or filtered by the location to which they are coupled. At ‘Location Management’ the new locations can be created, updated, deleted or archive. It is also possible to change the hierarchical structure of the locations by dragging them to their new positions.
+
+> **Ubicaciones**
+> Las ubicaciones son entidades jerarquizadas que sirven para proveer una estructura sobre la cual puede ordenarse, arreglarse y filtrarse la información. Los productos y las evaluaciones de riesgo pueden ser acopladas a una ubicación particular. Luego, estos productos y evaluaciones de riesgo pueden ser recuperadas o filtradas por la ubicación a la cual se encuentran acopladas. En Gestión de ubicaciones se pueden crear, actualizar, archivar o eliminar nuevas ubicaciones. Además, es posible cambiar la estructura jerárquica de las ubicaciones arrastrándolas a sus nuevas posiciones.
+
+##### Bloque 34
+
+> Give the new location to be created a name and select the location or department under which this location will sit. If the main location does not yet exist, create it by clicking on ‘Add’. To delete or archive a location, select the relevant location and click on ‘Delete’ or ‘archive’. This can only be done if no products or risk assessments have been coupled to this location. Locations that are archived can be activated (dearchive) again.
+
+> De un nombre a la ubicación por crear y seleccione la ubicación o departamento que le precederá en jerarquía. Si una ubicación principal no existe aún, puede crearla haciendo clic en "Agregar". Para eliminar o archivar una ubicación, seleccione la ubicación en cuestion y haga clic en "Eliminar" o "Archivar". Esto solo puede hacerse si ningún producto o evaluación de riesgo han sido acoplados a la ubicación. Las ubicaciones archivadas pueden ser activadas (desarchivadas) de nuevo. 
+
+
 

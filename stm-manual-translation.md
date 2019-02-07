@@ -1020,7 +1020,8 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 > - Components that have been added to the product can directly be opened by clicking the component name. The component screen opens and data can be adjusted or viewed. After saving or closing you return to the product edit screen.
 > - Components that are connected to the product can directly be deleted even if they are used in a risk assessment. By deleting the component the risk assessment or job daily average calculation needs to be recalculated. Before deleting a ‘confirm your choice’-box appears.
 
-> Información de salud y seguridad
+> **Información de salud y seguridad**
+>
 > En Información de salud y seguridad podrá introducir la siguiente información:
 >
 > - Información de salud y seguridad: Aquí, pueden seleccionarse las declaraciones H/P o frases R/S , según aparezcan en la HIS. Las declaraciones H y P  de Stoffenmanager®  están basadas en los sistemas UN-GHS y EU-CLP. Las declaraciones legalmente expiradas aparecerán tachadas en la caja de selección. Por razones históricas, estas declaraciones aun podrán ser seleccionadas y usadas en Stoffenmanager®. El convertidor CLP hace posible convertir frases R a declaraciones H. Al seleccionar declaraciones H o frases R, se indica la clase de peligro del producto junto a la caja de selección ("-" no hay peligro, "A" menos peligroso - "E" más peligroso). Para cada declaración H o frase R, se indica la clase de peligro correspondiente. Desde Stoffenmanager® 7.1,  se aplica el método de bandas de riesgo descrito por Arnone et. Al (2015). En pantalla de resumen de producto, podrá filtrar los productos por clase de peligro.<br>Sugerencia: mantenga presionada la tecla CTRL para seleccionar múltiples declaraciones H o P.

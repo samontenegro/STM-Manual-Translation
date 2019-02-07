@@ -14,6 +14,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 4. [Introduccion](#introduccion)
 5. [Panel de Control](#panel-de-control)
 6. [Configuracion](#configuracion)
+7. [Inventario](#inventario)
 
 # Portada
 
@@ -365,16 +366,18 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 ##### Bloque 2
 
-> My company
+> **My company**
 
->Mi compañía
+>**Mi compañía**
 
 ##### Bloque 3
 
 > <u>Company information</u>
+>
 > At company information ([building icon]) the company's address details can be entered or updated. Here, the name can be entered of the company's internal contact person or coordinator for Stoffenmanager®. A company logo can be uploaded here. This logo will be displayed on the reports and workplace instruction cards.	
 
 > <u>Información de Compañía</u>
+>
 > En "Información de Compañía"† ([ícono de edificio]) los detalles de dirección de la compañía pueden ser introducidos o actualizados. Aquí puede introducirse el nombre de la persona de contacto interno o coordinador de Stoffenmanager® para la compañía. Además, aquí puede cargarse el logotipo de la compañía. Este logotipo aparecerá en los reportes y en las tarjetas de instrucciones del ambiente de trabajo*.		
 
 †Modificado del original por motivo de contexto: comillas denotan nombre propio
@@ -383,6 +386,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 ##### Bloque 4
 
 > <u>General settings</u>
+>
 > Here you will find general settings ([alt. cogwheel icon]) for different functionalities in Stoffenmanager®.
 >
 > - Allow the use of the Digital Product Depot (see § 4.7)
@@ -391,6 +395,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 > - Data update & synchronization. With this functionality you can directly update all versions of products and risk assessments and recalculate all scenarios. All products are coupled to the latest versions of components, all risk assessments to the most recent version of the products etc. Items that are archived or available in a read-only product set are not updated. You can choose to save adjusted information as ‘new version’
 
 > <u>Ajustes Generales</u>
+>
 > Aquí encontrará los ajustes generales ([ícono de engranaje alt.]) para distintas funcionalidades de Stoffenmanager®.
 >
 > - Habilitar el uso del Almacén Digital de Productos (ver § 4.7)
@@ -401,23 +406,27 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 ##### Bloque 4
 
 > ​<u>Notification settings</u>
+>
 > At notification settings ([bell icon]), it is possible to define default validity dates for products and risk assessments, e.g. 1 year for a risk assessment with a CMR-substance. When the validity date is expired this triggers a notification and the product or risk assessment is highlighted in the product or risk assessment overview. In this way, the current status of the products and risk assessments can be quickly viewed. Please note: for each individual risk assessment and product a specific expiration data can also be entered. This can be done in the first screen for the risk assessment or for the product. This specific data overrules the generic entered date.
 
 > <u>Ajustes de Notificación</u>
+>
 > En ajustes de notificación ([ícono de campana]), es posible definir fechas de validez por defecto para productos y evaluaciones de riesgo; p. ej. 1 año para una evaluación de riesgo con una sustancia CMR. Al expirar la fecha de validez, se activa una notificación que resalta el producto o la evaluación de riesgo en el resumen del producto o la evaluación. De esta manera, el estado actual de los productos y las evaluaciones de riesgo puede ser revisada rápidamente. Nota: para cada evaluación de riesgo o producto individual también puede introducirse información de expiración específica. Esto puede hacerse desde la primera pantalla para la evaluación de riesgo o producto. Esta información específica anulará la fecha por defecto.
 
 ##### Bloque 5
 
-> ​	Specific expiration data
+> Specific expiration data
 
-> ​	Información de expiración específica
+> Información de expiración específica
 
 ##### Bloque 6
 
 > ​<u>Custom product fields</u>
+>
 > Within each premium account, 10 additional product data fields can be created that can be entered at product information. Select ‘Add column’ to create a new product field. Give the field a name and select ‘save’.	
 
 > <u>Campos de producto personalizados</u>
+>
 > Para cada cuenta premium, pueden introducirse hasta 10 campos de información de producto adicionales en "Información de Producto"*. Seleccione "Agregar Columna" para crear un nuevo campo de producto. Asigne un nombre para el campo y seleccione "guardar".
 
 *Modificado del original por motivo de contexto: comillas denotan nombre propio
@@ -431,6 +440,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 ##### Bloque 8
 
 > <u>​Stoffenmanager® SHARE</u>
+>
 > With Stoffenmanager® SHARE ([shared doc. icon]) you can publish SDS and workplace instruction cards (WIC) to external users without Stoffenmanager® account. Each publication can be limited to a specific set of locations. For each publication, you create a unique URL of 64 characters that can be shared with other users.
 >
 > - Click on ‘new publication’
@@ -445,6 +455,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 > - You can generate multiple publication links	
 
 > <u>Stoffenmanager® SHARE</u>
+>
 > Con Stoffenmanager® SHARE ([ícono de doc. compartido]) puede publicar HIS* y tarjetas de instrucciones del ambiente de trabajo (TIAT)† para usuarios externos sin cuentas de Stoffenmanager®. Cada publicación puede ser restringida a un conjunto específico de ubicaciones. Para cada publicación, se crea un URL único de 64 caracteres que puede ser compartido con otros usuarios.
 >
 > - Haga click en "nueva publicación"
@@ -494,9 +505,11 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 ##### Bloque 11
 
 > <u>WIC Templates</u>
+>
 > In Stoffenmanager® there are different Workplace instruction card (WIC)-templates. These are a comprised version of the product information entered and give you instructions on the use of the product. At WIC-templates ([template icon]) you can select which templates can be used within your company and which template will be the default one.	
 
 > <u>Plantillas TIAT</u>
+>
 > En Stoffenmanager® hay distintas plantillas para Tarjetas de instrucciones del ambiente laboral. Estas contienen la información de cada producto y proveen instrucciones sobre su uso*. En Plantillas TIAT ([ícono de plantilla]) puede seleccionar cuales plantillas pueden usarse en su compañía y cual plantilla será la predeterminada.
 
 *Traducción inferida del contexto; revisar el uso de "comprised" en texto original
@@ -504,9 +517,11 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 ##### Bloque 12
 
 > <u>Custom personal protective equipment</u> 
+>
 > At custom personal protective equipment ([gas mask icon]) you can create additional company-specific personal protective equipment devices for each category (respiratory, protective clothing, gloves and eye- and face protection). After adding new categories these can be selected when adjusting or creating a product. You can upload an existing or own icon / picture to the new type. This can be done in multiple languages.
 
 > <u>Equipo de protección personalizado</u> 
+>
 > En Equipo de protección personalizado ([ícono de máscara de gas]) puede crear equipos de protección personal adicionales, específicos de su compañía, para cada categoría (respiratorio, ropa protectora, guantes y protección de ojos-y-cara). Después de agregar nuevas categorías, éstas podrán ser seleccionadas al ajustar o crear un producto. Puede agregar una fotografía o ícono al nuevo tipo. Esto puede hacerse en distintos lenguajes.
 
 ##### Bloque 13
@@ -518,9 +533,11 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 ##### Bloque 14
 
 > <u>Hazardous substances lists</u>
+>
 > At Hazardous substances lists ([death risk icon]) you have an overview of different lists that can be activated for data comparison. This can be CMR-lists of different countries or other lists e.g. the REACH Substances of Very High Concern list. Cosanta will periodically upload these lists into Stoffenmanager®. You can select which lists can be used by the users in your company. Subsequently, each user (in the ‘Settings > my account > preferences) selects from the enabled lists which one(s) are to be used in their specific user account.
 
 > <u>Listas de Sustancias Peligrosas</u>
+>
 > En Listas de sustancias peligrosas ([ícono de riesgo de muerte]) encontrará un resumen de las distintas listas que pueden activarse para la comparación de información. Éstas pueden ser listas de CMR de distintos países u otras listas, p. ej. la lista REACH de sustancias extremadamente preocupantes. Cosanta cargará periódicamente éstas listas a Stoffenmanager®. Aquí, puede seleccionar cuales listas podrán ser usadas por los usuarios de su compañía. Luego, cada usuario (en Configuración> mi cuenta > preferencias) seleccionará de entre las listas permitidas cuales usará en su cuenta específica.
 
 ##### Bloque 15
@@ -531,13 +548,13 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 ##### Bloque 16
 
-> ​	Example:
+> Example:
 >
 > - Cosanta has uploaded 5 different CMR-lists (NL, BE, DE, ES, FI) into Stoffenmanager® and one REACH-SHVC list
 > - As an administrator, you only select two CMR-lists (Netherlands  and Belgium) because you have factories in those two countries only.
 > - All users without administrator rights can only see the Dutch and Belgian lists. The users in the Netherlands can activate the Dutch list. The users in Belgium can activate the Belgian list.
 
-> ​	Ejemplo:
+> Ejemplo:
 >
 > - Cosanta ha cargado cinco listas CMR distintas (NL, BE, DE, ES, FI) a Stoffenmanager® y una lista REACH-SHVC
 > - Como administrador, puede seleccionar solo dos listas CMR (Países Bajos y Bélgica) porque solo tiene fábricas en esos países.
@@ -551,12 +568,12 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 ##### Bloque 18
 
-> ​	CMR-lists
+> CMR-lists
 >
 > - Dutch CMR-list as published twice per year in the Staatscourant, https://tinyurl.com/yc3zendx
 > - The German list of carcinogenic and mutagenic substances category 1A and 1B. More information can be found here: https://www.dguv.de/ifa/fachinfos/kmr-liste/index.jsp
 
-> ​	Listas CMR
+> Listas CMR
 >
 > - La lista holandesa, según la publicación bianual en el Staatscourant, https://tinyurl.com/yc3zendx
 > - La lista alemana de sustancias carcinogénicas y mutagénicas de categoría 1A y 1B. Más información al respecto puede encontrarse aquí: https://www.dguv.de/ifa/fachinfos/kmr-liste/index.jsp
@@ -588,9 +605,11 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 ##### Bloque 21
 
 > <u>​Import</u>
+>
 > At ‘Import’ data can be imported from another database using XML-files. A product set can be added and coupled to one or more particular locations.	
 
 > <u>Importar</u>
+>
 > En "Importar", puede importar información de otras bases de datos usando archivos XML. Un set de productos puede añadirse y acoplarse a una o más ubicaciones particulares.
 
 ##### Bloque 22
@@ -607,7 +626,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 >
 > - Click on the Browse button and select the import file from your local drive. If the file is too big (max 40MB), an error message will appear. In this case, the import file can be split into smaller import files (all of which must be valid). These must then be imported as separate ‘sets’.
 > - Select a product set or create a new one. The default product set is ‘Stoffenmanager®’. All manually entered data is also stored in this product set. NB: when you import data only once we advise to import data into the Stoffenmanager® product set instead of creating a new product set.
->   - Create a new product set: click on the Add icon ([pencil icon])
+>   - Create a new product set: click on the Add icon ([add icon])
 >   - Enter a name for the new product set and indicate if the product set is ‘read-only’. In that case, the information cannot be adjusted in Stoffenmanager®.
 >   - Click on the Save button
 >   - Select the added product set
@@ -621,7 +640,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 >
 > - Haga clic en Buscar y seleccione el archivo a importar desde su disco duro. Si el archivo es muy grande (máx. 40MB), aparecerá un mensaje de error. En este caso, el archivo a importar puede ser dividido en archivos más pequeños (los cuales deben ser todos válidos). Éstos deberán ser importados luego como sets separados.
 > - Seleccione un set de productos o cree uno nuevo. El set de productos por defecto es "Stoffenmanager®". Toda la información introducida manualmente también será almacenada en este set de productos. NB: si importará información solo una vez, recomendamos que importe información al set de productos "Stoffenmanager®" en lugar de crear un set de productos nuevo.
->   - Cree un nuevo set de productos: haga clic sobre el ícono Agregar ([ícono de lápiz])
+>   - Cree un nuevo set de productos: haga clic sobre el ícono Agregar ([ícono de agregar])
 >   - Introduzca un nombre para el nuevo set de productos e indique si el set de productos es de solo lectura. En este caso, la información no podrá ser modificada en Stoffenmanager®.
 >   - Haga clic sobre el botón Guardar
 >   - Seleccione el set de productos añadido.
@@ -672,9 +691,11 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 ##### Bloque 27
 
 > <u>Assigning and unassigning locations</u>
+>
 > At assigning and unassigning location ([robot arm icon]) it is possible to quickly couple multiple products or risk assessments to other locations. For example, it is possible to couple all your products at once to a new location that you just created.
 
 > ​<u>Asignar y remover ubicaciones</u>
+>
 > En Asignar y remover ubicaciones ([ícono de brazo robótico]) es posible acoplar múltiples productos o evaluaciones de riesgo rápidamente a otras ubicaciones. Por ejemplo, es posible acoplar todos sus productos, al mismo tiempo, a una nueva ubicación recién creada.
 
 ##### Bloque 28
@@ -698,9 +719,11 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 ##### Bloque 31
 
 > <u>Product sets</u>
+>
 > At product sets ([three stacks icon]) you can manage and delete product sets if necessary. A product set is a way of keeping certain imported products together within Stoffenmanager®. A product set can be created. Where products are used within Stoffenmanager® it is possible to filter on product set. One product set is named Stoffenmanager®. This set contains the group of products that has been manually entered in Stoffenmanager®. It is also possible to import data into this default product set, without creating a new product set.
 
 > <u>Sets de productos</u>
+>
 > En Sets de productos ([ícono de tres pilas]) puede administrar y eliminar sets de productos, de ser necesario. Un set de productos es una forma de agrupar ciertos productos importados dentro de Stoffenmanager®. Puede crearse un set de productos. En las funcionalidades de Stoffenmanager® que utilizan productos, es posible filtrar sobre los sets de productos. Uno de los sets de productos es denominado "Stoffenmanager®". Este set contiene el grupo de productos que han sido introducidos manualmente a Stoffenmanager®. También es posible importar información a este set de productos por defecto, sin crear un nuevo set.
 
 ##### Bloque 32
@@ -712,9 +735,13 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 ##### Bloque 33
 
 > **Locations**
+>
+> 
+>
 > Locations are hierarchically structured entities that serve to provide a structure in which data can be ordered, sorted and filtered. Products and risk assessments can be coupled to a single location. Subsequently, these products and risk assessments can be retrieved or filtered by the location to which they are coupled. At ‘Location Management’ the new locations can be created, updated, deleted or archive. It is also possible to change the hierarchical structure of the locations by dragging them to their new positions.
 
 > **Ubicaciones**
+>
 > Las ubicaciones son entidades jerarquizadas que sirven para proveer una estructura sobre la cual puede ordenarse, arreglarse y filtrarse la información. Los productos y las evaluaciones de riesgo pueden ser acopladas a una ubicación particular. Luego, estos productos y evaluaciones de riesgo pueden ser recuperadas o filtradas por la ubicación a la cual se encuentran acopladas. En Gestión de ubicaciones se pueden crear, actualizar, archivar o eliminar nuevas ubicaciones. Además, es posible cambiar la estructura jerárquica de las ubicaciones arrastrándolas a sus nuevas posiciones.
 
 ##### Bloque 34
@@ -723,5 +750,281 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 > De un nombre a la ubicación por crear y seleccione la ubicación o departamento que le precederá en jerarquía. Si una ubicación principal no existe aún, puede crearla haciendo clic en "Agregar". Para eliminar o archivar una ubicación, seleccione la ubicación en cuestion y haga clic en "Eliminar" o "Archivar". Esto solo puede hacerse si ningún producto o evaluación de riesgo han sido acoplados a la ubicación. Las ubicaciones archivadas pueden ser activadas (desarchivadas) de nuevo. 
 
+##### Bloque 35
 
+> **Users & permissions**
+>
+> At ‘User & permissions’ the names can be stated of those individuals within or outside the company who are authorized to work with Stoffenmanager®. A new user is added by filling in the user's email address and clicking on Create. A new page opens where you can define the rights and roles of this new users. After saving the newly created user is added to the overview list. The new user will receive an email with a link to activate the account.
 
+> **Usuarios y permisos**
+>
+> En "Usuarios y permisos" pueden establecerse los nombres de aquellos individuos, dentro o fuera de la compañía, autorizados para trabajar con Stoffenmanager®. Un nuevo usuarios es agregado llenando el campo con su correo electrónico y haciendo clic en Crear. Al hacerlo, se abrirá una nueva página donde podrá definir los permisos* y roles de éste. Luego de guardar el usuario recién creado, éste será agregado a la lista del resumen. El nuevo usuario recibirá un correo electrónico con un enlace para activar su cuenta.
+
+*"rights" interpretado como "permisos" por connotación de informática.
+
+##### Bloque 36
+
+> When creating a new user with an existing free account a warning message appears that this account already exists. There are then different options:
+>
+> - The user can delete the account by logging in and selection ‘delete account’ at ‘settings > my account > delete account’. Please note: all entered data is lost. The email address is then available again and can be added by the administrator.
+> - When the data of the free tool is important and should be kept, it is possible to merge the data of multiple free accounts into one premium account. Please contact info@cosanta.nl for more information on the options and the costs.
+
+> Al intentar crear un nuevo usuario con una cuenta gratuita existente, aparecerá un mensaje de advertencia indicando que la cuenta ya existe. Existen varias opciones para solucionar ésto: 
+>
+> - El usuario puede eliminar su cuenta iniciando sesión y seleccionando "eliminar cuenta", ubicado en "configuración" > "mi cuenta" > "eliminar cuenta". Nota: toda la información introducida será perdida. La dirección de correo electrónico en cuestión estará disponible de nuevo y podrá ser añadida por el administrador.
+> - Cuando la información contenida en la versión gratuita es importante y se desea conservar, es posible combinar la información de múltiples cuentas gratuitas en una única cuenta premium. Por favor, contacte a info@cosanta.nl para obtener más información sobre las opciones y sus costos. 
+
+##### Bloque 37
+
+> <u>Allocating rights and roles</u>
+>
+> In the overview the administrator can manage the users allowed to work in this Stoffenmanager® account. There are different options.
+
+> <u>Asignando permisos y roles</u>
+>
+> En el resumen, el administrador puede gestionar los usuarios autorizados para trabajar en su cuenta de Stoffenmanager®. Existen distintas opciones: 
+
+##### Bloque 38
+
+| Element                   | Explanation                                                  |
+| ------------------------- | ------------------------------------------------------------ |
+| ([trashcan icon])         | Delete existing user - A new user can then be added          |
+| ([key icon])              | Edit user rights - by default a new user has <u>no</u> rights. This can be adjusted by clicking this icon |
+| ([padlock recovery icon]) | Account recovery link - the user will receive an email with a link to set a new password |
+| ([stop symbol icon])      | User without assigned rights - this user has no rights and roles assigned yet |
+| Email                     | E-mail used for log-in                                       |
+| Last activity             | Last time the user has logged in in Stoffenmanager®          |
+| Is activated              | Indicates which users have already activated their account or have not yet done this |
+| ([resend icon])           | Resend account activation link. When the user did not activate the account in time, a new email with link can be sent* |
+| Two-step verification     | Can be activated by the administrator. Here you can see which users apply two-step verification |
+| Admin                     | Indicates the users with admin rights                        |
+
+*Corrregido del original "send"
+
+| Elemento                           | Descripción                                                  |
+| ---------------------------------- | ------------------------------------------------------------ |
+| ([ícono de bote de basura])        | Eliminar el usuario existente - un nuevo usuario podrá ser añadido |
+| ([ícono de llave])                 | Editar permisos de usuario - por defecto, un usuario <u>no tiene</u> permisos. Esto puede ser ajustado haciendo clic en el ícono |
+| ([ícono de recuperación])          | Enlace de recuperación de cuenta - el usuario recibirá un correo electrónico con un enlace para reestablecer su contraseña |
+| ([ícono de círculo rojo tachado ]) | Usuario sin permisos asinados - este usuario no tiene permisos o roles asignados aún. |
+| Email                              | E-mail usado para el inicio de sesión                        |
+| Última actividad                   | Última vez que el usuario ha iniciado sesión en Stoffenmanager® |
+| Esta activada                      | Indica cuales usuarios han activado sus cuentas y cuales no  |
+| ([ícono de reenviar])              | Reenviar enlace de activación de cuenta. Si el usuario no activa su cuenta a tiempo, puede enviarse un nuevo corre con el enlace |
+| Verificación de dos pasos          | Puede ser activada por el administrador. Aquí podrá ver cuales usuarios utilizan la verificación de dos pasos |
+| Admin                              | Muestra los usuarios con permisos de administrador           |
+
+##### Bloque 39
+
+> A newly created user by default has no assigned rights. These should be assigned by the administrator. In order to give a user particular rights and roles, click on the icon ‘Edit user rights’ ([key icon]). A user can also be allocated administrator rights. A user with no assigned rights can be recognized by the ([stop symbol icon]) icon.
+
+> Un usuario recién creado, por defecto, no tiene permisos asignados. Éstos deberán ser asignados por el administrador. Para dar permisos y roles a un usuario particular, haca clic en el ícono "Editar permisos de usuario" ([ícono de llave]). A un usuario también le pueden ser asignados permisos de administrador. Puede reconocerse a un usuario sin permisos asignados mediante el ícono ([ícono de círculo rojo tachado]).
+
+##### Bloque 40
+
+> After clicking on the icon ‘Update* User Rights’ ([ícono de llave]), the administrator arrives at an overview screen in which he or she can select / deselect items as appropriate to select those rights a user is going to receive. By default, a new user has no assigned rights. The rights apply at the level of each location and each functionality. The administrator can give rights to read, edit and delete. Some rights, such as rights to read, edit or delete a component, are not location-specific. This means that the rights cannot be instituted for each location but apply to the entire company. Clicking on the black arrow that appears at the top right-hand corner of the table takes the administrator to the next columns of functionalities located to the right. Click the ‘save’ button at the foot of the page to finish allocating rights and roles.
+
+*Interpretado como "Edit", según especifica el parágrafo anterior. 
+
+> Luego de hacer clic en el ícono "Editar permisos de usuario", el administrador es llevado a una vista donde él o ella puede seleccionar/deseleccionar ítems para establecer los permisos que dicho usuario recibirá. Por defecto, un usuario nuevo no posee permisos asignados. Los permisos se aplican por niveles para cada ubicación y cada funcionalidad. El administrador puede asignar permisos para leer, editar y eliminar. Algunos permisos, como el de leer, editar y eliminar un componente, pueden ser globales†. Esto significa que los permisos no podrán ser aplicados para una ubicación en específico sino que aplicarán para toda la compañía. Al hacer clic en la flecha negra, se mostrarán las columnas para el resto de las funcionalidades. Haca clic en el botón de "guardar" al pie de la página para terminar de asignar permisos y roles.
+
+†Interpretado de "not location-specific".
+
+##### Bloque 41
+
+> **My account**
+>
+> <u>Your information</u>
+>
+> At ‘your information’ ([ID card icon]) you can enter the following information:
+>
+> - Your name
+> - Your e-mail address. You can also change your e-mail address here.
+> - Your function
+
+> **Mi cuenta**
+>
+> <u>Tu información</u>
+>
+> En "Tu información" ([ícono de tarjeta de identificación]) podrá ingresar la siguiente información:
+>
+> - Su nombre
+> - Su e-mail. También podrá cambiar su e-mail desde aquí.
+> - Su función
+
+##### Bloque 42
+
+> <u>Security</u>
+>
+> At security ([padlock icon]) you can:
+>
+> - Edit your password
+> - Enable / disable two-step verification. Using this option you can add an extra verification step when you log into Stoffenmanager®. This increases the security of your account. You will need to enter a code from your mobile phone when logging into Stoffenmanager®. You can use this to increase the security of your account.​	
+
+> <u>Seguridad</u>
+>
+> En "Seguridad" ([ícono de candado]) podrá:
+>
+> - Editar su contraseña
+> - Activar/desactivar la verificación de dos pasos. Puede agregar un paso de verificación extra al usar esta opción para iniciar sesión en Stoffenmanager®. Esto mejorará la seguridad de su cuenta. Al iniciar sesión en Stoffenmanager®, tendrá que introducir un código desde tu teléfono móvil. Puede usar esto para aumentar la seguridad de su cuenta.
+
+##### Bloque 43
+
+> <u>Preferences</u>
+>
+> At preferences ([cogwheel icon]) you can select the following items:
+>
+> - Disable the CMR notification message when editing a product. If this notification is disabled, no pop-up message appears that a product is a CMR product.
+> - Activate auto-complete. When entering workplace instruction card information automatic suggestions will be given based on previously entered texts.
+> - Lists of hazardous substances. Here you can activate one or more (CMR)-lists to be used by you as users. Components in your account will be compared with substances in these lists using the CAS-number as a reference. If your component is on one of these lists it will be indicated with the ([red warning icon]) or ([orange warning icon]) icon. You can only choose from the lists that have been enabled by the administrator of your account.
+
+> <u>Preferencias</u>
+>
+> En "Preferencias" ([ícono de engranaje]) podrá seleccionar los siguientes ítems:
+>
+> - Desactivar la notificación de CMR al editar un producto. Si ésta notificación está desactivada, no aparecerá ningún aviso indicando que un producto es de tipo CMR.
+> - Activar auto-completación. Al introducir información de tarjetas de instrucciones del ambiente de trabajo, aparecerán sugerencias basadas en los textos previamente introducidos. 
+> - Listas de sustancias peligrosas. Aquí podrá activar una o más listas CMR para su uso como usuario. Los componentes en su cuenta serán comparados con las sustancias en éstas listas usando los números CAS como referencia. Si su componente se encuentra en alguna de esas listas, ésto será indicado con el ícono ([ícono rojo de advertencia]) o ([ícono naranja de advertencia]). Solo podrá escoger de las listas que hayan sido activadas por el administrador de su cuenta.
+
+##### Bloque 44
+
+> ​<u>Delete account</u>
+>
+> Under delete account you can delete your basic (free) account. After selecting this icon you arrive at a page where you can delete your account. Please note: this can not be undone. All entered data is deleted and lost. Deleting users in a premium account is done by the administrator at ‘settings > users & permissions’.
+
+> <u>Eliminar cuenta</u>
+>
+> En "Eliminar cuenta" podrá eliminiar su cuenta básica (gratuita). Luego de seleccionar esta opción, se mostrará una página donde podrá eliminar su cuenta. Nota: esta acción no puede ser revertida. Toda la información introducida será eliminada y perdida. Solo el administrador puede eliminar cuentas premium desde "configuración > Usuarios y permisos".
+
+##### Bloque 45
+
+>**Offered files**
+>
+>Here you will find documents that are uploaded by Cosanta. These can e.g. include Stoffenmanager® general terms of use.
+
+> **Archivos disponibles**
+>
+> Aquí encontrará documentos cargados por Cosanta. Estos podrán incluir, por ejemplo, los términos generales de uso de Stoffenmanager®.
+
+[Tabla de Contenidos](#tabla-de-contenidos)
+
+# Inventario
+
+##### Bloque 1
+
+> **Inventory**
+
+> **Inventario**
+
+##### Bloque 2
+
+> Stoffenmanager® does not include a pre-loaded database of products and components. However substance-specific data (occupational exposure limit values, molecular weight, vapour pressure) can be imported from different databases. Either manually or using the import function, each user or company can compile their own database based on the products their company uses. Products and components can be created using the Inventory button (manual entry) or via settings > my company > import. A component is a single substance with a unique CAS-number. A product (or mixture) can contain one or more components. The inventory data are used to:
+>
+> - perform risk assessments for both skin and inhalation
+> - generate the Register Dangerous Products and the Register CMR products
+> - generate workplace instruction cards
+
+> Stoffenmanager® no incluye una base de datos pre-cargada para productos y componentes. Sin embargo, la información específica de cada sustancia (valores límite de exposición ocupacional, peso molecular, presión de vapor) puede ser importada de distintas bases de datos. Ya sea de forma manual o utilizando la función de importar, cada usuario o compañía puede compilar su propia base de datos conformada por los productos que su compañía use. Pueden crearse productos y componentes usando el botón de Inventario (entrada manual) o mediante Configuración > Mi compañía > Importar. Un componente es una sustancia única con un número CAS único. Un producto (o mezcla) puede contener uno o más componentes. La información del inventario es utilizada para:
+>
+> - realizar evaluaciones de riesgo, tanto para riesgo dérmico como respiratorio
+> - generar el Registro de Productos Peligrosos y el Registro de Productos CMR
+> - generar las tarjetas de instrucciones del ambiente de trabajo
+
+##### Bloque 3
+
+> **Products**
+>
+> Products can be created via Inventory > Products. Entered products appear in an overview. This overview can be filtered for selected viewing. Products that contain a CMR substance are marked with an ([red warning icon]) icon. Products that contain components that are included in other hazardous substances lists are indicated with an ([orange warning icon]) icon. The product can be copied by clicking on the ([copy icon]) icon. This makes it possible to create several products quickly, for example, the same products coming from different suppliers. Via the ([three dot icon]) icon in the table header additional columns can be selected or deselected. The screen overview can be exported to Excel. This can be done per product (one product per row), per H-statement (each H-statement per row) or per location (each location per row).
+
+> **Productos**
+>
+> Los productos pueden ser creados mediante Inventario > Productos. Los productos introducidos aparecerán en un resumen. Éste resumen puede ser filtrado para ver selecciones específicas. Los productos que contengan sustancias CMR serán marcados con el ícono ([ícono rojo de advertencia]). Los productos que contengan componentes incluidos en otras listas de sustancias peligrosas se indicarán con el ícono ([ícono naranja de advertencia]). El producto puede ser copiado haciendo clic en el ícono ([ícono de copiado]). Esto facilita la tarea de crear varios productos rápidamente, por ejemplo, para productos iguales pero de distinto proveedor. Mediante el ícono ([ícono de tres puntos]) en la cabecera de la tabla se pueden seleccionar o deseleccionar columnas adicionales. La pantalla de resumen puede ser exportada a Excel. La exportación puede realizarse por producto (un producto por fila), por declaración H (una declaración por fila) o por ubicación (una ubicación por fila).
+
+##### Bloque 4
+
+> Clicking on ‘New Product’ opens a new window in which the information can be entered under various tabs.
+
+> Hacer clic en "Nuevo Producto" abrirá una nueva ventana en la cual podrá introducirse la información bajo distintas pestañas.
+
+##### Bloque 5
+
+> **General product information**
+>
+> At General Product Information the following information can be entered:
+>
+> - Product name (mandatory). This can be the trade name as mentioned on the SDS or an internal name. When performing the risk assessment you can search by product name to select the right product.
+> - Supplier (not mandatory). A new supplier can be created by clicking on the ([add icon]) icon or can be updated by clicking on ([update icon]).
+> - Concerns (mandatory). State whether the product is a solid, a liquid or a gas. You can not perform a risk assessment for gases in Stoffenmanager®, but in this way you can include gases into the register of dangerous products and you can generate workplace instruction cards.
+> - Vapour pressure or dustiness (mandatory). For liquids you can enter the vapour pressure of the product as a whole in Pa. For powders you can select the dustiness. The vapour pressure of the product can be found (if included) in section 9 of the SDS. When the vapour pressure is not known, you can use one of the methods mentioned below. If this does not result in a vapour pressure you can use the vapour pressure of water (2300 or 2301 Pa) as a default value. Please note: using a default value can affect the exposure class and subsequently the risk score.
+
+> **Información general de producto**
+>
+> En Información general de producto podrá introducirse la siguiente información:
+>
+> - Nombre del producto (obligatorio). Éste puede ser el nombre comercial que aparece en la HIS o algún nombre interno. Al realizar la evaluación de riesgo, podrá buscar el producto por su nombre para seleccionar el correcto
+> - Proveedor (no obligatorio). Puede crearse un nuevo proveedor haciendo clic en el ícono ([ícono de agregar]) o puede actualizarse haciendo clic sobre ([ícono de actualizar])
+> - Preocupaciones (Obligatorio). Indique si el producto se encuentra en estado sólido, líquido o gaseoso. No es posible realizar una evaluación de riesgo para productos gaseosos en Stoffenmanager®, pero de esta manera es posible incluir gases al registro de productos peligrosos y generar tarjetas de instrucciones del ambiente de trabajo.
+> - Presión de vapor o exposición al polvo (obligatorio). Para líquidos, puede introducir la presión de vapor del <u>producto en general</u> en Pa. Para polvos, puede introducir la <u>concentración de polvo</u>. La presión de vapor del producto puede encontrarse (si está incluida) en la sección 9 de la HIS. cuando la presión de vapor no es conocida, puede emplear alguno de los métodos mencionados abajo. Si esto no resulta en una presión de vapor razonable, puede usar la presión de vapor del agua (2300 o 2301 Pa) como valor por defecto. </br>
+>   **Nota:** usar un valor por defecto puede afectar la clase de exposición y, por tanto, la puntuación de riesgo.
+
+##### Bloque 6
+
+>NB: If no vapour pressure for the whole product is available, these are the alternatives:
+>
+>a) choose the vapour pressure of the component that is present in the largest quantity
+>
+>b) choose the vapour pressure of the most volatile component (in other words the highest vapour pressure)
+>
+>c) calculate the vapour pressure (P) by for each volatile component multiplying its vapour pressure (D) by the fraction (0-1) (F) of that component in the product and then adding the results together P = (D1 x F1) + (D2 x F2) + (Dx x Fx) [Marquart et al., 2008]
+
+>NB: Si no está disponible una presión de vapor para todo el producto, a continuación se presentan algunas alternativas
+>
+>a) escoja la presión de vapor del componente que se encuentre presente en mayor cantidad
+>
+>b) escoja la presión de vapor del componente más volátil (es decir, la presión más *alta*)
+>
+>c) Calcule la presión de vapor (P) para cada componente volátil multiplicando su presión de vapor (D) por la fracción (0-1)(F) de dicho componente en el producto, y luego sumando los resultados <br>P = (D1 x F1) + (D2 x F2) + (Dx x Fx) [Marquart et al., 2008]
+
+##### Bloque 7
+
+>- Location (mandatory). Select the appropriate location(s) where the product is used. Once location(s) have been specified, the product will be visible only at those locations and not at any sub-locations of those locations. Where the product is used at all locations, all locations must be ticked. This can be done by clicking ‘Select all locations’.
+
+>- Ubicación (obligatorio). Seleccione la(s) ubicación(ones) apropiadas donde el producto será usado. Una vez que la(s) ubicación(ones) haya(n) sido especificada(s), el producto será visible en aquellas ubicaciones, pero no en ninguna de las ubicaciones secundarias a éstas. Para usar el producto en todas las ubicaciones, éstas deben ser seleccionadas. Podrá seleccionarlas haciendo clic en "Seleccionar todas la ubicaciones".
+
+##### Bloque 8
+
+> - Expiration data (not mandatory). Here you can define the validity date of the product. When no date is entered this information is not used or a default general date is used that is entered at ‘Company settings’. Here you can enter a specific date. This date overrules the general value. Products that have expired are indicated in red in the product overview.
+> - Quantity stored (not mandatory). Here you can for example indicate the maximum amount of the product stored in your company. This field also appears in the register of hazardous substances.
+> - Own company product fields. If additional product fields have been created (§ 3.1) you can enter that information here.
+> - Date SDS (not mandatory). Here you can enter the safety data sheet (SDS) date, in most cases the revision date.
+> - SDS file. A SDS of the product can be uploaded as pdf by selecting ‘Choose file’. For each language available in Stoffenmanager®, one SDS pdf can be uploaded. First, select the language and then select the file you would like to upload. The default language is based on the general language selected after log-in. After saving and reopening the product the SDS can be downloaded here. It can also be downloaded in the product overview screen in the column ‘SDS’ by selecting the ([download icon]) icon. For each product version, a SDS can be uploaded.
+> - If you use the SHARE module you can - at the top of this page - indicate if this product can be published in a SHARE publication. By default this option is switched on. If you do not want to include this product in a SHARE publication you can switch this off for this product.
+
+> - Información de expiración (no obligatorio). Aquí podrá definir la fecha de validez del producto. Si no se ha introducido ninguna fecha, ésta información no será utilizada, o se usará una fecha general por defecto que puede introducirse en "Configuración de la Compañía". Aquí, podrá introducir una fecha específica. Ésta fecha anula el valor genérico. Los productos que hayan expirado serán resaltados en rojo en el resumen de productos.
+> - Cantidad almacenada (no obligatorio). Aquí podrá, por ejemplo, indicar la cantidad máxima del producto almacenado en su compañía. Este campo aparece también en el registro de sustancias peligrosas.
+> - Campos específicos a productos de la compañía. Si ha creado campos adicionales para el producto (§ 3.1), podrá introducir la información aquí.
+> - Fecha de HIS (No obligatorio). Aquí podrá introducir la fecha de la hoja de información de seguridad (HIS); en la mayoría de los casos, ésta es la fecha de revisión. 
+> - Archivo HIS. SDS file. Aquí podrá cargar la HIS del producto como PDF seleccionando "Escoger Archivo". También, podrá cargar una HIS en formato PDF para cada idioma disponible en Stoffenmanager®. Primero seleccione el lenguaje y luego seleccione el archivo que desea cargar. El lenguaje por defecto es escoge en función al lenguaje general seleccionado al iniciar sesión. Después de guardar y reabrir el producto, podrá descargar la HIS. También podrá ser descargada desde el resumen de producto, en la columna HIS, haciendo clic en el ícono ([ícono de descarga.]). Adicionalmente, para cada versión del producto podrá cargar una HIS específica.
+> - Su utiliza el módulo SHARE podrá, en la parte superior de la página, indicar si el producto puede ser publicado en una publicación SHARE. Esta opción está activada por defecto. Si no desea incluir este producto en publicaciones SHARE, desactive la opción.
+
+##### Bloque 9
+
+> **Health and safety information**
+>
+> Under Health and safety information the following data can be entered:
+>
+> - Health and safety information: here, the product's H/P-statements or R/S-phrases can be selected as they are stated in the SDS. The H- and P-statements in Stoffenmanager® are based on UN-GHS and EU-CLP. Legally expired statements are crossed out in the selection box. For historical reason, these statements can still be selected and used in Stoffenmanager®. The CLP convertor makes it possible to convert R- phrases to H-statements. When H-statements or R-phrases are selected an indication of the hazard class of the product is presented next to the selection box (‘-‘ no hazard, A least hazardous - E most hazardous). For each H-statement or R-phrase, the corresponding hazard class is indicated. Since Stoffenmanager® 7.1 the hazard banding method as described by Arnone et. Al (2015) is applied. In the product overview screen it is possible to filter on the hazard class of the product.
+>   Tip: hold the Control button (Ctrl) to select multiple H- or P-statements.
+> - Hazard pictograms. Here the hazard pictograms and the signal word of the product can be selected as described in § 2 of the SDS.
+> - Composition of the product (§ 3 SDS). Here, the components can be added to the product. Choose a product set (default is Stoffenmanager®) and select a component by searching by name, CAS-number, EC-number or REACH registration number. Enter the concentration of the component in the product. Take note: this must be a single number without ‘<, >, or %’ signs. Where a range is given in the SDS, e.g. 10 – 20%, the middle of the range is entered (15). Select the ([connect icon]) button to assign the component to the product. Please note: entering the composition is necessary to calculate the quantitative exposure! Components can be edited ([update icon]) or created here ([add icon]).
+> - Components that have been added to the product can directly be opened by clicking the component name. The component screen opens and data can be adjusted or viewed. After saving or closing you return to the product edit screen.
+> - Components that are connected to the product can directly be deleted even if they are used in a risk assessment. By deleting the component the risk assessment or job daily average calculation needs to be recalculated. Before deleting a ‘confirm your choice’-box appears.
+
+> Información de salud y seguridad
+> En Información de salud y seguridad podrá introducir la siguiente información:
+>
+> - Información de salud y seguridad: Aquí, pueden seleccionarse las declaraciones H/P o frases R/S , según aparezcan en la HIS. Las declaraciones H y P  de Stoffenmanager®  están basadas en los sistemas UN-GHS y EU-CLP. Las declaraciones legalmente expiradas aparecerán tachadas en la caja de selección. Por razones históricas, estas declaraciones aun podrán ser seleccionadas y usadas en Stoffenmanager®. El convertidor CLP hace posible convertir frases R a declaraciones H. Al seleccionar declaraciones H o frases R, se indica la clase de peligro del producto junto a la caja de selección ("-" no hay peligro, "A" menos peligroso - "E" más peligroso). Para cada declaración H o frase R, se indica la clase de peligro correspondiente. Desde Stoffenmanager® 7.1,  se aplica el método de bandas de riesgo descrito por Arnone et. Al (2015). En pantalla de resumen de producto, podrá filtrar los productos por clase de peligro.<br>Sugerencia: mantenga presionada la tecla CTRL para seleccionar múltiples declaraciones H o P.
+> - Pictogramas de Peligro. Aquí podrá seleccionar los pictogramas de peligro y la palabra clave del producto, según se describe en la HIS, § 2.
+> - Composición del producto. (HIS, § 3). Aquí podrá agregar los componentes del producto. Escoja un set de productos (por defecto será Stoffenmanager®) y seleccione un componente, buscándolo por su número CAS, su número EC o su número de registro REACH. Introduzca la concentración del componente en el producto. Nota: éste debe ser un único número, sin símbolos "<,>,%" o similares. Si en lugar de un número se indica un rango en  la HIS, p. ej. 10-20%, deberá introducir el valor medio del rango (15). Seleccione el botón ([ícono de seleccionar]) para asignar el componente al producto. Nota: ¡Introducir la composición es necesario para calcular la exposición cuantitativa! Los componentes pueden ser editados ([ícono de actualizar]) o creados ([ícono de agregar]) desde aquí.
+> - Los componentes que hayan sido agregados al producto podrán ser vistos haciendo clic directamente sobre el nombre del componente. La pantalla de componente aparecerá y podrá ver o modificar la información. Luego de guardar o cerrar, regresará a la pantalla de edición de producto.
+> - Los componentes que se encuentren conectados al producto podrán ser eliminados directamente incluso si se usan para alguna evaluación de riesgo. Al eliminar el componente, la evaluación de riesgo o el promedio diario de trabajo deberán ser recalculados. Antes de eliminar un componente, aparecerá un aviso para confirmar la acción.

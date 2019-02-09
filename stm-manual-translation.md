@@ -1,4 +1,4 @@
-# Manual Stoffenmanager® 8 Premium
+Manual Stoffenmanager® 8 Premium
 
 Ciudad Autónoma de Buenos Aires, enero de 2019.
 
@@ -15,6 +15,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 5. [Panel de Control](#panel-de-control)
 6. [Configuracion](#configuracion)
 7. [Inventario](#inventario)
+8. [Priorizacion](#priorizacion)
 
 # Portada
 
@@ -1360,3 +1361,213 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 > **Exportación XML**
 >
 > Desde el ADP puede generarse un archivo XML con información de producto. De esta manera, es posible compartir información con otros usuarios de Stoffenmanager®. Además de distribuir la HIS como un archivo PDF en la cadena de suministro, también puede enviar un archivo XML. Para crear un archivo XML primero necesitará seleccionar los productos que desea exportar en el ADP. Luego, seleccione "Exportar a XML". Se creará un archivo XML que podrá ser importado a Stoffenmanager®. Éste módulo de exportación está desactivado por defecto – por favor, contacte a Cosanta si desea usar este módulo.
+
+[Tabla de Contenidos](#tabla-de-contenidos)
+
+# Priorizacion
+
+##### Bloque 1
+
+> At Prioritisation (control banding) you can perform a qualitative risk assessment for a product as a whole for both inhalation and skin exposure. For this qualitative risk assessment only information on the product (mixture) is needed. The information in the safety data sheet (SDS) is often sufficient to perform a risk assessment. The result is a risk prioritization score for the product, which is achieved by combining the hazard class (A-E) and the exposure class (1-4) to produce a risk score.
+
+> En Priorización (control por bandas) podrá realizar una evaluación de riesgo cualitativa para un producto completo, tanto para exposición dérmica como respiratoria. Para esta evaluación cualitativa solo es necesaria información sobre el producto (i. e. de la mezcla). Usualmente la información presente en la hoja de información de seguridad (HIS) es suficiente para llevar a cabo la evaluación de riesgo. El resultado es un puntaje de priorización de riesgo para el producto, que es obtenido mediante una combinación de la clase de peligro (A-E) y clase de exposición (1-4) para producir un puntaje de riesgo.
+
+##### Bloque 2
+
+> **Inhalation risk assessment**
+>
+> To perform a new risk assessment or to view completed assessments select ‘Prioritisation > Inhalation risk assessment’. This is where completed assessments are presented together with the risk scores. The risk assessments can be updated, deleted, copied or selected for the application of control measures. Risk assessments that are not valid anymore are highlighted in red. Via the ([three dot icon]) icon in the table header additional columns can be selected or deselected. The overview presented on screen can be exported to Excel. There is a direct link to the product assessed. Clicking this hyperlink directly opens the product where data can be viewed or changed. If the risk assessment is performed for a CMR-product a shield ([red warning icon]) is placed in front of the risk assessment. If the product contains components that are listed on a hazardous substance list this is indicated with an ([orange warning icon]) icon.
+
+> **Inhalation risk assessment**
+>
+> Para realizar una nueva evaluación o ver las evaluaciones completadas, seleccione "Priorización" > "Evaluación de riesgo respiratorio". Aquí es donde se presentan las evaluaciones completas junto con sus puntajes de riesgo. Las evaluaciones de riesgo pueden ser actualizadas, eliminadas, copiadas o seleccionadas para la aplicación de medidas de control. Las evaluaciones de riesgo que no ya no sean válidas serán resaltadas en rojo. Mediante el ícono  ([ícono de tres puntos]) en la cabecera de la tabla podrá seleccionar o deseleccionar columnas adicionales. El resumen mostrado en la pantalla podrá ser exportado a Excel. Aquí encontrará un enlace directo al producto evaluado. Hacer clic en el enlace abrirá directamente el producto, donde podrá ver o modificar su información. Si se realiza una evaluación de riesgo para un producto CMR, aparecerá el ícono ([ícono rojo de advertencia]) frente a la evaluación de riesgo. Si el producto contiene componentes que aparecen en alguna lista de sustancias peligrosas, será indicado con el ícono ([ícono naranja de advertencia]).
+
+##### Bloque 3
+
+> Click on the ‘New risk assessment’ button to perform a new risk assessment. This opens a new screen. You will be guided through the risk assessment in a number of steps.
+
+> Haca clic en el botón "Nueva evaluación de riesgo" para realizar una nueva evaluación de riesgo. Ésto abrirá una nueva pantalla. Luego, será guiado a través de la evaluación de riesgo mediante una serie de pasos.	
+
+##### Bloque 4
+
+> <u>**Name:**</u>
+>
+> - Give the risk assessment a recognizable name that can be traced back to the process being assessed.
+> - Select the location/department where the activity takes place. Please note: in the next step only the products are shown that are coupled to the selected location.
+> - Optional: Expiration date: here you can define the validity date of the risk assessment. When no date is entered this information is not used or a default general date is used that is entered at ‘Settings’. Here you can enter a specific date. This date overrules the general value. Risk assessments that have expired are indicated in red in the risk assessment overview.
+> - If you use the SHARE module you can - at the top of this page - indicate if this risk assessment can be published in a SHARE publication. By default this option is switched on. If you do not want to include this risk assessment in a SHARE publication you can switch this off for this risk assessment.
+
+> <u>**Nombre:**</u>
+>
+> - Dé un nombre reconocible a la evaluación de riesgo que pueda ser rastreado de vuelta al proceso que esta siendo evaluado. 
+> - Seleccione la ubicación/departamento donde la actividad toma lugar. Nota: en el siguiente paso solo se mostrarán los productos que están acoplados a la ubicación. 
+> - Opcional: Fecha de expiración: aquí puede definir la fecha de validez de la evaluación de riesgo. Si no se introduce fecha alguna, esta información no se utiliza o se usa un valor genérico por defecto introducido en "Configuración". Aquí podrá introducir una fecha en específico. Esta información anula el valor genérico. Las evaluaciones de riesgo que hayan expirado serán resaltadas en rojo en el resumen de evaluación de riesgo.
+> - Si usa el módulo SHARE podrá - al tope de la página - indicar si esta evaluación de riesgo puede ser publicada en una publicación SHARE. Por defecto, esta opción se encuentra activada. Si no desea incluir la evaluación de riesgo en una publicación SHARE puede desactivar la opción para la evaluación de riesgo en cuestión. 
+
+##### Bloque 5
+
+> <u>**Product:**</u>
+>
+> Select if the product is a liquid or solid (powder). Stoffenmanager® will then automatically filter the products and present a list of liquids or a list of solids from which you can choose. The subsequent questions depend on whether liquid or solid has been chosen:
+
+> <u>**Producto:**</u>
+>
+> Seleccione si el producto es un líquido o un sólido (polvo). Stoffenmanager® automáticamente filtrará los productos y presentará una lista de líquidos o una lista de sólidos desde la cual podrá escoger. Las preguntas siguientes dependerán de si ha seleccionado un líquido o un sólido:
+
+##### Bloque 6
+
+> **Liquids:**
+>
+> - Choose the product set. This may be Stoffenmanager® – the manually entered products, or a product from an imported product set.
+> - Select the product you wish to assess.
+> - State whether the product is diluted with water before use. Enter a numerical value between 0-100 (undiluted = 100%).
+
+> **Líquidos:**
+>
+> - Escoja el set de productos. Éste puede ser Stoffenmanager® – el set de productos introducidos manualmente, o un producto de algún set de productos importado.
+> - Seleccione el producto que desea evaluar.
+> - Indique si el producto es diluido en <u>agua</u> antes de ser usado.Luego, introduzca un valor numérico entre 0 y 100 (no diluido = 100%).
+
+##### Bloque 7
+
+> **Solids:**
+>
+> - Indicate if the situation concerns shaping by removing or cutting of material (e.g. sanding, sawing, grinding, etc.). Select ‘No’ to perform a risk assessment for a powder. NB: To assess exposure to wood or stone you should use the quantitative assessment module (Assessment > Inhalation risk assessment’)
+
+> **Sólidos:**
+>
+> - Indique si la situación involucra dar forma a un objeto cortándolo o quitándole material (p. ej. lijando, serruchando, afilando, etc.). Seleccione "No" para realizar una evaluación de riesgo para un polvo. NB: Para evaluar la exposición a madera o piedras debería usar el módulo de evaluación cuantitativa ("Evaluación" > "Evaluación de riesgo respiratorio")
+
+##### Bloque 8
+
+> - Choose the product set. This may be Stoffenmanager® – the manually entered products, or a product from an imported product set.
+> - Select the product you wish to assess.
+
+> - Escoja el set de productos. Éste puede ser Stoffenmanager® – el set de productos introducidos manualmente, o un producto de algún set de productos importado.
+> - Seleccione el producto que desea evaluar.
+
+##### Bloque 9
+
+> <u>**Process:**</u>
+>
+> Here a predefined process can be selected. The questions are then automatically filled in and can be adjusted if needed. This does not affect the predefined process. Alternatively, the questions about the activity can be answered now. The name of the predefined process is copied to the ‘name of process’ field. The information in this field can be adjusted. When you do not use a predefined process you can still use this field and give the process a name. The process name can be selected as a column in the risk assessment overview.
+>
+> - Characterize the task. NB: The tasks are described generically. When a task is selected, additional information appears that will help confirm whether the correct choice has been made. Where doubt arises, we advise that the most 'conservative' task be chosen: the task that would lead to the highest exposure, or the task leading to the release of the greatest quantity of the substance or the product.
+> - Optional: Select the PROC (REACH process category). This selection list is only available if this has been activated by the administrator. The relevant PROC can be assigned as description of the process. The PROC is not used in the risk assessment.
+> - Enter the duration of the task (in minutes);
+> - Select the frequency of the task;
+> - State whether the task takes place in the employee's breathing zone (<1 m). NB: If 'yes' is chosen here, further on in the risk assessment, the option 'the employee is in a cabin' is deactivated.
+> - State whether several employees perform the task (this increases the estimate / calculation);
+> - State whether the task is followed by a period of evaporation, drying or curing;
+> - State whether respiratory protective equipment is used. This can be a type from the default Stoffenmanager® list.
+> - Besides the default list it is also possible to select the company specific respirators created by the administrator. The calculation is then performed using the assigned protection factor entered by the administrator.
+>
+> NB: For the initial risk assessment this must be performed without including the effect of respiratory protective equipment. The concentration outside the respirator that is worn is assessed first.
+
+> <u>**Proceso:**</u>
+>
+> Aquí podrá seleccionar un proceso predefinido. Las preguntas de la evaluación serán respondidas de forma automática aunque pueden ser modificadas de ser necesario. Ésto no afecta el proceso predefinido. Alternativamente, las preguntas acerca de la actividad pueden ser respondidas manualmente. El nombre de la proceso predefinido se copia del campo "nombre del proceso". La información en este campo puede ser modificada. Si no usa algún proceso predefinido, aún puede usar este campo y dar un nombre al proceso. El nombre del proceso puede ser seleccionado como una columna en el resumen de evaluación de riesgo.
+>
+> - Caracterizar la tarea. NB: Las tareas son descritas de forma genérica. Al seleccionar una tarea, aparecerá información adicional que le ayudará a confirmar si ha escogido la opción correcta. De surgir alguna duda, recomendamos que escoja la tarea más "conservativa": la tarea que resultaría en la exposición máxima, o la tarea que resultaría en la mayor liberación de la sustancia o producto.
+> - Opcional: Seleccione el PROC (categoría de proceso REACH). Esta lista de selección solo estará disponible si ha sido activada por el administrador. La categoría PROC relevante podrá ser asignada como la descripción del proceso. La categoría PROC no es usada en la evaluación de riesgo.
+> - Introduzca la duración de la tarea (en minutos).
+> - Seleccione la frecuencia de la tarea
+> - Indique si la tarea toma lugar en la zona de respiración del empleado (< 1 m). NB: Si se escoge "Sí" para esta opción, más adelante en la evaluación de riesgo se marcará la opción "El empleado está en una cabina" como desactivada.
+> - Indique si varios empleados realizan la tarea (ésto incrementa el estimado / valor calculado)
+> - Indique si la tarea es seguida por un período de evaporación, secado o curado. 
+> - Indique si se utiliza equipo de protección respiratoria. Éste puede ser un tipo de la lista por defecto Stoffenmanager®.
+> - Además de la lista por defecto, también es posible seleccionar respiradores específicos de la compañía creados por el administrador. El cálculo se realizará usando el factor de protección asignado por el administrador.
+>
+> NB: La evaluación de riesgo inicial debe ser realizada sin incluir los efectos de equipos de protección respiratoria. La concentración fuera de los respiradores usados debe ser evaluada primero.
+
+##### Bloque 10
+
+> <u>**​Workplace:**</u>
+>
+> Here a predefined workplace can be selected. The questions are then automatically filled in and can be adjusted if needed. This does not affect the predefined workplace. Alternatively, the questions about the workplace can be answered now. The name of the predefined workplace is copied to the ‘name of workplace’ field. The information in this field can be adjusted. When you do not use a predefined workplace you can still use this field and give the workplace a name. The workplace name can be selected as a column in the risk assessment overview.
+>
+> - Select the volume of the working room;
+> - Select the type of general ventilation;
+> - State whether the working room is cleaned daily (this reduces the estimate / calculation of the risk);
+> - State whether equipment is well-maintained and inspected (idem);
+> - State whether local control measures are applied;
+> - State whether the employee is situated in a separate cabin;
+
+> <u>**Ambiente de trabajo:**</u>
+>
+> Aquí podrá seleccionarse un ambiente de trabajo predefinido. Las preguntas de la evaluación serán respondidas de forma automática aunque pueden ser modificadas de ser necesario. Ésto no afecta el ambiente de trabajo predefinido. Alternativamente, las preguntas acerca del ambiente de trabajo pueden ser respondidas manualmente. El nombre de la proceso predefinido se copia del campo "nombre del ambiente de trabajo". La información en este campo puede ser modificada. Si no usa algún ambiente de trabajo predefinido, aún puede usar este campo y dar un nombre al ambiente de trabajo. El nombre del ambiente de trabajo puede ser seleccionado como una columna en el resumen de evaluación de riesgo.
+>
+> - Seleccione el volumen de la sala de trabajo.
+> - Seleccione el tipo de ventilación general.
+> - Indique si la sala de trabajo se limpia diariamente (esto reduce el estimado / valor calculado del riesgo).
+> - Indique si el equipo se mantiene e inspecciona apropiadamente.
+> - Indique si se aplican medidas de control locales
+> - Indique si el empleado está ubicado en una cabina separada.
+
+##### Bloque 11
+
+> <u>**Risk assessment**</u>
+>
+> The outcome of the assessment is presented here. This is:
+>
+> - A risk prioritization, whereby the hazard class (- ‘no hazard’, A ‘low hazard’ – E ‘highest hazard), the exposure class (1 – 4) and the risk score (I, II or III) are given.
+> - A hazard class for eyes (B – E) including advice on personal protection
+> - A specific warning for additional risks related to physical-chemical properties of the product or environmental hazards.
+
+><u>**Evaluación de riesgo**</u>
+>
+>El resultado de la evaluación de riesgo se presenta aquí. Esto comprende:
+>
+>- La priorización de riesgo, donde se indica la clase de peligro (- "no hay peligro", A "bajo peligro" , E "máximo peligro"), la clase de exposición (1-4) y el puntaje de riesgo (I, II, III).
+>- La clase de peligro para ojos (B – E), incluyendo sugerencias sobre protección personal. 
+>- Una advertencia específica para riesgos adicionales relacionados a las propiedades físicas-químicas del producto o peligros ambientales.
+
+##### Bloque 12
+
+> Choose ‘Save’ or ‘save as new version’ to save the risk assessment. The risk assessment is then added to the list of completed risk assessments.
+
+> Escoja "Guardar" o "guardar como nueva versión" para guardar la evaluación de riesgo. Ésta será añadida a la lista de evaluaciones de riesgo completadas.
+
+##### Bloque 13
+
+> **Dermal risk assessment**
+>
+> As well as an assessment of the risk through inhalation, Stoffenmanager® offers the possibility of assessing the dermal exposure risk. This is a qualitative risk assessment. The result is a risk score (I, II or III) for local effects and a risk score (I, II or III) for systemic effects: effects that occur as a result of absorption of the substance in the blood via the skin. This assessment process resembles the one for the inhalation route. The products that have been entered at ‘Inventory > Products’ are available to be assessed.
+
+> **Evaluación de riesgo dérmico**
+>
+> Además de una evaluación para los riesgos respiratorios, Stoffenmanager® ofrece la posibilidad de evaluar el riesgo de exposición dérmico. Esta evaluación es cualitativa. El resultado es un puntaje de riesgo (I, II, o III) para efectos sistémicos: efectos que ocurren como el resultado de la absorción de una sustancia en la sangre a través de la piel. Este proceso de evaluación se asemeja al proceso para riesgos respiratorios. Los productos que hayan sido introducidos en "Inventario" > "Productos" estarán disponibles para ser evaluados. 
+
+##### Bloque 14
+
+> To perform a new risk assessment or to view a completed assessment, go to ‘Prioritisation > Dermal Risk Assessment’. This is where completed assessments are presented together with the risk scores for local and systemic effects. The risk assessments can be updated, deleted, copied or selected for the application of control measures. Risk assessments that are not valid anymore are highlighted in red. The overview can be exported to Excel.	
+
+> Para realizar una nueva evaluación de riesgo o para ver una evaluación completada, diríjase a "Priorización" > "Evaluación de riesgo dérmico". Allí se muestran las evaluaciones completadas junto a los puntajes de riesgo para efectos locales y sistémicos. Las evaluaciones de riesgo pueden ser actualizadas, eliminadas, copiadas o seleccionadas para la aplicación de medidas de control. Las evaluaciones de riesgo que ya no sean válidas serán resaltadas en rojo. Este resumen podrá ser exportado a Excel. 
+
+##### Bloque 15
+
+> There is a direct link to the product assessed. Clicking this hyperlink directly opens the product where data can be viewed or changed. If the risk assessment is performed for a CMR-product a shield ([red warning icon]) is placed in front of the risk assessment. If the product contains components that are listed on a hazardous substance list this is indicated with an ([orange warning icon]) icon.
+
+> Aquí encontrará un enlace directo al producto evaluado. Hacer clic en el enlace abrirá directamente el producto, donde podrá ver o modificar su información. Si se realiza una evaluación de riesgo para un producto CMR, aparecerá el ícono ([ícono rojo de advertencia]) frente a la evaluación de riesgo. Si el producto contiene componentes que aparecen en alguna lista de sustancias peligrosas, será indicado con el ícono ([ícono naranja de advertencia]).
+
+##### Bloque 16
+
+> Click on the New Risk Assessment button to start a new risk assessment. This opens a new screen. You will be guided through the risk assessment in three steps.
+
+> Haca clic en el botón "Nueva evaluación de riesgo" para realizar una nueva evaluación de riesgo. Ésto abrirá una nueva pantalla. Luego, será guiado a través de la evaluación de riesgo en tres pasos.	
+
+##### Bloque 17
+
+> <u>Step 1</u>
+>
+> - Give the risk assessment a recognizable name that can be traced back to the process or the task being assessed.
+> - Select the location/department where the activity takes place.
+> - Optional: Expiration date: here you can define the validity date of the risk assessment. When no date is entered this information is not used by the program or a default general date is used that is entered at ‘settings > my company > notification settings’. At the risk assessment, you can enter a specific date. This date overrules the general value. Risk assessments that are expired are indicated in red in the risk assessment overview.
+
+> <u>Paso 1</u>
+>
+> - Dé un nombre reconocible a la evaluación de riesgo que pueda ser rastreado de vuelta al proceso que esta siendo evaluado. 
+> - Seleccione la ubicación/departamento donde la actividad toma lugar.
+> - Opcional: Fecha de expiración: aquí puede definir la fecha de validez de la evaluación de riesgo. Si no se introduce fecha alguna, esta información no se utiliza o se usa un valor genérico por defecto introducido en "Configuración" > "Mi compañía" > "ajustes de notificación". En la evaluación de riesgo podrá introducir una fecha en específico. Esta fecha anula el valor genérico. Las evaluaciones de riesgo que hayan expirado serán resaltadas en rojo en el resumen de evaluación de riesgo.
+> - Optional: Expiration date: here you can define the validity date of the risk assessment. When no date is entered this information is not used by the program or a default general date is used that is entered at ‘settings > my company > notification settings’. At the risk assessment, you can enter a specific date. This date overrules the general value. Risk assessments that are expired are indicated in red in the risk assessment overview.
+

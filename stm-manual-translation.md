@@ -1004,7 +1004,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 > - Cantidad almacenada (no obligatorio). Aquí podrá, por ejemplo, indicar la cantidad máxima del producto almacenado en su compañía. Este campo aparece también en el registro de sustancias peligrosas.
 > - Campos específicos a productos de la compañía. Si ha creado campos adicionales para el producto (§ 3.1), podrá introducir la información aquí.
 > - Fecha de HIS (No obligatorio). Aquí podrá introducir la fecha de la hoja de información de seguridad (HIS); en la mayoría de los casos, ésta es la fecha de revisión. 
-> - Archivo HIS. SDS file. Aquí podrá cargar la HIS del producto como PDF seleccionando "Escoger Archivo". También, podrá cargar una HIS en formato PDF para cada idioma disponible en Stoffenmanager®. Primero seleccione el lenguaje y luego seleccione el archivo que desea cargar. El lenguaje por defecto es escoge en función al lenguaje general seleccionado al iniciar sesión. Después de guardar y reabrir el producto, podrá descargar la HIS. También podrá ser descargada desde el resumen de producto, en la columna HIS, haciendo clic en el ícono ([ícono de descarga.]). Adicionalmente, para cada versión del producto podrá cargar una HIS específica.
+> - Archivo HIS. Aquí podrá cargar la HIS del producto como PDF seleccionando "Escoger Archivo". También, podrá cargar una HIS en formato PDF para cada idioma disponible en Stoffenmanager®. Primero seleccione el lenguaje y luego seleccione el archivo que desea cargar. El lenguaje por defecto es escoge en función al lenguaje general seleccionado al iniciar sesión. Después de guardar y reabrir el producto, podrá descargar la HIS. También podrá ser descargada desde el resumen de producto, en la columna HIS, haciendo clic en el ícono ([ícono de descarga.]). Adicionalmente, para cada versión del producto podrá cargar una HIS específica.
 > - Su utiliza el módulo SHARE podrá, en la parte superior de la página, indicar si el producto puede ser publicado en una publicación SHARE. Esta opción está activada por defecto. Si no desea incluir este producto en publicaciones SHARE, desactive la opción.
 
 ##### Bloque 9
@@ -1025,7 +1025,338 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 > En Información de salud y seguridad podrá introducir la siguiente información:
 >
 > - Información de salud y seguridad: Aquí, pueden seleccionarse las declaraciones H/P o frases R/S , según aparezcan en la HIS. Las declaraciones H y P  de Stoffenmanager®  están basadas en los sistemas UN-GHS y EU-CLP. Las declaraciones legalmente expiradas aparecerán tachadas en la caja de selección. Por razones históricas, estas declaraciones aun podrán ser seleccionadas y usadas en Stoffenmanager®. El convertidor CLP hace posible convertir frases R a declaraciones H. Al seleccionar declaraciones H o frases R, se indica la clase de peligro del producto junto a la caja de selección ("-" no hay peligro, "A" menos peligroso - "E" más peligroso). Para cada declaración H o frase R, se indica la clase de peligro correspondiente. Desde Stoffenmanager® 7.1,  se aplica el método de bandas de riesgo descrito por Arnone et. Al (2015). En pantalla de resumen de producto, podrá filtrar los productos por clase de peligro.<br>Sugerencia: mantenga presionada la tecla CTRL para seleccionar múltiples declaraciones H o P.
-> - Pictogramas de Peligro. Aquí podrá seleccionar los pictogramas de peligro y la palabra clave del producto, según se describe en la HIS, § 2.
-> - Composición del producto. (HIS, § 3). Aquí podrá agregar los componentes del producto. Escoja un set de productos (por defecto será Stoffenmanager®) y seleccione un componente, buscándolo por su número CAS, su número EC o su número de registro REACH. Introduzca la concentración del componente en el producto. Nota: éste debe ser un único número, sin símbolos "<,>,%" o similares. Si en lugar de un número se indica un rango en  la HIS, p. ej. 10-20%, deberá introducir el valor medio del rango (15). Seleccione el botón ([ícono de seleccionar]) para asignar el componente al producto. Nota: ¡Introducir la composición es necesario para calcular la exposición cuantitativa! Los componentes pueden ser editados ([ícono de actualizar]) o creados ([ícono de agregar]) desde aquí.
+> - Pictogramas de Peligro. Aquí podrá seleccionar los pictogramas de peligro y la palabra clave del producto, según se describe en la § 2 HIS.
+> - Composición del producto. (§ 3 HIS). Aquí podrá agregar los componentes del producto. Escoja un set de productos (por defecto será Stoffenmanager®) y seleccione un componente, buscándolo por su número CAS, su número EC o su número de registro REACH. Introduzca la concentración del componente en el producto. Nota: éste debe ser un único número, sin símbolos "<,>,%" o similares. Si en lugar de un número se indica un rango en  la HIS, p. ej. 10-20%, deberá introducir el valor medio del rango (15). Seleccione el botón ([ícono de seleccionar]) para asignar el componente al producto. Nota: ¡Introducir la composición es necesario para calcular la exposición cuantitativa! Los componentes pueden ser editados ([ícono de actualizar]) o creados ([ícono de agregar]) desde aquí.
 > - Los componentes que hayan sido agregados al producto podrán ser vistos haciendo clic directamente sobre el nombre del componente. La pantalla de componente aparecerá y podrá ver o modificar la información. Luego de guardar o cerrar, regresará a la pantalla de edición de producto.
 > - Los componentes que se encuentren conectados al producto podrán ser eliminados directamente incluso si se usan para alguna evaluación de riesgo. Al eliminar el componente, la evaluación de riesgo o el promedio diario de trabajo deberán ser recalculados. Antes de eliminar un componente, aparecerá un aviso para confirmar la acción.
+
+##### Bloque 10
+
+> **Workplace instruction card**
+>
+> Here additional information can be entered that becomes automatically available in the workplace instruction cards of the product. Entering this data is not mandatory and is not needed to perform a qualitative or quantitative risk assessment. The following text boxes can be filled:
+>
+> - First aid instructions (§ 4 SDS)
+> - Fire extinguishing agents (§ 5.1 SDS)
+> - Environmental measures (§ 6.2 SDS)
+> - Cleaning instructions (§ 6.3 SDS)
+> - Storage instructions (§ 7.2 SDS)
+> - Environmental risks (§ 12 SDS)
+> - General ventilation and local exhaust ventilation (§ 8 SDS)
+
+> **Tarjeta de instrucciones del ambiente de trabajo**
+>
+> Aquí puede introducirse información adicional que será disponible de forma automática en las tarjetas de instrucciones del ambiente de trabajo del producto. Introducir ésta información no es obligatorio y no es necesaria para realizar ninguna evaluación cualitativa o cuantitativa de riesgo. Podrán llenarse los siguientes campos de texto:
+>
+> - Instrucciones de primeros auxilios (§ 4 HIS)
+> - Agentes extintores de fuego (§ 5.1 HIS)
+> - Medidas ambientales (§ 6.2 HIS)
+> - Instrucciones de limpieza (§ 6.3 HIS)
+> - Instrucciones de almacenamiento (§ 7.2 HIS)
+> - Riesgos ambientales (§ 12 HIS)
+> - Ventilación general y ventilación por extracción local (§ 8 HIS)
+
+##### Bloque 11
+
+> - Personal protective equipment (4 categories, § 8 SDS). If company specific personal protective equipment devices have been created at ‘Company settings’ these can also be selected here.
+
+> - Equipo de protección personal (cuatro categorías, § 8 HIS). Si han sido creados equipos de protección personal en "Configuración de la compañía", éstos estarán podrán ser seleccionados aquí.
+
+##### Bloque 12
+
+> The entered information is stored into a library. When entering a new product suggestions are automatically given based on previously entered texts. These texts can then be selected. Please note: you can activate auto-complete option at ‘settings > my account > preferences’. The information can be added in multiple languages per product. This can be done by using the switch language button. In this way workplace instruction cards can be generated multi-language without first creating copies of the product.
+
+> La información introducida se almacena en una biblioteca. Al introducir un nuevo producto, aparecerán sugerencias de autocompletación automáticamente, basadas en la información previamente introducida. Éstas sugerencias podrán ser seleccionadas. Nota: puede activar la autocompletación en "Configuración" > "Mi cuenta" > "Preferencias". La información puede ser añadida en múltiples lenguajes para cada producto. Ésto puede hacerse usando el botón de cambio de idioma. De esta manera, es posible generar tarjetas de instrucciones del ambiente de trabajo multi-idioma sin crear primero copias del producto.
+
+##### Bloque 13
+
+> **Explosion safety (ATEX)**
+>
+> Here product-specific information can be entered relating to explosion hazard. This information is used to perform a risk assessment of explosion safety in the ATEX module. The module is at this moment only available in Dutch language.
+
+> **Seguridad de explosión (ATEX)**
+>
+> Aquí podrá introducir información relacionada a los peligros de explosión de productos específicos. Ésta información se usa para realizar evaluaciones de riesgo de seguridad de explosión en el módulo ATEX. Por el momento, éste módulo solo esta disponible en holandés.
+
+##### Bloque 14
+
+> **Storage and transport**
+>
+> Product-specific information about the product's storage, used quantities and transport is recorded here (§ 14 SDS). This information can be used in the PGS-15 storage module to assess the storage facilities. The module is at this moment only available in Dutch language.
+
+> **Almacenamiento y transporte**
+>
+> Aquí se graba la información sobre el almacenamiento, transporte y cantidades usadas de un producto en específico (§ 14 HIS). Esta información puede usarse en el módulo de almacenamiento PGS-15 para evaluar las instalaciones de almacenamiento. Por el momento, éste módulo solo esta disponible en holandés.
+
+##### Bloque 15
+
+> **Components**
+>
+> Components that make up the products can be created ‘directly’ under Inventory > Components. They can also be created when a product is created. Clicking on New Component opens a window in which the information can be entered.
+
+> **Componentes**
+>
+> Los componentes que constituyen los productos pueden crearse directamente bajo "Inventario" > "Componentes". Éstos también podrán ser creados al momento de crear un producto. Al hacer cloc en Nuevo Componente se abrirá una ventana en la cual podrá introducirse la información de los componentes. 
+
+##### Bloque 16
+
+> The GESTIS IFA Substance database is connected to Stoffenmanager®. When a CAS-number is entered that is known in this database, component-specific data (molecular weight and vapour pressure) can be selected. A direct hyperlink to the relevant page on the GESTIS database is also activated. There additional information on the component can be found.
+
+> La base de datos de Sustancias GESTIS de la IFA está conectada a Stoffenmanager®. Al introducir el número CAS de una sustancia presente en la base de datos, podrá seleccionar la información específica del componente (peso molecular y presión de vapor). Además, se activará un hipervínculo directo a la página relevante en la base de datos GESTIS. En ésta página podrá obtener información adicional sobre el componente.
+
+##### Bloque 17
+
+>- Give the component a name.
+>
+>- Enter the CAS number. When this number is not stated (perhaps only an EINECS number is present), it can be looked up via: https://echa.europa.eu/information-on-chemicals
+>
+>- Enter EC-number or REACH-registration number (optional fields)
+>
+>- State whether the component is a solid, liquid or ‘solid and liquid’. ‘Solid and liquid’ can be entered where, for example, a solid component is used in a liquid product.
+>
+>- Molecular weight is an optional field that can be used to convert from mg/m3 to ppm. This value can be imported from the IFA GESTIS Database.
+>
+>- Vapour pressure: To perform a quantitative assessment the vapour pressure must be entered in Pascal (Pa). When the substance is known in the IFA GESTIS Database this value can be selected. The source of the imported data can be recorded. If necessary, the vapour pressure of water (2300 Pa) can be entered if no value is known. In that case, we recommend entering the value 2301 Pa to distinguish between water and products for which the vapour pressure is unknown. Take note: using a default value will affect the outcome of the calculation and is therefore not the preferred option. Stoffenmanager® uses the vapour pressure of the component for the calculation of exposure:
+>
+>  - Value ≤10 Pa → algorithm low-volatile liquids. Stoffenmanager® uses 10 Pa as default.
+>  - Value 10-30.000 Pa → algorithm volatile liquids. Stoffenmanager® uses the exact value.
+>  - Value ≥30.000 Pa → algorithm volatile liquids. Stoffenmanager® uses 30.000 Pa as default.
+>
+>  Sources for the vapour pressure of substances include:
+>
+>  - ECHA database of registered substances: https://echa.europa.eu/information-on-chemicals
+>  - ChemIDPlus: http://chem.sis.nlm.nih.gov/chemidplus
+>  - International Chemical Safety Cards: http://www.inchem.org/pages/icsc.html
+>  - IFA GESTIS Substance Database (connected to Stoffenmanager®): http://tinyurl.com/p89khlm
+>
+>- You can write down any remarks in the ‘Internal notes’ box.
+>- The occupational exposure limit values in mg/m3 can be entered or selected from the SER database (Dutch) or international databases. The estimated exposures can be compared with these limit values to establish whether the work situation is sufficiently controlled.
+>  - Enter the value in mg/m3
+>  - Indicate the limit value type e.g. 8-hour TWA (time-weighted average), 15-minutes or Ceiling
+>  - Indicate the source of the limit value (free text field)
+>  - Choose the country where the limit value applies
+>- When a limit value is selected from the database the limit type is automatically filled in.
+
+> - Dé un nombre al componente.
+>
+> - Introduzca el número CAS. Si el número no está disponible (quizá solo aparezca un número EINECS), puede consultarlo mediante: https://echa.europa.eu/information-on-chemicals
+>
+> - Introduzca el número EC o el número de registro REACH (opcional)
+>
+> - Indique si el componente es un sólido, líquido o "Sólido y líquido". "Sólido y líquido" puede introducirse cuando, por ejemplo, un componente sólido se utiliza en un producto líquido.
+>
+> - Peso molecular es un campo opcional que puede ser usado para convertir de mg/m3 a ppm. Este valor puede importarse de la base de datos GESTIS de la IFA.
+>
+> - Presión de vapor: para realizar una evaluación cuantitativa, la presión de vapor **debe** ser introducida en Pascales (Pa). Cuando la sustancia está presente en la base de datos GESTIS de la IFA, éste valor esta podrá ser seleccionado directamente.  Puede guardar la fuente de la información importada. De ser necesario, puede introducir la presión de vapor del agua (2300 Pa) en caso de que no se conozca un valor para la presión de vapor. En ese caso, recomendamos introducir un valor de 2301 Pa para distinguir el agua de productos cuyas presiones de vapor son desconocidas. Nota: usar un valor por defecto afectará el resultado del cálculo y, por tanto, no es la mejor opción. Stoffenmanager® usa la presión de vapor del componente para el cálculo de la exposición: 
+>
+>   - Valor ≤10 Pa → Algoritmo de líquidos de baja volatilidad. Stoffenmanager® usa 10 Pa como el valor por defecto.
+>   - Valor 10-30.000 Pa → Algoritmo de líquidos volátiles. Stoffenmanager® usa el valor exacto.
+>   - Valor ≥30.000 Pa → Algoritmo de líquidos volátiles. Stoffenmanager® usa 30.000 Pa como el valor por defecto.
+>
+>   Las fuentes para la presión de vapor de las sustancias incluyen:
+>
+>   - Base de datos ECHA de sustancias registradas: https://echa.europa.eu/information-on-chemicals
+>   - ChemIDPlus: http://chem.sis.nlm.nih.gov/chemidplus
+>   - Fichas Internacionales de Seguridad Química: http://www.inchem.org/pages/icsc.html
+>   - Base de datos GESTIS de la IFA (conectada a Stoffenmanager®): http://tinyurl.com/p89khlm
+>
+> - Puede escribir cualquier observación adicional en la caja de texto "notas internas".
+> - Los límites de exposición ocupacional en mg/m3 puede introducirse o seleccionarse desde la base de datos SER (holandesa) o desde bases de datos internacionales. Las exposiciones estimadas pueden compararse con éstos valores límite para establecer si las condiciones de trabajo se encuentran suficientemente controladas.
+>   - Introduzca el valor en mg/m3
+>   - Indique el tipo de valor límite; p. ej. PPT (promedio ponderado en el tiempo) de 8 horas, 15 minutos o valor Techo.
+>   - Indique la fuente del valor límite (campo de texto libre).
+>   - Indique el país donde aplica el valor límite.
+> - Cuando se seleccione un valor límite de la base de datos el tipo de límite se especificará automáticamente.
+
+##### Bloque 18
+
+> - You can add multiple limit values by selecting ‘Add limit value’ and connect these to the component. The first limit value is the default limit value that will be used in the risk assessment. This is indicated by the ([flag icon]) icon. In the risk assessment, you can choose other limit values from the list.
+> - Click on ‘Save’ to save the data. The component has now been created and added to the overview of components.
+
+> - Puede agregar múltiples valores límite seleccionando "Agregar valor límite" y conectarlos al componente. El primer valor límite será el valor límite por defecto a usar en la evaluación de riesgo. Ésto se indica con el ícono ([ícono de bandera]). En la evaluación de riesgo, podrá seleccionar otros valores límite de la lista.
+> - Haga clic en "Guardar" para guardar la información. El componente ha sido creado y agregado al resumen de componentes.
+
+##### Bloque 19
+
+> <u>Overview of components</u>
+>
+> Entered components appear in an overview. This can be filtered for selected viewing. Components that are included in a hazardous substances list uploaded in Stoffenmanager® are indicated. Components included in a CMR-list are marked with an ([red warning icon]) icon. Components in another hazardous substance list are indicated with the ([orange warning icon]) icon. The component can be copied by clicking on the ([copy icon]) icon. Via the ([three dot icon]) icon in the table header, additional columns can be selected or deselected. The screen overview can be exported to Excel.
+
+> <u>Resumen de componentes</u>
+>
+> Los componentes introducidos son mostrados en un resumen. Éste puede filtrarse para ver selecciones específicas. Los componentes que estén incluidos en una lista de sustancias peligrosas cargada a Stoffenmanager® serán resaltados. Los componentes incluidos en alguna lista CMR serán marcados con un ícono ([ícono rojo de advertencia]). Los componentes en alguna otra lista de sustancias peligrosas serán indicados con el ícono ([ícono naranja de advertencia]). Puede copiarse un componente haciendo clic en el ícono ([ícono de copiado]). Mediante el ícono ([ícono de tres puntos ]) en la cabecera de la tabla, pueden seleccionarse o deseleccionarse columnas adicionales. La pantalla del resumen puede exportarse a Excel.
+
+##### Bloque 20
+
+> <u>XML-export</u>
+>
+> The component information can be exported to xml. In this way it is possible to share data with other Stoffenmanager® users. They can then directly import the data. By default this module is switched of. Please contact Cosanta for more information.
+
+> <u>Exportación XML</u>
+>
+> La información del componente puede se exportada a un archivo XML. De esta manera, es posible compartir la información con otros usuarios de Stoffenmanager®. Luego, ellos podrán importar la información directamente. Éste módulo se encuentra desactivado por defecto. Por favor, contacte a Cosanta para más información.
+
+##### Bloque 21
+
+> Components (single substances) can be upgraded to a product using the ([substance upgrade icon]) icon. When this button is selected a new product is created and the following information is taken over to the product:
+>
+> - Name of the products is similar to the name of the component;
+> - If the component is a liquid then the product is identified as liquid, and the vapour pressure of the component is also applied to the liquid;
+> - If the component is a solid then the product is identified as solid. Please note: the dustiness still needs to be selected.
+> - If the component is identified as ‘solid and liquid’ the physical state needs to be selected at the product level. Once a liquid physical state is selected at a product level the components vapour pressure is taken over.*
+> - The component is connected to the product in a concentration of 100%. 
+>
+> These fields can be changed if needed.
+
+*Verificar redacción original; moderación requerida
+
+>Los componentes (sustancias individuales) pueden ser convertidos en productos usando el ícono ([ícono de conversión de sustancia]). Al seleccionar este botón, se crea un nuevo producto y la siguiente información es añadida automáticamente:
+>
+>- El nombre del producto es similar al del componente
+>- Si el componente es un líquido, entonces el producto será identificado como un líquido, y la presión de vapor del componente se aplica a la del producto.
+>- Si el componente es un sólido, entonces el producto será identificado como un sólido. Nota: la concentración de polvo tendrá que ser seleccionada manualmente.
+>- Si el componente se identifica como "Sólido y líquido", tendrá que seleccionarse el estado físico del producto. Una vez que el estado físico líquido sea seleccionado para el producto, se añadirá la presión de vapor del componente.
+>- La concentración del componente en el producto será del 100%.
+>
+>De ser necesario, éstos campos podrán ser modificados.
+
+##### Bloque 22
+
+> Once the components of the product have been created, the next step is to create the product.
+
+>Una vez que los componentes del producto hayan sido creados, el siguiente paso será crear el producto.
+
+##### Bloque 23
+
+> **Suppliers** 
+>
+> At ‘Inventory > Suppliers’ all created suppliers are shown. The data can be changed , deleted or exported to Excel.
+
+> **Proveedores** 
+>
+> En "Inventario > "Proveedores" se muestran todos los proveedores creados. La información podrá ser modificada, eliminada o exportada a Excel.
+
+##### Bloque 24
+
+> **Processes**
+>
+> Here you can predefine processes. When a risk assessment is performed you can select these predefined processes. The risk assessment can then be performed more quickly, because it will not be necessary to answer every question time and again. The following information can be recorded here:
+>
+> - Name of process + description; - Location – you can couple the process to one or more locations.
+> - Task / Handling;*
+> - PROC – the REACH process category (if activated by the administrator)
+> - Duration of the task (in minutes) & frequency of the task;
+> - Distance to the source;
+> - Whether several employees perform the same task;
+> - Whether the task is followed by a period of evaporation, drying or curing;
+> - Use of respiratory protective equipment
+
+*Verificar redacción; posiblemente "Task handling", en lugar de "Task / handling"
+
+> **Procesos**
+>
+> Aquí podrá predefinir procesos. Al realizar una evaluación de riesgo, puede seleccionar éstos procesos predefinidos. De esta manera, la evaluación de riesgo puede realizarse más rápidamente, porque no será necesario responder cada pregunta una y otra vez. Aquí podrá grabar la siguiente información:
+>
+> - Nombre del proceso + descripción
+> - Ubicación – puede asociar más de una ubicación al proceso
+> - Tarea / Manejo
+> - PROC – La categoría de proceso REACH (si ha sido activada por el administrador)
+> - Duración de la tarea (en minutos) y frecuencia de la tarea
+> - Distancia a la fuente
+> - Si varios empleados realizan la misma tarea
+> - Si la tarea es seguida por un período de evaporación, secado o curación
+> - Uso de equipo de protección respiratoria
+
+##### Bloque 25
+
+> NB: The tasks are described generically. When a task is selected, additional information appears that will help confirm whether the correct choice has been made. Where doubt arises, we advise that the most 'conservative' task be chosen: the task that would lead to the highest exposure, or the task leading to the release of the greatest quantity of the substance or the product.
+
+>NB: Las tareas son descritas de manera genérica. Al seleccionar una tarea, aparecerá información adicional que le ayudará a confirmar si ha seleccionado la opción correcta. De surgir alguna duda, recomendamos que escoja la tarea más "conservativa": la tarea que resultaría en la exposición **máxima**, o la tarea que resultaría en la mayor liberación de la sustancia o producto.
+
+##### Bloque 26
+
+> **Workplaces**
+>
+> Here you can predefine workplaces. When a risk assessment is performed you can select these predefined workplaces. The risk assessment can be performed more quickly because it will not be necessary to answer every question time and again. The following information can be recorded here:
+>
+> - Name workplace + description; 
+> - Location – you can couple the workplace to one or more locations.
+> - Volume of the work space;
+> - Ventilation of the work space;
+> - Daily cleaning and inspection of equipment;
+> - Local control measures;
+> - Separation of the employee
+
+>**Ambientes de trabajo**
+>
+>Aquí podrá predefinir ambientes de trabajo. Al realizar una evaluación de riesgo, puede seleccionar éstos procesos predefinidos. De esta manera, la evaluación de riesgo puede realizarse más rápidamente, porque no será necesario responder cada pregunta una y otra vez. Aquí podrá grabar la siguiente información:
+>
+>- Nombre del ambiente de trabajo + descripción
+>- Ubicación– Puede asociar el ambiente de trabajo a una o más ubicaciones
+>- Volumen del área de trabajo
+>- Ventilación del área de trabajo
+>- Limpieza diaria e inspección de equipos
+>- Medidas de control local
+>- Separación del empleado
+
+##### Bloque 27
+
+> **CMR**
+>
+> <u>CMR-registration</u>
+>
+>  At ‘CMR > Registration’ the mandatory register of CMR products can be found. An overview of CMR products used in the company is shown. The overview can be sorted by carcinogenic, mutagenic or reprotoxic products or a combination of these categories. Stoffenmanager® identifies these CMR products automatically based on the H-statements or R-phrases of the products and the CAS-numbers of the single components. Additional (mandatory) information can be entered by clicking on ([insert icon]) or by clicking directly on the product. This can also be done via the product overview by clicking the CMR-shield. A pop-up screen opens and then the additional information can be entered. The overview can be filtered and exported to Excel.
+
+> **CMR**
+>
+> <u>Registro CMR</u>
+>
+>  En "CMR" > "Registro" puede encontrarse el registro obligatorio de productos CMR. Aquí, podrá ver un resumen de los productos CMR usados en la compañía. El resumen puede ser filtrado por productos carcinógenos, mutagénicos, reprotóxicos o alguna combinación de estas categorías. Stoffenmanager® identifica éstos productos CMR automáticamente en función de las declaraciones H o frases R de los productos y los números CAS de cada componente. Puede introducirse información adicional (obligatoria) haciendo clic sobre ([ícono de insertar]) o haciendo clic directamente sobre el producto. Esto también puede realizarse desde el resumen de producto haciendo clic en símbolo de escudo de aviso CMR. Al hacer clic, aparecerá una pantalla emergente y podrá introducir la información en cuestión. El resumen puede ser filtrado y exportado a Excel. 
+
+##### Bloque 28
+
+> <u>Report</u>
+>
+> At ‘CMR > Report’ an overview is given of the products for which mandatory information has been entered. This overview can be saved as Word-file.
+
+> <u>Reporte</u>
+>
+> En "CMR" > "Reporte" se muestra un resumen de los productos a los cuales se ha agregado información obligatoria. Este resumen puede ser guardado como un archivo Word.
+
+##### Bloque 29
+
+> <u>Search CMR-list</u>
+>
+> This menu can be used to search for components that are included in the different CMR-list that are uploaded into Stoffenmanager®. The Dutch list is published twice a year by the Dutch Ministry of Social Affairs and Employment in the Staatscourant (Dutch). You can search by list, component name or CAS-number. For each component, it is indicated if this component is a C, M or R substance or is harmful to breast-fed children. The overview can be exported to Excel.​	
+
+> <u>Buscar en Lista CMR</u>
+>
+> Este menú puede usarse para buscar componentes incluidos en las distintas listas CMR cargadas a Stoffenmanager®. La lista holandesa es publicada bianualmente por el Ministerio Holandés de Asuntos Sociales y Empleo en el Staatscourant. puede buscar por lista, nombre de componente o número CAS. para cada componente, se indica si es una sustancia C, M o R, y si es peligroso para niños lactantes. Este resumen puede ser exportado a Excel.
+
+##### Bloque 30
+
+> **Digital Product Depot**
+>
+> When multiple users work in a Premium account it is not always easy to share products because these are often coupled to locations. When a user does not have access to the specific locations the product is not visible. This could lead to more work and products being entered twice. The Digital Product Depot (DPD) can solve this problem. The DPD can be used as digital product catalogues for the location managers. Within the DPD products are centrally managed and products can be connected to all different locations. Specific user rights apply to the DPD. Users can be assigned read-select and/or edit rights. The enables the use of the DPD in various ways.
+
+> ​**Almacén Digital de Productos**
+>
+> Cuando múltiples usuarios trabajan en una misma cuenta premium, no siempre es fácil compartir productos porque éstos suelen estar acoplados a ubicaciones. Si un usuario no tiene permiso para acceder a una ubicación específica, entonces el producto no será visible. Ésto podría conllevar trabajo extra y productos duplicados. El Almacén Digital de Productos resuelve este problema. El ADP*  puede usarse como catálogos digitales de productos por los gerentes de las ubicaciones. Dentro del ADP, los productos se administran de forma centralizada y pueden ser conectados a todas las distintas ubicaciones. Para el ADP aplican permisos de usuario específicos. A los usuarios le pueden ser asignados permisos para leer-seleccionar y/o permisos para editar. Ésto activa el uso del ADP en varias maneras.
+
+*Traducción de las siglas DPD
+
+##### Bloque 31
+
+> When products are imported these can be placed into this DPD, without coupling the product to locations. Users can be assigned rights to read the DPD and couple products to their own locations. Products that are manually created in Stoffenmanager® can be added to the DPD. In this way these products become available for other users with access to the DPD. They can then also couple the product to their locations. To make use of the DPD first activate the DPD via ‘My company > General Settings’. When the DPD is activated it can be viewed via ‘Inventory > Products’ and then selecting Digital Product Depot.
+
+>Al importar productos, éstos pueden ser colocados en el ADP sin acoplar los productos a ubicaciones particulares. A los usuarios le pueden ser asignados permisos para leer el ADP y acoplar productos a sus ubicaciones propias. Los productos que se crean de forma manual dentro de Stoffenmanager® también pueden ser añadidos al ADP. De esta manera, dichos productos se vuelven disponibles para otros usuarios con acceso al ADP. Éstos, a su vez, también pueden acoplar los productos a sus ubicaciones. Para utilizar el ADP primero active el ADP mediante "Mi compañía" > "Ajustes Generales". Al activar el ADP éste será visible mediante "Inventario" > "Productos" y luego seleccionado Almacén Digital de Productos.
+
+##### Bloque 32
+
+> **XML-export**
+>
+> A xml-file with product data can be generated from the DPD. In this way it is possible to share product data with other Stoffenmanager® users. Besides distributing the SDS as pdf file in the supply chain you can also send a xml-file. To create an xml you first need to select the products in the DPD that you like to export. Than choose ‘Export to xml’. An xml file is now being created that can be imported into Stoffenmanager®. This export module by default is not active – please contact Cosanta if you would like to use this module.
+
+> **Exportación XML**
+>
+> Desde el ADP puede generarse un archivo XML con información de producto. De esta manera, es posible compartir información con otros usuarios de Stoffenmanager®. Además de distribuir la HIS como un archivo PDF en la cadena de suministro, también puede enviar un archivo XML. Para crear un archivo XML primero necesitará seleccionar los productos que desea exportar en el ADP. Luego, seleccione "Exportar a XML". Se creará un archivo XML que podrá ser importado a Stoffenmanager®. Éste módulo de exportación está desactivado por defecto – por favor, contacte a Cosanta si desea usar este módulo.

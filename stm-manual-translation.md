@@ -16,6 +16,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 6. [Configuracion](#configuracion)
 7. [Inventario](#inventario)
 8. [Priorizacion](#priorizacion)
+9. [Evaluacion](#evaluacion)
 
 # Portada
 
@@ -1297,7 +1298,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 >- Volumen del área de trabajo
 >- Ventilación del área de trabajo
 >- Limpieza diaria e inspección de equipos
->- Medidas de control local
+>- Medidas de control locales
 >- Separación del empleado
 
 ##### Bloque 27
@@ -1386,7 +1387,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 > Click on the ‘New risk assessment’ button to perform a new risk assessment. This opens a new screen. You will be guided through the risk assessment in a number of steps.
 
-> Haca clic en el botón "Nueva evaluación de riesgo" para realizar una nueva evaluación de riesgo. Ésto abrirá una nueva pantalla. Luego, será guiado a través de la evaluación de riesgo mediante una serie de pasos.	
+> Haga clic en el botón "Nueva evaluación de riesgo" para realizar una nueva evaluación de riesgo. Ésto abrirá una nueva pantalla. Luego, será guiado a través de la evaluación de riesgo mediante una serie de pasos.	
 
 ##### Bloque 4
 
@@ -1569,4 +1570,328 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 > - Dé un nombre reconocible a la evaluación de riesgo que pueda ser rastreado de vuelta al proceso que esta siendo evaluado. 
 > - Seleccione la ubicación/departamento donde la actividad toma lugar.
 > - Opcional: Fecha de expiración: aquí puede definir la fecha de validez de la evaluación de riesgo. Si no se introduce fecha alguna, esta información no se utiliza o se usa un valor genérico por defecto introducido en "Configuración" > "Mi compañía" > "ajustes de notificación". En la evaluación de riesgo podrá introducir una fecha en específico. Esta fecha anula el valor genérico. Las evaluaciones de riesgo que hayan expirado serán resaltadas en rojo en el resumen de evaluación de riesgo.
+
+##### Bloque 18
+
+> <u>Step 2</u>
+>
+> Depending on the task selected in Step 1, at Step 2 specific follow-up questions are asked about the work, local control measures and the exposed body surface. These questions are not further addressed here.
+
+> <u>Paso 2</u>
+>
+> Dependiendo de la tarea seleccionada en el paso 1, en el paso 2 se harán preguntas específicas sobre el trabajo, las medidas de control locales y la superficie corporal expuesta. Estas preguntas no serán tratadas aquí.
+
+##### Bloque 19
+
+> <u>Step 3</u>
+>
+> Now the outcome of the assessment is presented. This is:
+>
+> - A risk prioritization for local effects, whereby the hazard class (- n.a. – E), the exposure class (1 – 6) and the risk score (I, II or III) are given.
+> - A risk prioritization for systemic effects, whereby the hazard class (- n.a. – E), the exposure class (1 – 6) and the risk score (I, II or III) are given.
+> - A hazard class for eyes (B – E) including advice on personal protection
+> - A specific warning for additional risks related to physical-chemical properties of the product or environmental hazards.
+
+> <u>Step 3</u>
+>
+> Aquí se presenta el resultado de la evaluación. Esto comprende:
+>
+> - La priorización de riesgo para efectos locales, donde se indica la clase de peligro (- n.a. - E), la clase de exposición (1-4) y el puntaje de riesgo (I, II, III).
+> - La priorización de riesgo para efectos sistémicos, donde se indica la clase de peligro (- n.a. - E), la clase de exposición (1-4) y el puntaje de riesgo (I, II, III).
+> - La clase de peligro para ojos (B – E), incluyendo sugerencias sobre protección personal. 
+> - Una advertencia específica para riesgos adicionales relacionados a las propiedades físicas-químicas del producto o peligros ambientales.
+
+##### Bloque 20
+
+> Choose ‘Save’ or ‘save as new version’ to save the risk assessment. The risk assessment is then added to the list of completed risk assessments.
+
+>Escoja "Guardar" o "guardar como nueva versión" para guardar la evaluación de riesgo. Ésta será añadida a la lista de evaluaciones de riesgo completadas.
+
+[Tabla de Contenidos](#tabla-de-contenidos)
+
+# Evaluacion
+
+##### Bloque 1
+
+> At Assessment you can perform a quantitative inhalation risk assessment of the exposure in mg/m3 for each component in the product. For this quantitative risk assessment more detailed information of the components, such as the vapor pressure and the occupational exposure limit value is required. These must be entered under ‘Inventory > Components’. Unfortunately, these data cannot always be found on the SDS. In this case, additional sources of information are required. Stoffenmanager® calculates the exposure during both the task and averaged over the full working day (daily average). The exposure concentrations can then be compared with the occupational exposure limit values like the 8-hour TWA (time-weighted average) or the short-term exposure limit (STEL – 15 min).
+
+> En Evaluación puede realizar evaluaciones cuantitativas de riesgo respiratorio de exposición en mg/m3 para cada componente en un producto. Para ésta evaluación, se requiere información más detallada de los componentes, como la presión de vapor y el valor límite de exposición ocupacional. Éstos deben ser introducidos en "Inventario" > "Componentes". Desafortunadamente, ésta información no siempre se encuentra disponible en la HIS. En tal caso, se requerirán fuentes de información adicionales. Stoffenmanager® calcula la exposición durante la tarea y, además, la exposición promediada sobre el día de trabajo (promedio diario). De esta manera, las concentraciones de exposición pueden ser comparadas con los valores límite de exposición ocupacional, como el  PPT de 8 horas (promedio ponderado en el tiempo), o el límite de exposición de corto plazo (LECT - 15 min)
+
+##### Bloque 2
+
+> At Job daily average multiple tasks performed on one day with the same component can be added. The exposure concentrations can then be compared with the occupational exposure limit values like the 8-hour TWA (time-weighted average).
+
+> En promedio diario de trabajo, pueden agregarse múltiples tareas realizadas en un día con el mismo componente. Las concentraciones de exposición podrán ser comparadas con los valores límite de exposición ocupacional, como el PPT de 8 horas (promedio ponderado en el tiempo).
+
+##### Bloque 3
+
+> At Assessment REACH a quantitative inhalation risk assessment of the exposure in mg/m3 can be performed in accordance with REACH for a single component. This module has been structured such that it is in line with risk assessments as they are performed for REACH exposure assessments.
+
+> En Evaluación REACH, puede realizarse una evaluación cuantitativa de riesgo respiratorio en mg/m3, en conformidad con REACH para un único componente. Éste módulo ha sido estructurado de manera que sea acorde a las evaluaciones de riesgo tal y como son realizadas para las evaluaciones de exposición REACH.
+
+##### Bloque 4
+
+> **Inhalation risk assessment**
+>
+> To perform a new risk assessment or to view a completed assessment select ‘Assessment > Inhalation risk assessment’. This is where completed assessments are presented with the task concentrations in mg/m3. The risk assessments can be updated, deleted, copied or selected for the application of control measures. Risk assessments that are not valid anymore are highlighted in red. Via the ([three dot icon]) icon in the table header additional columns can be selected or deselected. The overview presented on screen can be exported to Excel. There is a direct link to the product assessed. Clicking this hyperlink directly opens the product where data can be viewed or changed. If the risk assessment is performed for a CMR-product a shield ([red warning icon]) is placed in front of the risk assessment. If the product contains components that are listed on a hazardous substance list this is indicated with an ([orange warning icon]) icon.
+
+> Para realizar una nueva evaluación o ver las evaluaciones completadas, seleccione "Evaluación" > "Evaluación de riesgo respiratorio". Aquí es donde se presentan las evaluaciones completas junto con las concentraciones de tarea en mg/m3. Las evaluaciones de riesgo pueden ser actualizadas, eliminadas, copiadas o seleccionadas para la aplicación de medidas de control. Las evaluaciones de riesgo que no ya no sean válidas serán resaltadas en rojo. Mediante el ícono  ([ícono de tres puntos]) en la cabecera de la tabla podrá seleccionar o deseleccionar columnas adicionales. El resumen mostrado en la pantalla podrá ser exportado a Excel. Aquí encontrará un enlace directo al producto evaluado. Hacer clic en el enlace abrirá directamente el producto, donde podrá ver o modificar su información. Si se realiza una evaluación de riesgo para un producto CMR, aparecerá el ícono ([ícono rojo de advertencia]) frente a la evaluación de riesgo. Si el producto contiene componentes que aparecen en alguna lista de sustancias peligrosas, será indicado con el ícono ([ícono naranja de advertencia]).
+
+##### Bloque 5
+
+> Click on the New Risk Assessment button to perform a new risk assessment. This opens a new screen. You will be guided through the risk assessment in a number of steps.
+
+> Haga clic en el botón "Nueva evaluación de riesgo" para realizar una nueva evaluación de riesgo. Ésto abrirá una nueva pantalla. Luego, será guiado a través de la evaluación de riesgo mediante una serie de pasos.	
+
+##### Bloque 6
+
+> **<u>Name:</u>**
+>
+> - Give the risk assessment a recognizable name that can be traced back to the process being assessed.
+> - Select the location/department where the activity takes place. Please note: in the next step only the products are shown that are coupled to the selected location.
+> - Optional: Expiration date: here you can define the validity date of the risk assessment. When no date is entered this information is not used or a default general date is used that is entered at ‘Settings’. Here you can enter a specific date. This date overrules the general value. Risk assessments that have expired are indicated in red in the risk assessment overview.
+> - If you use the SHARE module you can - at the top of this page - indicate if this risk assessment can be published in a SHARE publication. By default this option is switched on. If you do not want to include this risk assessment in a SHARE publication you can switch this off for this risk assessment.
+
+><u>**Nombre:**</u>
+>
+>- Dé un nombre reconocible a la evaluación de riesgo que pueda ser rastreado de vuelta al proceso que esta siendo evaluado. 
+>- Seleccione la ubicación/departamento donde la actividad toma lugar. Nota: en el siguiente paso solo se mostrarán los productos que están acoplados a la ubicación. 
+>- Opcional: Fecha de expiración: aquí puede definir la fecha de validez de la evaluación de riesgo. Si no se introduce fecha alguna, esta información no se utiliza o se usa un valor genérico por defecto introducido en "Configuración". Aquí podrá introducir una fecha en específico. Esta información anula el valor genérico. Las evaluaciones de riesgo que hayan expirado serán resaltadas en rojo en el resumen de evaluación de riesgo.
+>- Si usa el módulo SHARE podrá - al tope de la página - indicar si esta evaluación de riesgo puede ser publicada en una publicación SHARE. Por defecto, esta opción se encuentra activada. Si no desea incluir la evaluación de riesgo en una publicación SHARE puede desactivar la opción para la evaluación de riesgo en cuestión. 
+
+##### Bloque 7
+
+> <u>**Product:**</u>
+>
+> Select if the product is a liquid or solid (powder). Stoffenmanager® will then automatically filter the products and present a list of liquids or a list of solids from which you can choose. The subsequent questions depend on whether liquid or solid has been chosen:
+
+> <u>**Producto:**</u>
+>
+> Seleccione si el producto es un líquido o un sólido (polvo). Stoffenmanager® automáticamente filtrará los productos y presentará una lista de líquidos o una lista de sólidos desde la cual podrá escoger. Las preguntas siguientes dependerán de si ha seleccionado un líquido o un sólido:
+
+##### Bloque 8
+
+> **Liquids:**
+>
+> - Choose the product set. This may be Stoffenmanager® – the manually entered products, or a product from an imported product set.
+> - Select the product you wish to assess.
+> - State whether the product is diluted with water before use. Enter a numerical value between 0-100 (undiluted = 100%).
+
+> **Líquidos:**
+>
+> - Escoja el set de productos. Éste puede ser Stoffenmanager® – el set de productos introducidos manualmente, o un producto de algún set de productos importado.
+> - Seleccione el producto que desea evaluar.
+> - Indique si el producto es diluido en <u>agua</u> antes de ser usado.Luego, introduzca un valor numérico entre 0 y 100 (no diluido = 100%).
+
+##### Bloque 9
+
+> **Solids:**
+>
+> - Indicate if the situation concerns shaping by removing or cutting of material (e.g. sanding, sawing, grinding, etc.).
+>
+>   Please note: Stoffenmanager® is only validated to estimate exposure related to abrasive activities for wood and stone. (Machining operations on plastics, metals, etc. are outside the validity domain).
+>
+> If machining is involved:
+>
+> - Select the type of material (wood or stone)
+
+> **Sólidos:**
+>
+> - Indique si la situación involucra dar forma a un objeto cortándolo o quitándole material (p. ej. lijando, serruchando, afilando, etc.).
+>
+>   Nota: Stoffenmanager® solo se encuentra validado para estimar la exposición asociada a actividades abrasivas sobre madera y piedra. (Las operaciones de mecanizado sobre plásticos, metales, etc. están fuera del dominio de validez*)
+>
+> Si involucra mecanizado:
+>
+> - Seleccione el tipo de material (madera o piedra)
+
+*Traducción alternativa: "... están fuera del alcance de Stoffenmanager®".
+
+##### Bloque 10
+
+> If machining is not involved:
+>
+> - Choose the product set. This may be Stoffenmanager® – the manually entered products, or a product from an imported product set.
+> - Select the product you wish to assess.
+
+> ​Si no involucra mecanizado:
+>
+> - Escoja el set de productos. Éste puede ser Stoffenmanager® – el set de productos introducidos manualmente, o un producto de algún set de productos importado.
+> - Seleccione el producto que desea evaluar.
+
+##### Bloque 11
+
+> <u>**Process:**</u>
+>
+> Here a predefined process can be selected. The questions are then automatically filled in and can be adjusted if needed. This does not affect the predefined process. Alternatively, the questions about the activity can be answered now. The name of the predefined process is copied to the ‘name of process’ field. The information in this field can be adjusted. When you do not use a predefined process you can still use this field and give the process a name. The process name can be selected as a column in the risk assessment overview.
+>
+> - Characterize the task. NB: The tasks are described generically. When a task is selected, additional information appears that will help confirm whether the correct choice has been made. Where doubt arises, we advise that the most 'conservative' task be chosen: the task that would lead to the highest exposure, or the task leading to the release of the greatest quantity of the substance or the product.
+> - Optional: Select the PROC (REACH process category). This selection list is only available if this has been activated by the administrator. The relevant PROC can be assigned as description of the process. The PROC is not used in the risk assessment.
+> - Enter the duration of the task (in minutes);
+> - Select the frequency of the task; NB: This question has an effect only on the risk prioritisation; it does not affect the outcome of the quantitative exposure estimate. The exposure estimate is a task concentration which is independent of the frequency selected here.
+> - State whether the task takes place in the employee's breathing zone (<1 m). NB: If 'yes' is chosen here, further on in the risk assessment, the option 'the employee is in a cabin' is deactivated.
+> - State whether several employees perform the task (this increases the estimate / calculation);
+> - State whether the task is followed by a period of evaporation, drying or curing;
+> - State whether respiratory protective equipment is used. This can be a type from the default Stoffenmanager® list.
+> - Besides the default list it is also possible to select the company specific respirators created by the administrator. The calculation is then performed using the assigned protection factor entered by the administrator.
+>
+> NB: For an initial comparison of the concentration with the occupational exposure limit value, the risk assessment must be performed without including the effect of respiratory protective equipment. The concentration outside the respirator that is worn is compared first with the occupational exposure limit value.
+
+> <u>**Proceso:**</u>
+>
+> Aquí podrá seleccionar un proceso predefinido. Las preguntas de la evaluación serán respondidas de forma automática aunque pueden ser modificadas de ser necesario. Ésto no afecta el proceso predefinido. Alternativamente, las preguntas acerca de la actividad pueden ser respondidas manualmente. El nombre de la proceso predefinido se copia del campo "nombre del proceso". La información en este campo puede ser modificada. Si no usa algún proceso predefinido, aún puede usar este campo y dar un nombre al proceso. El nombre del proceso puede ser seleccionado como una columna en el resumen de evaluación de riesgo.
+>
+> - Caracterizar la tarea. NB: Las tareas son descritas de forma genérica. Al seleccionar una tarea, aparecerá información adicional que le ayudará a confirmar si ha escogido la opción correcta. De surgir alguna duda, recomendamos que escoja la tarea más "conservativa": la tarea que resultaría en la exposición máxima, o la tarea que resultaría en la mayor liberación de la sustancia o producto.
+> - Opcional: Seleccione el PROC (categoría de proceso REACH). Esta lista de selección solo estará disponible si ha sido activada por el administrador. La categoría PROC relevante podrá ser asignada como la descripción del proceso. La categoría PROC no es usada en la evaluación de riesgo.
+> - Introduzca la duración de la tarea (en minutos).
+> - Seleccione la frecuencia de la tarea; NB: Esta pregunta **solo** tendrá efecto sobre la **priorización de riesgo**; no afectará el resultado del estimado cuantitativo de la exposición. El estimado de la exposición es una concentración de <u>tarea</u> que es independiente de la frecuencia seleccionada aquí.
+> - Indique si la tarea toma lugar en la zona de respiración del empleado (< 1 m). NB: Si se escoge "Sí" para esta opción, más adelante en la evaluación de riesgo se marcará la opción "El empleado está en una cabina" como desactivada.
+> - Indique si varios empleados realizan la tarea (ésto incrementa el estimado / valor calculado)
+> - Indique si la tarea es seguida por un período de evaporación, secado o curado. 
+> - Indique si se utiliza equipo de protección respiratoria. Éste puede ser un tipo de la lista por defecto Stoffenmanager®.
+> - Además de la lista por defecto, también es posible seleccionar respiradores específicos de la compañía creados por el administrador. El cálculo se realizará usando el factor de protección asignado por el administrador.
+>
+> NB: Para una comparación inicial con el valor límite de exposición ocupacional, la evaluación de riesgo debe ser realizada **sin** incluir el efecto de equipos de protección respiratoria. Primero se compara la concentración fuera del respirador con el valor límite de exposición ocupacional.
+
+##### Bloque 12
+
+> <u>**​Workplace:**</u>
+>
+> Here a predefined workplace can be selected. The questions are then automatically filled in and can be adjusted if needed. This does not affect the predefined workplace. Alternatively, the questions about the workplace can be answered now. The name of the predefined workplace is copied to the ‘name of workplace’ field. The information in this field can be adjusted. When you do not use a predefined workplace you can still use this field and give the workplace a name. The workplace name can be selected as a column in the risk assessment overview.
+>
+> - Select the volume of the working room;
+> - Select the type of general ventilation;
+
+> <u>**Ambiente de trabajo:**</u>
+>
+> Aquí podrá seleccionarse un ambiente de trabajo predefinido. Las preguntas de la evaluación serán respondidas de forma automática aunque pueden ser modificadas de ser necesario. Ésto no afecta el ambiente de trabajo predefinido. Alternativamente, las preguntas acerca del ambiente de trabajo pueden ser respondidas manualmente. El nombre de la proceso predefinido se copia del campo "nombre del ambiente de trabajo". La información en este campo puede ser modificada. Si no usa algún ambiente de trabajo predefinido, aún puede usar este campo y dar un nombre al ambiente de trabajo. El nombre del ambiente de trabajo puede ser seleccionado como una columna en el resumen de evaluación de riesgo.
+>
+> - Seleccione el volumen de la sala de trabajo.
+> - Seleccione el tipo de ventilación general.
+
+##### Bloque 13
+
+>- State whether the working room is cleaned daily (this reduces the estimate / calculation of the risk);
+>- State whether equipment is well-maintained and inspected (idem);
+>- State whether local control measures are applied;
+>- State whether the employee is situated in a separate cabin;
+
+> - Indique si la sala de trabajo se limpia diariamente (esto reduce el estimado / valor calculado del riesgo).
+> - Indique si el equipo se mantiene e inspecciona apropiadamente.
+> - Indique si se aplican medidas de control locales
+> - Indique si el empleado está ubicado en una cabina separada.
+
+##### Bloque 14
+
+> <u>**Risk assessment**</u>
+>
+> The outcome of the assessment is presented here. This is:
+>
+> - **Liquids:** A task concentration and a daily average concentration in mg/m3 per component in the product.
+> - **Powders:** A task concentration and a daily average concentration for both total inhalable dust in mg/m3 and per component in the product.
+> - **Wood dust:** A task concentration and a daily average concentration for total inhalable wood dust (mg/m3).
+> - **Stone dust:** A task concentration and a daily average concentration in mg/m3 for both inhalable and respirable stone dust.
+
+><u>**Evaluación de riesgo**</u>
+>
+>Aquí se presenta el resultado de la evaluación. Esto comprende:
+>
+>- **Líquidos:** La concentración de tarea y la concentración promedio diaria en mg/m3 por componente del producto. 
+>- **Polvos:** La concentración de tarea y la concentración promedio diaria para tanto el polvo inhalable total en mg/m3 como para cada componente del producto. 
+>- **Polvo de madera:** La concentración de tarea y la concentración promedio diaria para el polvo de madera inhalable total (mg/m3).
+>- **Polvo de piedra:** La concentración de tarea y la concentración promedio diaria en mg/m3 para tanto el polvo de piedra inhalable como para el respirable.
+
+##### Bloque 15
+
+> Clicking on the ([graph icon]) icon opens a figure with information about the variability of exposure for the underlying exposure measurements. Stoffenmanager® presents the 90th percentile. In other words, in 90% of cases, the exposure will be lower than the number presented. In 10% of cases, the exposure will be higher. The Dutch Labor Inspectorate and ECHA (REACH) accepts this ‘reasonable worst case’ calculation as a reliable estimation of the exposure.
+
+> Hacer clic sobre el ícono ([ícono de gráfica]) mostrará una figura con información acerca de la variabilidad de la exposición para las medidas de exposición subyacentes. Stoffenmanager® presenta el percentil 90. Es decir, en el 90% de los casos, la exposición será menor que el número indicado. En el 10% de los casos, la exposición será mayor. El Inspectorado del Trabajo Holandés y ECHA (REACH) aceptan a éste cálculo del "peor caso razonable" como una estimación confiable de la exposición.
+
+##### Bloque 16
+
+> Once the risk assessment has been performed, the estimated exposure concentrations are automatically compared with the occupational exposure limit values of the components concerned. If a component has multiple limit values you can select here the limit values for both the task-concentration and the daily average concentration. The task- and daily average concentration, the exposure limit, the limit type and RCR-task and RCR-day are shown.	
+
+> Una vez que la evaluación de riesgo haya sido realizada, las concentraciones de exposición estimadas serán comparadas automáticamente con los valores límite de exposición ocupacional respectivos. Si un componente posee múltiples valores límite, podrá seleccionar aquí los valores límite tanto para la concentración de tarea como para la concentración promedio diaria. Se mostrarán la concentración de tarea y promedio diaria, el límite de exposición, el tipo de límite, el RCR de tarea y el RCR diario.
+
+##### Bloque 17
+
+> **Risk Characterization Ratio (RCR).** This term is used under the REACH legislation. The RCR is calculated by dividing the estimated concentration by the occupational exposure limit value of the component as entered at ‘Inventory > Components’. A RCR ≥ 1 indicates that the exposure during the task or during the day might exceed the limit value. This value is highlighted in red. A RCR <1 indicates that the concentration during the task or during the day is below the limit value of the component. This value is highlighted in green.
+
+> **Ratio de Caracterización de Riesgo (RCR):** Éste termino es utilizado bajo la legislación REACH. El RCR se calcula dividiendo el estimado de concentración por el valor límite de exposición ocupacional del componente, según aparezca en "Inventario" > "Componentes" . Un RCR ≥ 1 indica que la exposición durante la tarea o durante el día puede exceder el valor límite. En este caso, el valor aparecerá resaltado en rojo. Un RCR < 1 indica que la concentración durante la tarea o durante el día está por debajo del valor límite del componente. En este caso, el valor será resaltado en verde.
+
+##### Bloque 18
+
+> **Task concentration**: This is the concentration in mg/m³ that can be inhaled by the worker during the task due to the activity undertaken and taking into account the implemented control measures.
+
+>**Concentración de tarea:** Esta es la concentración en mg/m3 que puede ser inhalada por el trabajador durante la tarea debido a la actividad realizada, tomando en cuenta las medidas de control implementadas
+
+##### Bloque 19
+
+> **Daily average concentration:** This is the daily average concentration in mg/m³ that can be inhaled by the worker over the 8-hour work shift. For this purpose the task concentration is adjusted for the entered duration of the task. When the task is performed less than 8 hours this results in a lower daily average concentration compared to the task concentration. If the task is performed for 8 hours, the daily average concentration equals the task concentration.
+
+> **Concentración promedio diaria:** Esta es la concentración promedio diaria en mg/m3 que puede ser inhalada por el trabajador durante el turno de trabajo de 8 horas. Para este fin, la concentración de tarea se ajusta en función de la duración de la tarea. Cuando la tarea se realiza menos de 8 horas, esto resulta en una concentración promedio diaria menor en comparación a la concentración de tarea. Si la tarea se realiza por 8 horas, entonces la concentración promedio diaria equivale a la concentración de tarea.
+
+##### Bloque 20
+
+> For powder products first the total inhalable dust concentration is calculated, based on 100% of the powder*. Subsequently, for components in the product, a concentration per component is calculated, based on the concentration of the component in the product. The total concentration of nuisance inhalable dust is however also important. Therefore not only the concentration per components (like for liquids) is presented, but also the total concentration of (nuisance) inhalable dust. This concentration can be compared with a limit value for total inhalable dust.
+
+*Verificar redacción
+
+> Para los productos en polvo primero se calcula la concentración de polvo inhalable total, en función de 100% polvo. Luego se calcula una concentración por componente (para cada  uno de los componentes del producto), basada en la fracción del componente en el producto. Sin embargo, la concentración total de polvo inhalable no clasificado† también es importante. Por lo tanto, no solo se presenta la concentración por componente (como para los líquidos), sino también la concentración de polvo inhalable no clasificado total.
+
+†Traducción sugerida por nombre alternativo disponible en https://www.who.int/occupational_health/publications/en/oehairbornedust3.pdf (pp. 7, sec. 1.1.3)
+
+##### Bloque 21
+
+> Also in the Risk assessment overview, the outcome can be compared with the limit value and the RCR-task and RCR-day are presented (these columns can be selected). When ‘Save’ is clicked, the risk assessment is saved and added to the list of completed risk assessments.
+
+> En el resumen de evaluación de riesgo, también puede compararse el resultado con el valor límite. Además, se muestran el RCR diario y RCR de tarea (estas columnas pueden ser seleccionadas). Al hacer clic en "Guardar", la evaluación de riesgo será guardada y añadida a la lista de evaluaciones de riesgo completadas.
+
+##### Bloque 22
+
+> **Job daily average**
+>
+> A job daily average concentration calculation for a certain job can be performed. This makes it possible to add exposure to one component during multiple tasks and combine this into a job daily average exposure calculation. This can be done for total inhalable dust (powders, wood and stone dust) and for single components (solids and liquids). A job daily average concentration can only be calculated if a quantitative risk assessment has been performed first. 
+>
+> - Go to ‘Assessment> Job daily average’. An overview is presented of all the completed assessments.
+>
+> - Select ‘New job daily average’ to create a new calculation.
+> - Indicate if the job daily average will be performed for inhalable dust (total inhalable dust, wood- and stone dust) or for single components (solid or liquid).
+> - Give the calculation a name.
+> - Select a component if in the previous step ‘components’ was selected. You can search by name, CAS-number, EC-number or REACH registration number.
+> - Select the risk assessments that must be included in the calculation. The duration in minutes is already copied from the entered duration in the risk assessment. If needed the duration can be adjusted here (this will not affect the duration entered at the risk assessment level). Please note: only these risk assessments are presented for products that use the active (current) version of the component.
+
+> **Promedio diario de trabajo**
+>
+> Aquí podrá realizarse un cálculo de la concentración promedio diaria de trabajo para un trabajo en particular. Esto hace posible añadir exposición a un componente durante múltiples tareas y combinar todo en un cálculo de exposición promedio diaria de trabajo. Esto puede hacerse para el polvo inhalable total (productos en polvo y polvos de madera y metal) y para componentes individuales (sólidos y líquidos). Solo podrá calcularse una concentración promedio diaria de trabajo si se ha realizado una evaluación de riesgo cuantitativa primero.
+>
+> - Diríjase a "Evaluación" > "Promedio diario de trabajo"‘. Allí se mostrará un resumen de todas las evaluaciones completadas.
+>
+> - Seleccione "Nuevo promedio diario de trabajo" para crear un nuevo cálculo.
+> - indique si el promedio diario de trabajo se realizará para polvo inhalable (polvo total inhalable, polvo de madera y piedra) o para un componente individual (sólido o líquido).
+> - Dé un nombre al cálculo.
+> - Si seleccionó "componentes" en el paso anterior, seleccione ahora el componente. Puede buscar por nombre, número CAS, número EC o por número de registro REACH.
+> - Seleccione las evaluaciones de riesgo que deberán ser incluidas en el cálculo. La duración en minutos se copia automáticamente de la duración introducida en la evaluación de riesgo. De ser necesario, la duración podrá ser modificada aquí (ésto no afectará la duración indicada en la evaluación) Nota: solo se mostrarán éstas evaluaciones de riesgo para los productos que usen la versión activa (actual) del componente.
+
+##### Bloque 23
+
+> - In the right column the task concentration is given for each component for the respective tasks selected. Below this, the job daily average concentration is given. This value can be compared with the occupational exposure limit value for the component that is valid for an 8-hour exposure, which is known as the 8-hour TWA (time-weighted average). The limit value is presented when the mouse is hovered over the concentration value.	
+
+> - En la columna a la derecha se muestra la concentración de tarea para las tareas respectivas seleccionadas. Debajo de ésto, se muestra la concentración promedio diaria de trabajo. Éste valor puede ser comparado con el valor límite de exposición ocupacional para el componente válido para exposiciones de 8 horas, conocido como el PPT de 8 horas (promedio ponderado en el tiempo). El valor límite se mostrará al sostener el cursor sobre el valor de la concentración.		
+
+##### Bloque 24
+
+> - Select ‘Save’ or ‘save as new version’ to save the calculation.
+
+> - Seleccione "Guardar" o "Guardar como nueva versión" para guardar el cálculo.
+
+##### Bloque 25
+
+> **Assessment REACH**
+>
+> Assessment REACH uses the same Stoffenmanager® algorithms, but has been structured for use specifically under REACH. The route provides for the assessment of components, which is customary under REACH, as opposed to products, whose assessment is provided for in the other modules. Components can be created via ‘Inventory > Components’. Afterwards, a REACH risk assessment can be performed. When selection ‘Assessment > Assessment REACH’ the overview screen of completed assessments is presented. A new assessment can be started by clicking on ‘New assessment’. The assessment is performed in five steps.
+
+>**Evaluación REACH**
+>
+>La Evaluación REACH utiliza los mismos algoritmos que Stoffenmanager®, pero ha sido estructurada específicamente para el uso bajo REACH. 
 

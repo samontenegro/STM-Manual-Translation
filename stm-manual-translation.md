@@ -17,6 +17,11 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 7. [Inventario](#inventario)
 8. [Priorizacion](#priorizacion)
 9. [Evaluacion](#evaluacion)
+10. [Control](#control)
+11. [Comunicacion](#comunicacion)
+12. [Modulos](#modulos)
+13. [Anclaje](#anclaje)
+14. [Anexo 1 - Registro Completo](#anexo-1)
 
 # Portada
 
@@ -364,7 +369,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 > To start using Stoffenmanager® it is important to first define some settings. This can be done via the top right menu, at ‘Settings’ selecting the ‘[cogwheel icon]’ icon. Here you can find all personal and company settings. In the top menu the main categories can be found. These can consist of submenus, that are presented on the left side.
 
->Antes de empezar a utilizar Stoffenmanager® es importante definir algunos ajustes. Esto puede hacerse a través de la barra de navegación superior, en "Configuración" seleccionando el ícono "[ícono de engranaje]". En la barra de navegación superior puede encontrar las categorías principales. Éstas pueden consistir de submenús, que aparecerán del lado izquierdo.
+>Antes de empezar a utilizar Stoffenmanager® es importante definir algunos ajustes. Esto puede hacerse a través de la barra de navegación superior, en "Configuración" seleccionando el ícono "[ícono de engranaje]". Aquí puede encontrar todos los ajustes personales y de la compañía En la barra de navegación superior puede encontrar las categorías principales. Éstas pueden consistir de submenús, que aparecerán del lado izquierdo.
 
 ##### Bloque 2
 
@@ -403,7 +408,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 > - Habilitar el uso del Almacén Digital de Productos (ver § 4.7)
 > -  Seguridad – activar verificación de dos pasos
 > - Conformidad REACH – permitir a usuarios seleccionar una categoría de procesos de REACH (PROC) en las evaluaciones de riesgo
-> - Actualización y sincronización de información. Con esta funcionalidad puede actualizar directamente todas las versiones de los productos y las evaluaciones de riesgo, y recalcular todos los escenarios. Todos los productos son acoplados a las últimas versiones de los componentes, todas las evaluaciones de riesgo a las versiones más recientes de los productos, etc. Los artículos archivados o que están disponibles en un set de productos de solo lectura no son actualizados. Opcionalmente, puede guardar la información ajustada como "nueva versión".
+> - Actualización y sincronización de información. Con esta función puede actualizar directamente todas las versiones de los productos y las evaluaciones de riesgo, y recalcular todos los escenarios. Todos los productos son acoplados a las últimas versiones de los componentes, todas las evaluaciones de riesgo a las versiones más recientes de los productos, etc. Los artículos archivados o que están disponibles en un set de productos de solo lectura no son actualizados. Opcionalmente, puede guardar la información ajustada como "nueva versión".
 
 ##### Bloque 4
 
@@ -510,7 +515,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 >
 > In Stoffenmanager® there are different Workplace instruction card (WIC)-templates. These are a comprised version of the product information entered and give you instructions on the use of the product. At WIC-templates ([template icon]) you can select which templates can be used within your company and which template will be the default one.	
 
-> <u>Plantillas TIAT</u>
+> <u>Plantillas para TIAT</u>
 >
 > En Stoffenmanager® hay distintas plantillas para Tarjetas de instrucciones del ambiente laboral. Estas contienen la información de cada producto y proveen instrucciones sobre su uso*. En Plantillas TIAT ([ícono de plantilla]) puede seleccionar cuales plantillas pueden usarse en su compañía y cual plantilla será la predeterminada.
 
@@ -828,7 +833,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 *Interpretado como "Edit", según especifica el parágrafo anterior. 
 
-> Luego de hacer clic en el ícono "Editar permisos de usuario", el administrador es llevado a una vista donde él o ella puede seleccionar/deseleccionar ítems para establecer los permisos que dicho usuario recibirá. Por defecto, un usuario nuevo no posee permisos asignados. Los permisos se aplican por niveles para cada ubicación y cada funcionalidad. El administrador puede asignar permisos para leer, editar y eliminar. Algunos permisos, como el de leer, editar y eliminar un componente, pueden ser globales†. Esto significa que los permisos no podrán ser aplicados para una ubicación en específico sino que aplicarán para toda la compañía. Al hacer clic en la flecha negra, se mostrarán las columnas para el resto de las funcionalidades. Haca clic en el botón de "guardar" al pie de la página para terminar de asignar permisos y roles.
+> Luego de hacer clic en el ícono "Editar permisos de usuario", el administrador es llevado a una vista donde él o ella puede seleccionar/deseleccionar ítems para establecer los permisos que dicho usuario recibirá. Por defecto, un usuario nuevo no posee permisos asignados. Los permisos se aplican por niveles para cada ubicación y cada función. El administrador puede asignar permisos para leer, editar y eliminar. Algunos permisos, como el de leer, editar y eliminar un componente, pueden ser globales†. Esto significa que los permisos no podrán ser aplicados para una ubicación en específico sino que aplicarán para toda la compañía. Al hacer clic en la flecha negra, se mostrarán las columnas para el resto de las funcionalidades. Haca clic en el botón de "guardar" al pie de la página para terminar de asignar permisos y roles.
 
 †Interpretado de "not location-specific".
 
@@ -1002,7 +1007,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 > - SDS file. A SDS of the product can be uploaded as pdf by selecting ‘Choose file’. For each language available in Stoffenmanager®, one SDS pdf can be uploaded. First, select the language and then select the file you would like to upload. The default language is based on the general language selected after log-in. After saving and reopening the product the SDS can be downloaded here. It can also be downloaded in the product overview screen in the column ‘SDS’ by selecting the ([download icon]) icon. For each product version, a SDS can be uploaded.
 > - If you use the SHARE module you can - at the top of this page - indicate if this product can be published in a SHARE publication. By default this option is switched on. If you do not want to include this product in a SHARE publication you can switch this off for this product.
 
-> - Información de expiración (no obligatorio). Aquí podrá definir la fecha de validez del producto. Si no se ha introducido ninguna fecha, ésta información no será utilizada, o se usará una fecha general por defecto que puede introducirse en "Configuración de la Compañía". Aquí, podrá introducir una fecha específica. Ésta fecha anula el valor genérico. Los productos que hayan expirado serán resaltados en rojo en el resumen de productos.
+> - Información de expiración (no obligatorio). Aquí podrá definir la fecha de validez del producto. Si no se ha introducido ninguna fecha, ésta información no será utilizada, o se usará una fecha general por defecto que puede introducirse en "Ajustes de la compañía". Aquí, podrá introducir una fecha específica. Ésta fecha anula el valor genérico. Los productos que hayan expirado serán resaltados en rojo en el resumen de productos.
 > - Cantidad almacenada (no obligatorio). Aquí podrá, por ejemplo, indicar la cantidad máxima del producto almacenado en su compañía. Este campo aparece también en el registro de sustancias peligrosas.
 > - Campos específicos a productos de la compañía. Si ha creado campos adicionales para el producto (§ 3.1), podrá introducir la información aquí.
 > - Fecha de HIS (No obligatorio). Aquí podrá introducir la fecha de la hoja de información de seguridad (HIS); en la mayoría de los casos, ésta es la fecha de revisión. 
@@ -1062,7 +1067,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 > - Personal protective equipment (4 categories, § 8 SDS). If company specific personal protective equipment devices have been created at ‘Company settings’ these can also be selected here.
 
-> - Equipo de protección personal (cuatro categorías, § 8 HIS). Si han sido creados equipos de protección personal en "Configuración de la compañía", éstos estarán podrán ser seleccionados aquí.
+> - Equipo de protección personal (cuatro categorías, § 8 HIS). Si han sido creados equipos de protección personal en "Ajustes de la compañía", éstos estarán podrán ser seleccionados aquí.
 
 ##### Bloque 12
 
@@ -1837,7 +1842,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 *Verificar redacción
 
-> Para los productos en polvo primero se calcula la concentración de polvo inhalable total, en función de 100% polvo. Luego se calcula una concentración por componente (para cada  uno de los componentes del producto), basada en la fracción del componente en el producto. Sin embargo, la concentración total de polvo inhalable no clasificado† también es importante. Por lo tanto, no solo se presenta la concentración por componente (como para los líquidos), sino también la concentración de polvo inhalable no clasificado total.
+> Para los productos en polvo primero se calcula la concentración de polvo inhalable total, en función a una composición de 100% polvo. Luego se calcula una concentración por componente (para cada  uno de los componentes del producto), basada en la fracción del componente en el producto. Sin embargo, la concentración total de polvo inhalable no clasificado† también es importante. Por lo tanto, no solo se presenta la concentración por componente (como para los líquidos), sino también la concentración de polvo inhalable no clasificado total.
 
 †Traducción sugerida por nombre alternativo disponible en https://www.who.int/occupational_health/publications/en/oehairbornedust3.pdf (pp. 7, sec. 1.1.3)
 
@@ -1889,9 +1894,707 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 > **Assessment REACH**
 >
-> Assessment REACH uses the same Stoffenmanager® algorithms, but has been structured for use specifically under REACH. The route provides for the assessment of components, which is customary under REACH, as opposed to products, whose assessment is provided for in the other modules. Components can be created via ‘Inventory > Components’. Afterwards, a REACH risk assessment can be performed. When selection ‘Assessment > Assessment REACH’ the overview screen of completed assessments is presented. A new assessment can be started by clicking on ‘New assessment’. The assessment is performed in five steps.
+> Assessment REACH uses the same Stoffenmanager® algorithms, but has been structured for use specifically under REACH. The route* provides for the assessment of components, which is customary under REACH, as opposed to products, whose assessment is provided for in the other modules. Components can be created via ‘Inventory > Components’. Afterwards, a REACH risk assessment can be performed. When selection ‘Assessment > Assessment REACH’ the overview screen of completed assessments is presented. A new assessment can be started by clicking on ‘New assessment’. The assessment is performed in five steps.
+
+*Verificar redacción
 
 >**Evaluación REACH**
 >
->La Evaluación REACH utiliza los mismos algoritmos que Stoffenmanager®, pero ha sido estructurada específicamente para el uso bajo REACH. 
+>La Evaluación REACH utiliza los mismos algoritmos que Stoffenmanager®, pero ha sido estructurada específicamente para el uso bajo REACH. La ruta provee las evaluaciones de los componentes (que es usual bajo REACH), mientras que para los productos se proveen las evaluaciones en otros módulos. Pueden crearse componentes en "Inventario" > "Componentes". Luego, podrá realizarse la evaluación REACH. Al seleccionar "Evaluación" > "Evaluación REACH" se mostrará un resumen de las evaluaciones completadas. Podrá iniciar una nueva evaluación haciendo clic en "Nueva evaluación". La evaluación se lleva a cabo en cinco pasos.
 
+##### Bloque 26
+
+> <u>Step 1 - General:</u>
+>
+> Give the contributing scenario a name and select a location. Select a REACH process category (PROC). The PROC is not used in the calculation; it serves simply to identify the process. Also here an expiration date can be entered (optional) for the risk assessment. Enter additional life cycle information like use name and life cycle stage.
+
+><u>Paso 1 - General:</u>
+>
+>Dé al escenario contribuyente un nombre y seleccione una ubicación. Seleccione la categoría de proceso REACH (PROC). La PROC no se utiliza en el cálculo; sirve únicamente para identificar el proceso. Aquí también podrá indicar una fecha de expiración (opcional) para la evaluación de riesgo. Introduzca información adicional acerca del ciclo de vida, como el nombre de uso* y la etapa de ciclo de vida.
+
+*Traducción inferida por descripción del término disponible en https://echa.europa.eu/documents/10162/13632/information_requirements_r12_en.pdf (pp. 32, tabla r.12-4)
+
+##### Bloque 27
+
+> <u>Step 2 - Component:</u>
+>
+> - Choose a product set from which the component will be selected;
+> - Choose the relevant component;
+> - State whether the component is a liquid or solid;
+> - For solids, state whether the substance occurs in a mixture, whether as a pure substance, in a mixture of solids (powder), in a liquid or as a solid object (wood / stone);
+> - Where a powder is concerned, select a dustiness;
+> - Select the concentration of the component in the product;
+
+><u>Paso 2 - Componente:</u>
+>
+>- Escoja el set de productos del cual seleccionará al componente
+>- Escoja el componente
+>- Indique si el componente es un líquido o un sólido
+>- Para sólidos, indique si la sustancia se presenta como una mezcla, en estado puro, como una mezcla de sólidos (polvo), en un líquido o como un objeto sólido (madera / piedra).
+>- Si se trata de un polvo, indique la concentración de polvo
+>- Seleccione la concentración de polvo en el producto
+
+##### Bloque 28
+
+> <u>Step 3 – Task:</u>
+>
+> − Characterize the task performed. The options depend on the earlier choice of product type (solid, liquid);
+> − State the duration of the task (minutes)
+> − State the frequency of the task; NB: This question has an effect only on the risk prioritisation; it does not affect the outcome here in the REACH assessment. The exposure estimate is a task concentration which is independent of the frequency selected here.
+> − State whether the workspace is cleaned daily (this reduces the estimate / calculation of the risk);
+> − State whether equipment is well-maintained and inspected (idem);
+> − State whether the task takes place in the employee's breathing zone (<1 m); NB: If 'yes' is chosen here, further on in the risk assessment, the option 'the employee is in a cabin' is deactivated.
+> − State whether several employees perform the task (this increases the exposure estimation);
+> − State whether the task is followed by a period of evaporation, drying or hardening;
+
+><u>Paso 3 - Tarea:</u>
+>
+>- Caracterice la tarea realizada. Las opciones dependerán de su elección anterior sobre el tipo de producto (sólido, líquido)
+>- Indique la duración de la tarea (en minutos)
+>- Indique la frecuencia de la tarea; NB: Esta pregunta solo tendrá efecto sobre la priorización de riesgo; no afectará el resultado evaluación REACH. El estimado de la exposición es una concentración de tarea que es independiente de la frecuencia indicada aquí
+>- Indique si el espacio de trabajo es limpiado diariamente (esto reduce el estimado / valor del cálculo de riesgo)
+>- Indique si el equipo se mantiene e inspecciona apropiadamente
+>- Indique si la tarea toma lugar en la zona de respiración del empleado (< 1 m). NB: Si se escoge "Sí" para esta opción, más adelante en la evaluación de riesgo se marcará la opción "El empleado está en una cabina" como desactivada.
+>- Indique si varios empleados realizan la tarea (esto incrementa el estimado de la exposición)
+>- Indique si la tarea es seguida por un período de evaporación, secado o endurecimiento. 
+
+##### Bloque 29
+
+> <u>Step 4 – Working room:</u>
+>
+> - Select the volume of the working room;
+> - Select the type of general ventilation;
+> - State whether local control measures are applied;
+> - State whether the employee is situated in a separate cabin;
+> - State whether personal protective equipment is used;
+
+> <u>Paso 4 - Sala de trabajo:</u>
+>
+> - Seleccione el volumen de la sala de trabajo
+> - Seleccione el tipo de ventilación general
+> - Indique si se aplican medidas de control locales
+> - Indique si el empleado está ubicado en una cabina separada
+> - Indique si se utilizan equipos de protección personal
+
+##### Bloque 30
+
+> <u>Step 5 – Result:</u>
+>
+> Now the outcome of the exposure calculation is shown. Stoffenmanager® presents the 90th percentile. In other words, in 90% of cases, the exposure will be lower than the number presented. In 10% of cases, the exposure will be higher. The Dutch Labor Inspectorate and ECHA (REACH) accepts this ‘reasonable worst case’ calculation as a reliable estimation of the exposure. Here it is possible to select other percentiles. Both the task concentration and the daily average concentration are shown (based on the duration entered at step 3). The occupational exposure limit value is also presented, so that it is immediately evident whether the calculated concentration exceeds this limit value.
+
+> <u>Paso 5 - Resultado:</u>
+>
+> Aquí se mostrará el resultado del cálculo de la exposición. Stoffenmanager® presenta el percentil 90. Es decir, en el 90% de los casos, la exposición será menor que el número indicado. En el 10% de los casos, la exposición será mayor. El Inspectorado del Trabajo Holandés y ECHA (REACH) aceptan a éste cálculo del "peor caso razonable" como una estimación confiable de la exposición. También será posible seleccionar otros percentiles. Además, se muestra la concentración de tarea y la concentración promedio diaria (en función de la duración introducida en el paso 3). Finalmente, se muestra el valor límite de exposición ocupacional, de manera que sea evidente si la concentración calculada excede el valor límite. 
+
+##### Bloque 31
+
+> Once it has been saved or saved as new version, the assessment is added to the overview of completed calculations. The risk assessments can be deleted, copied or exported to Chesar 2.2, the REACH Chemical Safety Assessment and Reporting tool (http://chesar.echa.europa.eu/). The overview presented in the grid can be exported to Excel.
+
+> Una vez que haya sido guardada o guardada como una nueva versión, la evaluación se añade al resumen de cálculos completados. Las evaluaciones de riesgo podrán ser eliminadas, copiadas o exportadas a Chesar 2.2, la herramienta de Evaluación de Seguridad e Informes de REACH (http://chesar.echa.europa.eu/). El resumen mostrado podrá ser exportado a Excel.
+
+[Tabla de Contenidos](#tabla-de-contenidos)
+
+# Control
+
+##### Bloque 1
+
+> **Control Measures**
+>
+> Where the exposure to a product is not properly and effectively controlled, (supplementary) control measures can be selected. 
+>
+> - Go to ‘Control > Control measures’ and select inhalation (prioritisation or assessment) or dermal. All the completed risk assessments are shown in the overview screen.
+>
+> - Select the risk assessment to open it. Next, a list of measures is shown, both local control measures and technical measures. Only the measures that can further reduce the exposure can be selected via the ‘View effect’ button.
+> - Click on View effect to show the effect of the measure on the score.
+> - Click on Save as new scenario to allocate the measure.
+> - Give the new version a name and click on Save to make the allocation of the measure final.
+> - Select, if required, supplementary measures.
+> - Go back to the overview screen by clicking on Control Overview at the top of the page. The measure(s) have now been added to the version.
+> - Click on ([trashcan icon]) to delete the version (the risk assessment is saved) or on ([checklist icon]) to include the version in the Action Plan.
+
+>**Medidas de Control**
+>
+>Cuando la exposición a un producto no se encuentra controlada de forma apropiada y efectiva, pueden seleccionarse medidas de control suplementarias.
+>
+>- Diríjase a "Control" > "Medidas de control"  seleccione respiratorias (priorización o evaluación) o dérmicas. Aparecerá un resumen con todas las evaluaciones de riesgo completadas.
+>
+>- Seleccione la evaluación de riesgo para abrirla. Luego, se mostrará una lista de medidas con medidas de control local y medidas técnicas. Solo podrán seleccionarse las medidas que reduzcan aún más la exposición, mediante el botón "Ver efecto". 
+>- Haga clic sobre Ver efecto para mostrar el efecto de la medida sobre el puntaje de riesgo
+>- Haga clic en Guardar como nuevo escenario para asignar la medida.
+>- Dé un nombre a la nueva versión y haga clic en Guardar para finalizar la asignación de la medida.
+>- Seleccione, de ser necesario, medidas suplementarias.
+>- Diríjase de vuelta al resumen haciendo clic en Resumen de Control, al tope de la página. La(s) medida(s) habrá(n) sido añadida(s) a la versión.
+>- Haga clic en ([ícono de bote de basura]) para eliminar la versión (no se modificará la evaluación de riesgo*) o en ([ícono de listado]) para incluir la versión al Plan de Acción.
+
+*Traducción inferida del contexto
+
+##### Bloque 2
+
+> Please note: In contrast to the control measures for inhalation, for dermal multiple measures cannot be 'stacked up'. Only one measure can be selected. Owing to the lack of (scientific) information about the effect of skin control measures, it is possible to select the measures and add them to the Action Plan. However, the application of these measures often does not change the risk score. A new risk score is therefore not presented.
+
+>Nota: A diferencia de las medidas de control para inhalación, no pueden añadirse múltiples medidas dérmicas simultáneamente. Solo una medida podrá ser seleccionada. Debido a la falta de información (científica) acerca de las medidas de control dérmicas, es posible seleccionar varias medidas y agregarlas al Plan de Acción. Sin embargo, a menudo aplicar las medidas no tendrá efecto alguno sobre el puntaje de riesgo. Por lo tanto, no se mostrará un nuevo puntaje de riesgo.
+
+ ##### Bloque 3
+
+> **Action Plan**
+>
+> - Go to ‘Control > Action Plan’ and select inhalation (prioritisation or assessment) or dermal. Shown in the overview screen are all the risk assessments to which measures have been allocated and that have been added to the Action Plan via the icon ([checklist icon]).
+> - Control measures scenarios can be deleted from the Action Plan by clicking on the ([trashcan icon]) icon  (the control measures scenario is saved).
+> - Select ‘Export to Excel’ to open the Action Plan in Excel. After this, additional information can be recorded and the file can be saved locally or printed.
+
+> **Plan de Acción**
+>
+> - Diríjase a "Control > "Plan de Acción" y seleccione respiratorio (priorización o evaluación) o dérmico. En la vista del resumen, se mostrarán todas las evaluaciones de riesgo a las cuales se les hayan asignado medidas de control, y que hayan sido agregadas al plan de acción mediante el ícono ([ícono de listado]). 
+> - Podrá eliminar escenarios de medidas de control desde el Plan de Acción haciendo clic sobre el ícono ([ícono de bote de basura]) (el escenario de medidas de control no será modificado).
+> - Seleccione "Exportar a Excel" para abrir el Plan de Acción en Excel. Luego, podrá agregar información adicional y guardar el archivo de forma local o imprimirlo.
+
+[Tabla de Contenidos](#tabla-de-contenidos)
+
+# Comunicacion
+
+##### Bloque 1
+
+> A number of communication options are available in Stoffenmanager®. These are the register of hazardous products, Workplace instruction cards, inhalation and dermal reports and the PIMEX-movies. These are explained briefly below.
+
+>Stoffenmanager® ofrece al usuario varias opciones de comunicación. Éstas son el registro de productos peligrosos, las tarjetas de instrucciones del ambiente de trabajo, los reportes dérmicos y respiratorios y las películas PIMEX. A continuación se explicarán las opciones brevemente:
+
+##### Bloque 2
+
+> **Register**
+>
+> At ‘Communication > Register’ the mandatory Register Dangerous Products is available. An overview is given of the following data.
+>
+> - Product name
+> - Location / department
+> - Quantity stored
+> - Supplier
+> - SDS Date
+> - Composition
+> - Hazard pictogram
+> - Signal Word
+> - Hazard Statements (H-statements or R-phrases)
+> - Precautionary statements (P-statements of S-phrases)
+>
+> The overview can be filtered and exported to Excel.
+
+> **Registro**
+>
+> En "Comunicación" > "Registro" está disponible el Registro de Productos Peligrosos obligatorio. Allí se muestra un resumen de la siguiente información: 
+>
+> - Nombre de producto	
+> - Ubicación / Departamento
+> - Cantidad almacenada
+> - Proveedor
+> - Fecha de HIS
+> - Composición
+> - Pictograma de peligro
+> - Palabra clave
+> - Declaraciones de peligro (declaraciones h o frases R)
+> - Declaraciones de precaución (declaraciones P o frases S)
+>
+> El resumen podrá ser filtrado y exportado a Excel
+
+##### Bloque 3
+
+> **WIC (workplace instruction cards)**
+>
+> <u>Product workplace instruction cards</u>
+>
+> At ‘Communication > WIC’ the product workplace instruction cards are presented. In a clear and accessible style, the workplace instruction cards present the information that was entered at ‘Inventory > Products’.
+>
+> - Select a product from the list of options or filter by selecting a product set or product.
+> - Select the appearance (there are multiple templates available)
+> - Select ‘Show instruction card’. The workplace instruction card opens on screen.
+> - Select ([download icon]) ‘Save as document’ to open the workplace instruction card. This can then be saved locally and updated or printed as required.
+
+>**TIAT (tarjetas de instrucciones del ambiente de trabajo)**
+>
+><u>Tarjetas de instrucciones del ambiente de trabajo para productos</u>
+>
+>En "Comunicación" > "TIAT" se muestran las tarjetas de instrucciones del ambiente de trabajo para productos. Dichas tarjetas presentan, de forma clara y accesible, la información sobre el producto introducida en "Inventario" > "Productos".
+>
+>- Seleccione un producto de la lista de opciones o filtre la lista seleccionando un set de productos o un producto específico.
+>- Seleccione la apariencia de las tarjetas (existen múltiples plantillas disponibles)
+>- Seleccione "Mostrar tarjeta de instrucciones". La tarjeta se mostrará en la pantalla.
+>- Seleccione ([ícono de descarga]) "Guardar como documento" para abrir la tarjeta. Luego, ésta podrá ser guardada de forma local, actualizada o impresa, según se requiera.
+
+##### Bloque 4
+
+> Alternatively you can also generate the WICs via the product overview (Inventory > products). When you select the column ‘WIC’ the card can be generated. Select ([eye icon]) to view the WIC online. You can then save it as Word-document. Select ([download icon]) to directly download the WIC. Before the WIC opens you have to choose the appearance / format of the WIC. The administrator can set a WIC-template as the default template. This can be done at ‘settings > my company > WIC templates’.
+
+>Alternativamente, también puede generar distintas TIAT mediante el resumen de producto ("Inventario" > "Productos"). Al seleccionar la columna "TIAT" podrá generar la tarjeta. Seleccione ([ícono de ojo]) para visualizar la tarjeta en línea. Luego, podrá guardarla como un documento Word. Seleccione ([ícono de descarga]) para descargar la TIAT directamente. Antes de que la tarjeta sea mostrada, podrá cambiar la apariencia o formato de la tarjeta. El administrador podrá especificar una plantilla para TIAT como la plantilla por defecto. Esto puede hacerse desde "Configuración" > "Mi compañía" > "Plantillas para TIAT".
+
+##### Bloque 5
+
+> <u>Risk workplace instruction card</u>
+>
+> In addition to the product WIK* for each inhalation risk assessment, a Risk WIC can be generated. The Risk WIC is a combination of product data and specific workplace information, like conditions of use and risk management measures. The Risk WIC can be viewed or downloaded as Word-report. The risk assessment parameters have been translated into more easy to read the language. The risk assessment information is divided into a work instruction part (which can be influenced by the worker) and a more general description of the situation on which the risk assessment is based. The Risk WIC can be generated from the risk assessment overview by selecting the column ‘Risk WIC’. Select ([eye icon]) to view the Risk WIC online. You can then save it as Word-document. Select ([download icon]) to directly download the Risk WIC.
+
+*Verificar redacción
+
+><u>Tarjetas de instrucciones del ambiente de trabajo para riesgos</u>
+>
+>Además de las TIAT para productos, para cada evaluación de riesgo respiratorio o dérmico podrá generarse una TIAT de riesgo. La TIAT de riesgo es una combinación de información del producto e información específica sobre el ambiente de trabajo, como las condiciones de uso y las medidas de manejo de riesgo. La TIAT de riesgo puede visualizarse o descargarse como un reporte en formato de Word. Los parámetros de la evaluación de riesgo serán reescritos en un lenguaje más sencillo. La información de la evaluación de riesgo se divide en una parte relacionada con instrucciones de trabajo (que pueden ser influenciadas por el trabajador), y otra que provee una descripción más general de la situación sobre la cual se basa la evaluación de riesgo. La TIAT de riesgo puede ser generada desde el resumen de evaluación de riesgo seleccionando la columna "TIAT de riesgo". Seleccione ([ícono de ojo]) para ver la TIAT de riesgo en línea. Desde allí, podrá guardar la tarjeta como un documento Word. Seleccione ([ícono de descarga]) ara descargar directamente la TIAT de riesgo. 
+
+##### Bloque 6
+
+> **Reports**
+>
+> Stoffenmanager® provides the possibility of generating reports of basic information, completed risk assessments or registers. At ‘Communication > Reports’ all inhalation and dermal risk assessment can be found and generated as Word-file. You can use different filter options to find one or more reports, e.g. a report of risk assessments performed for CMR products.
+
+> **Reportes**
+>
+> Stoffenmanager® ofrece la posibilidad de generar reportes sobre información básica, evaluaciones de riesgo completadas o registros. En "Comunicación" > "Reportes"  todas las evaluaciones de riesgo dérmico y respiratorio están disponibles y pueden ser generadas como archivos Word. Podrá aplicar distintos filtros para encontrar uno más reportes; p. ej. el reporte de las evaluaciones de riesgo realizadas a productos CMR.
+
+##### Bloque 7
+
+> <u>Export to Excel</u>
+>
+> Many overviews (grids) can also be exported to Excel. The columns that are selected and visible on screen can be exported. Each user can select the columns to be viewed. This selection is remembered. Search, filter and sorting functions can be found in the various tables at the different overviews:
+>
+> - A search text can be entered in the blue blanc fields. The filtering starts immediately based on the entered text.
+> - Sorting ascending and descending can be done by clicking the column names.
+> - By selecting the ([three dot icon]) icon and subsequently the ([columns icon]) icon, more or fewer columns can be selected to be presented on screen. The selected columns can be exported to Excel.
+
+> <u>Exportar a Excel</u>	
+>
+> Muchos de los resúmenes podrán ser exportados a Excel. Las columnas visibles en la pantalla que sean seleccionadas podrán ser exportadas. Cada usuario puede seleccionar las columnas a se mostradas. Ésta selección específica será recordada. En las tablas de los distintos resúmenes encontrará funciones para buscar, filtrar y ordenar la información.
+>
+> - Podrá buscar un texto introduciéndolo en los campos azules vacíos. El filtrado se realiza inmediatamente después de ingresar el texto.
+> - Puede ordenarse de forma ascendiente o descendiente la información haciendo clic sobre los nombres de las columnas
+> - Al seleccionar el ícono ([ícono de tres puntos]) y luego el ícono ([ícono de columnas]) pueden seleccionarse más columnas a ser mostradas en la pantalla. Las columnas seleccionadas podrán ser exportadas a Excel.
+
+##### Bloque 8
+
+> **Log (Notification)***
+>
+> All data that is ‘saved as new version’ results in a notification towards other users. These notifications are presented as a number at the upright corner in the ([bell icon]) icon. Changes by other users trigger a notification and the number of ‘unseen’ notifications is indicated ([bell with number icon]). Changes made by yourself do not result in ‘unseen’ notifications, although the actions are recorded (in the Log). When the expiration date of a product or risk assessment is reached, this also results in a notification. By clicking the icon the notification screen opens and the last 10 notifications can be viewed. It is possible to directly go to the item by clicking ([eye icon]) or to compare this item with the previous version ([pages icon]). You can also navigate to the complete Log.
+
+*Corregido del original "Notifciation".
+
+>**Registro (Notificaciones)**
+>
+>Toda la información que sea "Guardada como nueva versión" activará una notificación para los otros usuarios. Estas notificaciones se indican con un número en la esquina superior derecha del ícono ([ícono de campana]). Los cambios de otros usuarios activaran, a su vez, notificaciones para usted, y el número de notificaciones no revisadas se indica como ([ícono de campana con número]). Los cambios realizados por usted no resultan en notificaciones no revisadas, aunque las acciones sí son registradas (en el Registro). Cuando un producto o evaluación de riesgo alcance su fecha de expiración, aparecerá una notificación. Hacer clic en el ícono de notificación abrirá una pantalla y podrá leer las últimas 10 notificaciones. Es posible revisarlas directamente haciendo clic en el ícono ([ícono de ojo]), o comparar los ítems en cuestión con su última versión haciendo clic sobre ([ícono de páginas]). También podrá navegar al Registro completo.
+
+##### Bloque 9
+
+> Every time data is saved as new version this results in a Log record. At ‘Communication > Log’ you can open the Log. It is possible to search for the element that has been changed, the date of change and who performed the action. Also here you can directly go to the items ([eye icon]) or compare the changes with the previous version ([pages icon]). The data can be exported to Excel.
+
+> Cada vez que se guarde información como una nueva versión, la acción será grabada en el registro. En "Comunicación" > "Registro" podrá acceder al Registro. Podrá buscar el elemento que se ha modificado, la fecha de la modificación y quién llevó a cabo la modificación.  También podrá ir directamente al ítem mediante ([ícono de ojo]) o comparar los cambios con la versión anterior ([ícono de páginas]). La información del Registro podrá ser exportada a Excel.
+
+##### Bloque 10
+
+> **Pimex**
+>
+> PIMEX (Picture Mix Exposure) movies are short films. One purpose they serve is to convey clearly the effect of control measures taken against hazardous substances. The Dutch Ministry of Social Affairs and Employment has arranged for these video images to be produced within the Programma Versterking Arbobeleid Stoffen (the program for improving health and safety policy regarding substances). The films are arranged by sector and can also be viewed on the Stoffenmanager® YouTube channel via http://www.youtube.com/user/Stoffenmanager®/
+
+> **Pimex**
+>
+> Las películas PIMEX (Picture Mix Exposure) son pequeños cortometrajes. Uno de sus propósitos es transmitir de forma clara el efecto de las medidas de control aplicadas para contrarrestar sustancias peligrosas. El Ministerio Holandés de Asuntos Sociales y Empleo ha organizado la producción de estos filmes bajo el Programma Versterking Arbobeleid Stoffen (el programa para la mejora de políticas de salud y seguridad en relación a sustancias). Las películas se organizan por sectores y pueden ser vistos en el canal de YouTube de Stoffenmanager en http://www.youtube.com/user/Stoffenmanager®/
+
+[Tabla de Contenidos](#tabla-de-contenidos)
+
+# Modulos
+
+##### Bloque 1
+
+> Under ‘Modules’ you can find additional modules that are linked to Stoffenmanager®
+
+> En "Módulos" podrá encontrar módulos adicionales asociados a Stoffenmanager®
+
+##### Bloque 2
+
+> **Nano**
+>
+> At Nano you will leave the generic Stoffenmanager® and be transferred to the separate Stoffenmanager® nano module. This module allows you to qualitatively assess occupational health risks from inhalation exposure to Manufactured Nano Objects (MNO). Risk Management Measures may be selected or included in the Action Plan. You can use this module with the same log-in details. This module is not further described in this manual.	
+
+> **Nano**
+>
+> En Nano, saldrá de Stoffenmanager® y será transferido al módulo separado Nano de Stoffenmanager®. Éste módulo le permite evaluar de forma cuantitativa los riesgos de salud debidos a la exposición respiratoria a Nano-objetos Fabricados (NOF). Podrá seleccionar Medidas de Manejo de Riesgo o incluirlas en el Plan de Acción. Además, podrá usar éste módulos con las mismas credenciales de inicio de sesión. El módulo no será detallado a fondo en éste manual.
+
+[Tabla de Contenidos](#tabla-de-contenidos)
+
+# Anclaje
+
+##### Bloque 1
+
+> **Version management**
+>
+> With version management, it is possible to track changes for existing data over time without making copies of data. By ‘saving as new version’ old data is not overwritten, but is saved and can be retrieved. The following options can be selected in Stoffenmanager® when adjusting data:
+>
+> - Save: when selecting this option (adjusted) data is saved. Previous data is overwritten and lost. You can see the date of ‘last update’.
+> - Save as new version: the current version is saved and is assigned a version number. The previous version is also saved. It is possible to review all previous versions. It is also possible to compare the current version with the previous one by clicking the ([pages icon]) (compare) icon. Differences between the versions are highlighted in color. The following items can be saved as new version:
+>   - Components
+>   - Products
+>   - Workplaces
+>   - Processes
+>   - Risk assessments inhalation, skin and REACH
+>   - Daily average concentration calculations
+
+> **Control de versiones**
+>
+> En control de versiones es posible seguir los cambios en el tiempo de información existente sin hacer copias de la información. Al "Guardar como nueva versión", la información vieja no se sobrescribe, sino que es guardada y puede ser recuperada. Pueden seleccionarse las siguientes opciones en Stoffenmanager®  al modificar información.
+>
+> - Guardar: al seleccionar esta opción, la información (modificada) se guarda. La información previa es sobrescrita y se pierde. Aquí podrá ver la fecha de "última modificación"
+> - Guardar como nueva versión: la versión actual se guarda y a ésta se le asigna un número de versión. La versión previa también se guarda. Es posible ver todas las versiones anteriores. También, es posible comparar la versión actual con la versión anterior haciendo clic sobre el ícono ([ícono de páginas]) (comparar). Las diferencias entre las distintas versiones es resaltada con color. Los siguientes ítems pueden ser guardados como una nueva versión.
+>   - Componentes
+>   - Productos
+>   - Ambientes de Trabajo
+>   - Procesos
+>   - Evaluaciones de riesgo dérmico, respiratorio y REACH
+>   - Cálculos de concentración diaria promedio
+
+##### Bloque 2
+
+> Appling version management is not mandatory. You can decide if you would like to use version management and how you implement this within your organization. Applying version management has implications when using Stoffenmanager®. This is described below.	
+
+>No es obligatorio aplicar el control de versiones. Usted puede decidir usar el control de versiones y cómo implementarlo en su organización. Aplicar un control de versiones tiene implicaciones al usar Stoffenmanager®. Éstas se describen a continuación.
+
+##### Bloque 3
+
+> <u>General</u>
+>
+> In the header of the different overview tables, using the ([three bar icon]) icon, you can select the columns ‘Version number’, ‘Version date’ and ‘Up to date’. In this way, you can see how many versions exist, the date of the last versions and if the items are up to date. A mouse-over text appears when the mouse cursor is hoovered over the ([ex icon]) icon. An explanation is given why the item is no longer up to date. Select ‘Update’ to directly update the item to its most recent version.
+
+><u>General</u>
+>
+>En la cabecera de distintas tablas de resumen, usando el ícono ([ícono de tres barras]), puede seleccionar las columnas "Número de versión", "Fecha de versión" y "Versión actualizada". De esta manera, puede ver cuantas versiones distintas existen, la fecha de las últimas versiones y si los ítems están al día. Al colocar el cursor del ratón sobre el ícono ([ícono de equis]), se mostrará un texto emergente explicando por qué el ítem ya no está al día. Seleccione "Actualizar" para actualizar directamente el ítem a su versión más reciente.
+
+##### Bloque 4
+
+> <u>Components > Products</u>
+>
+> A component can be saved as a new version. As a result, products containing this component are no longer up to date. These products are not automatically updated. In the component selection part of the product, you will see a column with ‘latest version’. If the latest version is used, the sign is ‘green’, otherwise, this sign is grey.
+
+> <u>Componentes > Productos</u>
+>
+> Al modificar un componente, éste puede ser guardado como una nueva versión. Por lo tanto, los productos que contengan a dicho componente no estarán al día. Estos productos no son actualizados automáticamente. En la sección de selección de componentes del producto, verá una columna con el texto "última versión". Si la última versión está en uso, el símbolo aparecerá verde. De lo contrario, aparecerá gris.	
+
+##### Bloque 5
+
+> You can decide to update the component here and use the latest version for the product composition. A quicker option is to update the entire product directly in the product overview screen. Select the column ‘Up to date’ and select ‘update’. All components are then directly updated. You can indicate if the product should be updated and saved (you will overwrite the previous version) or updated with the creation of a new version.
+
+> Puede decidir actualizar el componente aquí y usar la última versión para la composición del producto. Una opción más rápida es actualizar el producto completamente desde el resumen de producto. Seleccione la columna "Está al día"  y seleccione "actualizar". Todos los componentes serán actualizados directamente. Podrá indicar si el producto debería ser actualizado y guardado (sobrescribiendo la versión anterior) o actualizado con la creación de una nueva versión.
+
+##### Bloque 6
+
+> <u>Products > Risk assessments</u>
+>
+> Products can be saved as a new version. As a result, risk assessments containing this product are no longer up to date. These risk assessments are not automatically updated. The risk assessment remains valid for the previous version. When you open the risk assessment you can see what product is selected for the risk assessment. If the product name is placed between brackets [ ] this indicates that the latest version is not being used. If you want to use the current version you can select the product from the list. This is the version that is not placed between brackets.
+
+> <u>Productos > Evaluaciones de riesgo</u>
+>
+> Al modificar un producto, éste puede ser guardado como una nueva versión. Como consecuencia, las evaluaciones de riesgo que involucren al un producto modificado no estarán al día. Estas evaluaciones de riesgo no son actualizadas de manera automática. La evaluación de riesgo permanece válida solo para la versión anterior del producto. Al abrir la evaluación de riesgo, podrá ver cual producto está siendo usado para la evaluación de riesgo. Si el nombre del producto se encuentra entre corchetes [], esto significa que la versión del producto usada no es la más reciente. Si desea usar la versión actual, puede seleccionar el producto desde la lista. Ésta será la versión que no se encuentre entre corchetes.
+
+##### Bloque 7
+
+> A quicker option is to update the risk assessment directly in the risk assessment overview screen. Select the column ‘Up to date’ and select ‘update’. The underlying data is then directly updated with the latest versions. You can indicate if the risk assessment should be updated and saved (you will overwrite the previous version) or updated with the creation of a new version.
+
+> Una opción más rápida es actualizar la evaluación de riesgo directamente desde el resumen de evaluación de riesgo. Seleccione la columna "Versión actualizada" y seleccione "Actualizar". La información subyacente será automáticamente actualizada con las últimas versiones. Podrá indicar si la evaluación de riesgo debería ser actualizada y guardada (sobrescribiendo la versión anterior) o actualizada con la creación de una nueva versión.
+
+##### Bloque 8
+
+> <u>Risk assessment > Control measures > Action Plan</u>
+>
+> A risk assessment can be saved as a new version. Subsequently, you can view and select control measures. Please note: the selected control measures are always coupled to the active (current) risk assessment. A control measure scenario assigned to a risk assessment is removed from this risk assessment when the assessment is saved as a new version. The control measures and following Action Plan needs to be selected again. If this is not what you want, you can select ‘save’ when adjusting the risk assessment. The connected control measures are then saved.
+
+> <u>Evaluación de riesgo > Medidas de control > Plan de acción</u>
+>
+> Al modificar una evaluación de riesgo, ésta puede ser guardada como una nueva versión. Luego, podrá ver y seleccionar las medidas de control. Nota: las medidas de control seleccionadas siempre se encuentran acopladas a la evaluación de riesgo activa (actual). El escenario de medidas de control asignado a una evaluación será removido de su evaluación de riesgo correspondiente al modificar la evaluación y guardarla como una nueva versión. Por tanto, las medidas de control y el Plan de Acción deberán ser seleccionados de nuevo. Si no desea hacer esto, puede seleccionar "guardar" al modificar la evaluación de riesgo. De ésta manera, las medidas de control asociadas no serán modificadas.	
+
+##### Bloque 9
+
+> <u>Components > Risk assessment > Job daily average concentration</u>
+>
+> A job daily average concentration calculation can only be performed for the latest version of a component. When performing a job daily average concentration calculation a component is selected. Then all risk assessments are shown for products that contain this component. When a component is saved as new version only the risk assessments are shown that use the updated component. Therefore you might first need to update products and risk assessments before you can calculate a job daily average concentration. Select the column ‘up to date’ to see if the job daily average calculation is up to date. If the calculation is no longer up to date you first need to update the underlying risk assessments.
+
+> <u>Componentes > Evaluación de riesgo > Concentración promedio diaria de trabajo</u>
+>
+> Un cálculo de concentración promedio diaria de trabajo solo puede ser realizada para la última versión de un componente. Al realizar un cálculo, se selecciona un componente. Luego, todas las evaluaciones de riesgo para productos que contengan a dicho componente son mostradas. Cuando el componente es guardado como una nueva versión, solo se muestran las evaluaciones de riesgo que utilizan el componente actualizado. Por lo tanto, puede que necesite actualizar primero los productos y las evaluaciones de riesgo antes de poder calcular la concentración promedio diaria de trabajo. Si el cálculo no se encuentra al día, primero tendrá que actualizar las evaluaciones de riesgo subyacentes.
+
+##### Bloque 10
+
+> Data update & synchronisation (settings > my company > general settings). With this functionality you can directly update all versions of products and risk assessments and recalculate all scenarios. All products are coupled to the latest versions of components, all risk assessments to the most recent version of the products etc. Items that are archived or available in a read-only product set are not updated. You can choose to save adjusted information as ‘new version’.
+
+> <u>Actualización de información y sincronización (Configuración > Mi compañía > Ajustes generales)</u>*
+>
+> Con esta función puede actualizar directamente todas las versiones de los productos, evaluaciones de riesgo, y recalcular todos los escenarios. Todos los productos serán acoplados a las últimas versiones de los componentes, todas las evaluaciones de riesgo a las versiones más recientes de los componentes, etc. Los ítems que estén archivados o disponibles en modo solo lectura no serán actualizados. Podrá escoger si desea guardar la información modificada como una "nueva versión".
+
+*Formato añadido. Verificar formato de original
+
+##### Bloque 11
+
+> **Archive**
+>
+> With the archive function, data can be kept, but is not regarded as ‘active’ and therefore not included in overviews like the Dashboard, register dangerous products and register CMR. The data is saved but is indicated as ‘archived’. In the overviews, it is possible to filter on ‘yes, partially or no’. You can also activate (dearchive) data again when items are being used again.
+
+> **Archivo**
+>
+> Con la función Archivo, puede conservarse información sin ser considerada activa, y por tanto no será incluida en resúmenes como el panel de control, el registro de productos peligrosos y el registro CMR. La información es guardada, pero indicando que se encuentra "archivada". En los resúmenes será posible filtrar sobre "Archivada", "Archivada parcialmente" o "No archivada"*. Finalmente, también podrá activar (desarchivar) información cuando necesite utilizar los ítems de nuevo.
+
+*Traducción inferida del contexto; moderación requerida
+
+##### Bloque 12
+
+>**Please note:** you can only archive data if this is not used in a subsequent step. A component, for instance, cannot be archived it this is connected to a product. A product cannot be archived for a specific location when a risk assessment is performed for this product.
+
+> **Nota:** solo podrá archivar información que no sea utilizada en un paso subsiguiente. Por ejemplo, un componente no podrá ser archivado si está conectado a un producto. Un producto no podrá ser archivado en una ubicación específica si una evaluación de riesgo fue realizada para dicho producto.
+
+##### Bloque 13
+
+> The following data can be archived:
+> - Locations – if you archive a location all underlying locations, products and risk assessments are being archived;
+> - Components;
+> - Risk assessment inhalation, skin and REACH;
+> - Products – these can be completely (for all locations), or partially (for a few locations) archived. When you archive a product you need to select the locations for which you like to archive the product. The product overview indicates if a product is archived (yes, partially, no). This is also indicated by a blue line at the right side in the product view screen. If you select the text in the blue line a pop-up screen appears indicating for which locations the product is archived. When a product is completely archived, then also the archive date is presented.
+
+> La siguiente información puede ser archivada:
+>
+> - Ubicaciones – si archiva una ubicación, todas las ubicaciones subyacentes, productos y evaluaciones de riesgo serán archivadas.
+> - Componentes.
+> - Evaluaciones de riesgo respiratorio, dérmico y evaluaciones REACH
+> - Productos – éstos pueden ser completamente (para todas las ubicaciones) o parcialmente (para algunas ubicaciones) archivados. Al archivar un producto, necesitará seleccionar las ubicaciones para las cuales desea archivar el producto. El resumen de producto indicará si un producto se encuentra archivado (archivado, parcialmente archivado o no archivado). Esto también se indicará con una línea azul a la derecha de pantalla de vista de productos. Si selecciona el texto en azul, aparecerá una ventana emergente indicando para cuales ubicaciones el producto se encuentra archivado. Cuando un producto esté completamente archivado, también se mostrara la fecha de archivado.
+
+[Tabla de Contenidos](#tabla-de-contenidos)
+
+# Anexo 1
+
+## Registro Completo: [English](#annex-english) - [Español](#annex-spanish)
+
+<h3 name="annex-english">English</h3> ®
+
+| Nr.     | Version | Date    | Type   | Reference   | Description                                                  |
+| ------- | :-----: | ------- | ------ | ----------- | :----------------------------------------------------------- |
+| **001** |   1.4   | 05-2015 | New    | -           | Introduction of Log changes                                  |
+| **002** |   1.4   | 05-2015 | Update | -           | Update table 1: Stoffenmanager® functionalities per module   |
+| **003** |   1.4   | 05-2015 | New    | -           | Introduction Dashboard                                       |
+| **004** |   1.4   | 05-2015 | New    | -           | Introduction Version management                              |
+| **005** |   1.4   | 05-2015 | New    | -           | Introduction Archive                                         |
+| **006** |   1.4   | 05-2015 | New    | -           | Introduction notifications and Log                           |
+| **007** |   1.4   | 05-2015 | Update | -           | Update import products                                       |
+| **008** |   1.4   | 05-2015 | Update | -           | Update location management                                   |
+| **009** |   1.4   | 05-2015 | New    | -           | Introduction Notification settings                           |
+| **010** |   1.4   | 05-2015 | New    | -           | Introduction Bulk assigning and unassigning locations        |
+| **011** |   1.4   | 05-2015 | Update | -           | Update performing risk assessment inhalation                 |
+| **012** |   1.4   | 05-2015 | Update | -           | Update performing risk assessment skin                       |
+| **013** |   1.4   | 05-2015 | New    | -           | Introduction Search in CMR-lists                             |
+| **014** |   1.4   | 05-2015 | New    | -           | Introduction Export to Excel and sorting                     |
+| **015** |   1.5   | 08-2015 | New    | -           | Introduction RCR tile to Dashboard                           |
+| **016** |   1.5   | 08-2015 | New    | -           | Introduction import component data via IFA GESTIS Database   |
+| **017** |   1.5   | 08-2015 | New    | -           | Introduction filter on hazard class products                 |
+| **018** |   1.5   | 08-2015 | New    | -           | Introduction RCR calculation                                 |
+| **019** |   1.5   | 08-2015 | New    | -           | Added article by Arnone, 2015                                |
+| **020** |   1.6   | 11-2015 | New    | -           | Improved filter functions                                    |
+| **021** |   1.6   | 11-2015 | New    | -           | Upload company logo for reports and instruction card         |
+| **022** |   1.6   | 11-2015 | New    | -           | New template for hazard driven workplace instruction card    |
+| **023** |   1.7   | 02-2016 | New    | -           | Added calculation of daily average concentration             |
+| **024** |   1.7   | 02-2016 | Update | -           | Update texts RCR tile                                        |
+| **025** |   1.7   | 02-2016 | New    | -           | Update and added texts daily average concentration           |
+| **026** |   1.7   | 02-2016 | Update | -           | Update texts daily average concentration                     |
+| **027** |   1.7   | 02-2016 | New    | -           | Added articles by Terwoert & E-TEAM project                  |
+| **028** |   1.7   | 02-2016 | New    | -           | Latest version Stoffenmanager® manual direct downloadable    |
+| **029** |   1.7   | 02-2016 | Update | -           | Update information of vapour pressure of components          |
+| **030** |   1.7   | 02-2016 | New    | -           | WIC information can be added in multiple languages           |
+| **031** |   1.8   | 03-2016 | New    | -           | A SDS can be uploaded as pdf when creating a product         |
+| **032** |   1.8   | 03-2016 | New    | -           | Swedish language added as language in Stoffenmanager®        |
+| **033** |   1.9   | 04-2016 | Update | -           | Company information transferred ? Company settings           |
+| **034** |   1.9   | 04-2016 | New    | -           | Creating additional product fields at company settings added |
+| **035** |   1.9   | 04-2016 | Update | -           | Company settings adjusted                                    |
+| **036** |   1.9   | 04-2016 | New    | -           | Digital Product Depot added                                  |
+| **037** |   1.9   | 04-2016 | New    | -           | Process name and workplace name added to risk assessment     |
+| **038** |   1.9   | 04-2016 | New    | -           | Risk WIC added                                               |
+| **039** |   1.9   | 04-2016 | New    | -           | The Stoffenmanager® website is now flexible                  |
+| **040** |   2.0   | 05-2016 | New    | -           | Polish language added as language in Stoffenmanager®         |
+| **041** |   2.0   | 05-2016 | Update | -           | Updated import functionalities                               |
+| **042** |   2.1   | 08-2016 | Update | -           | Updated version management                                   |
+| **043** |   2.1   | 08-2016 | New    | -           | Assigning products to the Digital Product Depot              |
+| **044** |   2.2   | 10-2016 | Update | -           | Adjustments that for new users by default no rights are assigned |
+| **045** |   2.2   | 10-2016 | Update | -           | Maximum size of import file increased from 7 to 40MB         |
+| **046** |   2.2   | 10-2016 | New    | -           | Exposure calculations for solid components in powder mixture |
+| **047** |   2.2   | 10-2016 | New    | -           | Calculate job daily average for solid components             |
+| **048** |   2.2   | 10-2016 | Update | -           | Possibility to enter very low values (numbers)               |
+| **049** |   2.3   | 11-2016 | New    | -           | Indication of expired H- and P-statements                    |
+| **050** |   2.4   | 04-2017 | New    | -           | Uploaded files by Cosanta                                    |
+| **051** |   2.4   | 04-2017 | New    | -           | Enter expiration date for products                           |
+| **052** |   2.4   | 04-2017 | New    | -           | Create company specific personal protective equipment devices |
+| **053** |   2.4   | 04-2017 | New    | -           | Extended number of available columns in product overview     |
+| **054** |   2.4   | 04-2017 | Update | -           | Reduced number of mandatory field when entering product data |
+| **055** |   2.4   | 04-2017 | New    | -           | Upload SDS in every available language                       |
+| **056** |   2.4   | 04-2017 | New    | -           | Changed order of entering product data                       |
+| **057** |   2.4   | 04-2017 | New    | -           | Extended number of available columns in risk assessment overview |
+| **058** |   2.4   | 04-2017 | New    | -           | Addition of eye hazard class + additional special warning texts |
+| **059** |   2.4   | 04-2017 | New    | -           | Addition of eye hazard class + additional special warning texts |
+| **060** |   2.4   | 04-2017 | Update | -           | Updated register hazardous products                          |
+| **061** |   2.4   | 04-2017 | Update | -           | Updated register CMR products                                |
+| **062** |   2.4   | 04-2017 | New    | -           | New articles added to Stoffenmanager® literature list        |
+| **063** |   2.4   | 04-2017 | New    | -           | Generate an xml-export of product data via the Digital Product Depot |
+| **064** |   2.5   | 11-2017 | New    | -           | Inclusion of multiple (CMR)-lists of hazardous substances    |
+| **065** |   2.5   | 11-2017 | Update | -           | User interface icons are renewed                             |
+| **066** |   2.5   | 11-2017 | New    | -           | Activate multiple lists of hazardous substances              |
+| **067** |   2.5   | 11-2017 | New    | -           | Activate Stoffenmanager® SHARE                               |
+| **068** |   2.5   | 11-2017 | Update | -           | Company-specific personal protective equipment devices Multilanguage |
+| **069** |   2.5   | 11-2017 | New    | -           | New component fields available, e.g. EC-number, REACH-number |
+| **070** |   2.5   | 11-2017 | New    | -           | Multiple limit values can be assigned to a component         |
+| **071** |   2.5   | 11-2017 | New    | -           | Possibility to upgrade a component to a product              |
+| **072** |   2.5   | 11-2017 | New    | -           | Extended number of available columns in components overview  |
+| **073** |   2.5   | 11-2017 | New    | -           | Extended search option when adding components to a product   |
+| **074** |   2.5   | 11-2017 | New    | -           | Multiple limit values can be used in the risk assessment     |
+| **075** |   2.5   | 11-2017 | New    | -           | Stoffenmanager® SHARE available as separate module           |
+| **076** |   2.5   | 11-2017 | New    | -           | Updated register CMR products with multiple CMR-lists        |
+| **077** |   2.6   | 05-2018 | Update | -           | Company settings, personal settings and administrator settings areintegrated into one 'settings' menu. |
+| **078** |   2.6   | 05-2018 | New    | -           | Administrator can set a default WIC template                 |
+| **079** |   2.6   | 05-2018 | New    | -           | Administrator can activate two-step verification             |
+| **080** |   2.6   | 05-2018 | New    | -           | Administrator can activate REACH PROCs                       |
+| **081** |   2.6   | 05-2018 | New    | -           | Administrator can directly update all information and recalculate data |
+| **082** |   2.6   | 05-2018 | New    | -           | Assigning protection factor to custom respirator             |
+| **083** |   2.6   | 05-2018 | New    | -           | A new user receives an email with link instead of a password |
+| **084** |   2.6   | 05-2018 | New    | -           | Administrator can send an account-recovery link to a user    |
+| **085** |   2.6   | 05-2018 | New    | -           | Every user can activate auto-completion at the WIC-texts     |
+| **086** |   2.6   | 05-2018 | New    | -           | New icon indicating that a component is listed on a hazard list |
+| **087** |   2.6   | 05-2018 | New    | -           | New column 'products' in the component overview                |
+| **088** |   2.6   | 05-2018 | New    | -           | Component data can be exported as xml-file                   |
+| **089** |   2.6   | 05-2018 | New    | -           | Products can be exported to Excel per location               |
+| **090** |   2.6   | 05-2018 | New    | -           | New columns added to the product overview                    |
+| **091** |   2.6   | 05-2018 | New    | -           | Choice to publish a product in a SHARE publication           |
+| **092** |   2.6   | 05-2018 | New    | -           | Option to choose 'gas' as physical state of the product        |
+| **093** |   2.6   | 05-2018 | New    | -           | SDS-upload is by default coupled to the language selected at log-in |
+| **094** |   2.6   | 05-2018 | New    | -           | Components can be opened directly out of the product edit screen |
+| **095** |   2.6   | 05-2018 | New    | -           | Components can be deleted directly out of the product edit screen |
+| **096** |   2.6   | 05-2018 | New    | -           | Use auto-completion when entering WIC-texts                  |
+| **097** |   2.6   | 05-2018 | New    | -           | Assign a REACH PROC to a process template                    |
+| **098** |   2.6   | 05-2018 | New    | -           | New columns added to the risk assessment overview            |
+| **099** |   2.6   | 05-2018 | New    | -           | Choice to publish a risk assessment in a SHARE publication   |
+| **100** |   2.6   | 05-2018 | New    | -           | Assign a REACH PROC in the risk assessment                   |
+| **101** |   2.6   | 05-2018 | New    | -           | New list of respiratory protection factors                   |
+| **102** |   2.6   | 05-2018 | New    | -           | Calculate exposure using own respirator and assigned protection factor |
+| **103** |   2.6   | 05-2018 | New    | -           | Search for component by CAS-, EC-, or REACH-registration number |
+| **104** |   2.6   | 05-2018 | New    | -           | New columns added to the risk assessment overview            |
+| **105** |   2.6   | 05-2018 | New    | -           | Assign a REACH PROC in the risk assessment                   |
+| **106** |   2.6   | 05-2018 | New    | -           | REACH report available in Word-format                        |
+| **107** |   2.6   | 05-2018 | New    | -           | Product information can be converted and exported to xml     |
+| **108** |   2.6   | 05-2018 | New    | -           | Inclusion of multiple (CMR)-lists of hazardous substances    |
+| **109** |   2.7   | 10-2018 | New    | -           | Website changed to www.stoffenmanager.com                    |
+| **110** |   2.7   | 10-2018 | New    | -           | User interface changed - new workflow                         |
+| **111** |   2.7   | 10-2018 | New    | -           | Stoffenmanager® is now responsive for use on tablet and smartphone |
+| **112** |   2.7   | 10-2018 | New    | § 4.4 & 4.5 | Processes and workplaces can be assigned to locations        |
+
+[Volver al tope](#anexo-1) - [Tabla de contenidos](#tabla-de-contenidos)
+
+<h3 name="annex-spanish">Español</h3>
+
+| Nr.     | Version | Date    | Type   | Reference   | Description                                                  |
+| ------- | :-----: | ------- | ------ | ----------- | :----------------------------------------------------------- |
+| **001** |   1.4   | 05-2015 | Nuevo    | -           | Introducción de Registro de cambios                          |
+| **002** |   1.4   | 05-2015 | Actualización | -           | Actualizada tabla 1: funciones de Stoffenmanager® por módulo  |
+| **003** |   1.4   | 05-2015 | Nuevo    | -           | Introducción del Panel de Control                            |
+| **004** |   1.4   | 05-2015 | Nuevo    | -           | Introducción de Control de versiones                         |
+| **005** |   1.4   | 05-2015 | Nuevo    | -           | Introducción del Archivo                                     |
+| **006** |   1.4   | 05-2015 | Nuevo    | -           | Introducción de Notificaciones y Registro                    |
+| **007** |   1.4   | 05-2015 | Actualización | -           | Actualizar importación de productos                          |
+| **008** |   1.4   | 05-2015 | Actualización | -           | Actualizar gestión de ubicaciones                            |
+| **009** |   1.4   | 05-2015 | Nuevo    | -           | Actualizar Ajustes de notificación                           |
+| **010** |   1.4   | 05-2015 | Nuevo    | -           | Introducción de asignación en masa y desasignar ubicaciones  |
+| **011** |   1.4   | 05-2015 | Actualización | -           | Actualizar realización de evaluaciones de riesgo respiratorio|
+| **012** |   1.4   | 05-2015 | Actualización | -           | Actualizar realización de evaluaciones de riesgo dérmico     |
+| **013** |   1.4   | 05-2015 | Nuevo    | -           | Introducción de búsqueda en listas CMR                       |
+| **014** |   1.4   | 05-2015 | Nuevo    | -           | Introducción Exportar a Excel y Ordenar                      |
+| **015** |   1.5   | 08-2015 | Nuevo    | -           | Introducción ficha RCR al panel de control                   |
+| **016** |   1.5   | 08-2015 | Nuevo    | -           | Introducción importar información de componente mediante base de datos GESTIS de la IFA |
+| **017** |   1.5   | 08-2015 | Nuevo    | -           | Introducción filtrar productos sobre clase de peligro 		|
+| **018** |   1.5   | 08-2015 | Nuevo    | -           | Introducción cálculo de RCR 									|
+| **019** |   1.5   | 08-2015 | Nuevo    | -           | Agregado artículo por Arnone, 2015 							|
+| **020** |   1.6   | 11-2015 | Nuevo    | -           | Mejoradas funciones de filtrado 								|
+| **021** |   1.6   | 11-2015 | Nuevo    | -           | Agregada carga de logotipo de compañía para reportes y tarjetas de instrucciones |
+| **022** |   1.6   | 11-2015 | Nuevo    | -           | Nueva plantilla para tarjeta de instrucciones del ambiente de trabajo de peligro |
+| **023** |   1.7   | 02-2016 | Nuevo    | -           | Agregado cálculo de concentración promedio diaria 			|
+| **024** |   1.7   | 02-2016 | Actualización | -           | Actualizados textos de ficha RCR 							|
+| **025** |   1.7   | 02-2016 | Nuevo    | -           | Actualizados y agregados textos de concentración promedio diaria |
+| **026** |   1.7   | 02-2016 | Actualización | -           | Actualizados textos de concentración promedio diaria 		|
+| **027** |   1.7   | 02-2016 | Nuevo    | -           | Agregados artículos por Terwoert y el projecto E-TEAM 		|
+| **028** |   1.7   | 02-2016 | Nuevo    | -           | Descarga directa de última versión del manual de Stoffenmanager® |
+| **029** |   1.7   | 02-2016 | Actualización | -           | Actualizar información de presión de vapor de componentes 	|
+| **030** |   1.7   | 02-2016 | Nuevo    | -           | Información de TIAT puede ser agragada en múltiples lenguajes |
+| **031** |   1.8   | 03-2016 | Nuevo    | -           | Una HIS puede ser cargada como PDF al crear un producto 		|
+| **032** |   1.8   | 03-2016 | Nuevo    | -           | Lenguaje Sueco agragado como lenguaje disponible en Stoffenmanager® |
+| **033** |   1.9   | 04-2016 | Actualización | -           | Información de compañía transferido → Ajustes de la compañía |
+| **034** |   1.9   | 04-2016 | Nuevo    | -           | Agregado Crear campos de producto adicionales en Ajustes de la compañía |
+| **035** |   1.9   | 04-2016 | Actualización | -           | Modificado Ajustes de la compañía |
+| **036** |   1.9   | 04-2016 | Nuevo    | -           | Agregado Almacén Digital de Productos |
+| **037** |   1.9   | 04-2016 | Nuevo    | -           | Agregados nombre de proceso y nombre de ambiente de trabajo a evaluaciones de riesgo |
+| **038** |   1.9   | 04-2016 | Nuevo    | -           | Agregada TIAT de riesgo                                      |
+| **039** |   1.9   | 04-2016 | Nuevo    | -           | La página web de Stoffenmanager® ahora es flexible           |
+| **040** |   2.0   | 05-2016 | Nuevo    | -           | Lenguaje Polaco añadido como lenguaje disponible en Stoffenmanager®         |
+| **041** |   2.0   | 05-2016 | Actualización | -           | Actualizadas funciones de importación 						|
+| **042** |   2.1   | 08-2016 | Actualización | -           | Actualizado control de versiones								|
+| **043** |   2.1   | 08-2016 | Nuevo    | -           | Agregado asignar productos al Almacén Digital de productos 	|
+| **044** |   2.2   | 10-2016 | Actualización | -           | Modificados permisos por defecto para nuevos usuarios (permisos sin asignar) |
+| **045** |   2.2   | 10-2016 | Actualización | -           | Tamaño maximo para importación de archivo aumentado de 7 a 40MB |
+| **046** |   2.2   | 10-2016 | Nuevo    | -           | Añadido cálculo de exposición para componentes sólidos en una mezcla en polvo |
+| **047** |   2.2   | 10-2016 | Nuevo    | -           | Añadido cálculo de promedio diario de trabajo para componentes sólidos |
+| **048** |   2.2   | 10-2016 | Actualización | -           | Es posible introducir valores muy pequeños (números) |
+| **049** |   2.3   | 11-2016 | Nuevo    | -           | Agregada indicación de declaraciones H y P expiradas |
+| **050** |   2.4   | 04-2017 | Nuevo    | -           | Archivos de Cosanta cargados |
+| **051** |   2.4   | 04-2017 | Nuevo    | -           | Agregado introducir fecha de expiración para productos |
+| **052** |   2.4   | 04-2017 | Nuevo    | -           | Agregado crear equipos de protección personal específicos de la compañía |
+| **053** |   2.4   | 04-2017 | Nuevo    | -           | Extendido el número de columnas disponibles en resumen de productos |
+| **054** |   2.4   | 04-2017 | Actualización | -           | Reducido el número de campos obligatorios al introducir información de producto |
+| **055** |   2.4   | 04-2017 | Nuevo    | -           | Añadida carga de HIS para cada lenguaje disponible |
+| **056** |   2.4   | 04-2017 | Nuevo    | -           | Cambiado el orden de introducción de información de producto |
+| **057** |   2.4   | 04-2017 | Nuevo    | -           | Extendido el npumero de columnas disponibles en el resumen de evaluaciones de riesgo |
+| **058** |   2.4   | 04-2017 | Nuevo    | -           | Agregada clase de peligro ocular + agregados textos de advertencia especiales |
+| **059** |   2.4   | 04-2017 | Nuevo    | -           | Agregada clase de peligro ocular + agregados textos de advertencia especiales |
+| **060** |   2.4   | 04-2017 | Actualización | -           | Actualizado registro de productos peligrosos |
+| **061** |   2.4   | 04-2017 | Actualización | -           | Actualizado registro de productos CMR |
+| **062** |   2.4   | 04-2017 | Nuevo    | -           | Añadidos nuevos artículos a la lista de literatura sobre Stoffenmanager® |
+| **063** |   2.4   | 04-2017 | Nuevo    | -           | Generar reporte XML de producto de información mediante Almacén Digital de Productos |
+| **064** |   2.5   | 11-2017 | Nuevo    | -           | Inclusión de múltiples listas CMR de sustancias peligrosas |
+| **065** |   2.5   | 11-2017 | Actualización | -           | Íconos de interfaz de usuarios renovados |
+| **066** |   2.5   | 11-2017 | Nuevo    | -           | Activadas múltiples listas de sustancias peligrosas |
+| **067** |   2.5   | 11-2017 | Nuevo    | -           | Activado Stoffenmanager® SHARE                               |
+| **068** |   2.5   | 11-2017 | Actualización | -           | Equipos de protección personal específcos de la compañía en múltiples lenguajes |
+| **069** |   2.5   | 11-2017 | Nuevo    | -           | Nuevos campos disponibles para componentes, p. ej. número EC, número CAS, número REACH |
+| **070** |   2.5   | 11-2017 | Nuevo    | -           | Múltiples valores límite pueden ser asignados a un componente |
+| **071** |   2.5   | 11-2017 | Nuevo    | -           | Posibilidad de actualizar un componente a un producto |
+| **072** |   2.5   | 11-2017 | Nuevo    | -           | Extendido el número de columnas disponibles en el resumen de componentes |
+| **073** |   2.5   | 11-2017 | Nuevo    | -           | Extendida opción de búsqueda al añadir componentes a un producto |
+| **074** |   2.5   | 11-2017 | Nuevo    | -           | Múltiples valores límite pueden ser usados en una evaluación de riesgo |
+| **075** |   2.5   | 11-2017 | Nuevo    | -           | Stoffenmanager® SHARE disponible como un módulo separado           |
+| **076** |   2.5   | 11-2017 | Nuevo    | -           | Actualizado registro de productos CMR con múltiples listas CMR |
+| **077** |   2.6   | 05-2018 | Actualización | -           | Ajustes de compañía, ajustes personales y ajustes de administador integrados bajo un solo menu "Configuración" |
+| **078** |   2.6   | 05-2018 | Nuevo    | -           | El administrador puede definir una plantilla TIAT por defecto |
+| **079** |   2.6   | 05-2018 | Nuevo    | -           | El administrador puede activar verificación de dos pasos |
+| **080** |   2.6   | 05-2018 | Nuevo    | -           | El administrador puede activar categorías PROC de REACH |
+| **081** |   2.6   | 05-2018 | Nuevo    | -           | El administrador puede actualizar directamente toda la información y recalcular la información |
+| **082** |   2.6   | 05-2018 | Nuevo    | -           | Añadida función para asignar factores de protección para respiradores personalizados |
+| **083** |   2.6   | 05-2018 | Nuevo    | -           | Un usuario nuevo recibe un e-mail con un enlace en vez de una contraseña |
+| **084** |   2.6   | 05-2018 | Nuevo    | -           | El administrador puede enviar un enlace de recuperación de cuenta a un usuario |
+| **085** |   2.6   | 05-2018 | Nuevo    | -           | Cada usuario puede activar la auto-completación para textos de TIAT |
+| **086** |   2.6   | 05-2018 | Nuevo    | -           | Nuevo ícono indicando que un componente aparece en una lista de sustancias peligrosas |
+| **087** |   2.6   | 05-2018 | Nuevo    | -           | Nueva columna "productos" en el resumen de componentes |
+| **088** |   2.6   | 05-2018 | Nuevo    | -           | La información de componente puede ser exportada como un archivo XML |
+| **089** |   2.6   | 05-2018 | Nuevo    | -           | Los productos pueden ser exportados a Excel por ubicación |
+| **090** |   2.6   | 05-2018 | Nuevo    | -           | Nuevas columnas añadidas al resumen de producto |
+| **091** |   2.6   | 05-2018 | Nuevo    | -           | Opción para escoger si publicar un producto en una publicación SHARE |
+| **092** |   2.6   | 05-2018 | Nuevo    | -           | Opción para escoger "gas" como estado físico de un producto |
+| **093** |   2.6   | 05-2018 | Nuevo    | -           | La carga de HIS se acopla por defecto al lenguaje seleccionado al iniciar sesión |
+| **094** |   2.6   | 05-2018 | Nuevo    | -           | Los componentes pueden ser abiertos directamente desde la pantalla de edición de producto |
+| **095** |   2.6   | 05-2018 | Nuevo    | -           | Los componentes pueden ser eliminados directamente desde la pantalla de edición de producto |
+| **096** |   2.6   | 05-2018 | Nuevo    | -           | Usar auto-completación al introducir textos de TIAT |
+| **097** |   2.6   | 05-2018 | Nuevo    | -           | Asignar categorías PROC de REACH a una plantilla de proceso |
+| **098** |   2.6   | 05-2018 | Nuevo    | -           | Nuevas columnas añadidas al resumen de evaluación de riesgo |
+| **099** |   2.6   | 05-2018 | Nuevo    | -           | Opción para escoger publicar una evaluación de riesgo en una publicación SHARE |
+| **100** |   2.6   | 05-2018 | Nuevo    | -           | Asignar una categoría PROC de REACH en las evaluaciones de riesgo |
+| **101** |   2.6   | 05-2018 | Nuevo    | -           | Nueva lista de factores de protección respiratoria |
+| **102** |   2.6   | 05-2018 | Nuevo    | -           | Calcular exposición usando respiradores propios y factores de protección asignados |
+| **103** |   2.6   | 05-2018 | Nuevo    | -           | Buscar componente por número CAS, número EC o número de registro REACH |
+| **104** |   2.6   | 05-2018 | Nuevo    | -           | Nuevas columnas añadidas al resumen de evaluacion de riesgo |
+| **105** |   2.6   | 05-2018 | Nuevo    | -           | Asignar una categoría PROC de REACH en las evaluacionees de riesgo |
+| **106** |   2.6   | 05-2018 | Nuevo    | -           | Reportes REACH disponibles en fomrato Word |
+| **107** |   2.6   | 05-2018 | Nuevo    | -           | Información de producto puede ser convertida y exportada en formato XML |
+| **108** |   2.6   | 05-2018 | Nuevo    | -           | Inclusión de múltiples listas CMR de sustancias peligrosas |
+| **109** |   2.7   | 10-2018 | Nuevo    | -           | Página web cambiada a www.stoffenmanager.com                    |
+| **110** |   2.7   | 10-2018 | Nuevo    | -           | Interfaz de usuario cambiada - nuevo flujo de trabajo |
+| **111** |   2.7   | 10-2018 | Nuevo    | -           | Stoffenmanager® ahora es responsivo para uso en tabletas y smartphones |
+| **112** |   2.7   | 10-2018 | Nuevo    | § 4.4 & 4.5 | Procesos y ambientes de trabajo pueden ser asignados a ubicaciones |
+
+[Volver al tope](#anexo-1) - [Tabla de contenidos](#tabla-de-contenidos)

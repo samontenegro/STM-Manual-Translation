@@ -2361,7 +2361,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 ## Registro Completo: [English](#annex-english) - [Español](#annex-spanish)
 
-<h3 name="annex-english">English</h3> ®
+<h3 name="annex-english">English</h3>
 
 | Nr.     | Version | Date    | Type   | Reference   | Description                                                  |
 | ------- | :-----: | ------- | ------ | ----------- | :----------------------------------------------------------- |

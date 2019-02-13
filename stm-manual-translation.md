@@ -2482,7 +2482,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 <h3 name="annex-spanish">Español</h3>
 
-| Nr.     | Version | Date    | Type   | Reference   | Description                                                  |
+| Nr.     | Version | Fecha   | Tipo   | Referencia  | Descripción                                              |
 | ------- | :-----: | ------- | ------ | ----------- | :----------------------------------------------------------- |
 | **001** |   1.4   | 05-2015 | Nuevo    | -           | Introducción de Registro de cambios                          |
 | **002** |   1.4   | 05-2015 | Actualización | -           | Actualizada tabla 1: funciones de Stoffenmanager® por módulo  |

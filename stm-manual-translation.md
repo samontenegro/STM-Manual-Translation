@@ -354,9 +354,9 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | - | Productos | Evaluación de riesgo respiratorio | Evaluación de Riesgo Respiratorio | Medidas de Control<br /> -Priorización<br />--- Respiratoria<br />--- Dérmica<br />-Evaluación<br />--- Respiratoria | Registrar | Nano |
 | - | Componentes | Evaluación de riesgo dérmico      | Promedio diario de trabajo | Plan de Acción<br /> -Priorización<br />--- Respiratoria<br />--- Dérmica<br />-Evaluación<br />--- Respiratoria | TIAT* | - |
-| - | Proveedores | - | Evalución REACH | - | Plan de Acción<br /> -Priorización<br />--- Respiratoria<br />--- Dérmica<br />-Evaluación<br />--- Respiratoria<br />--- Promedio diario de trabajo<br />--- REACH | - |
+| - | Proveedores | - | Evaluación REACH | - | Reportes<br /> -Priorización<br />--- Respiratoria<br />--- Dérmica<br />-Evaluación<br />--- Respiratoria<br />--- Promedio diario de trabajo<br />--- REACH | - |
 | - | Procesos | - | - | - | Registro | - |
-| - | Ambientes de Trabajo | - | - | - | Primex | - |
+| - | Ambientes de Trabajo | - | - | - | Pimex | - |
 | - | CMR<br />-Registrar<br />-Reportar<br />-Buscar en lista CMR | - | - | - | - | - |
 
 *Siglas sugeridas; moderación requerida
@@ -412,7 +412,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 ##### Bloque 4
 
-> ​<u>Notification settings</u>
+> <u>Notification settings</u>
 >
 > At notification settings ([bell icon]), it is possible to define default validity dates for products and risk assessments, e.g. 1 year for a risk assessment with a CMR-substance. When the validity date is expired this triggers a notification and the product or risk assessment is highlighted in the product or risk assessment overview. In this way, the current status of the products and risk assessments can be quickly viewed. Please note: for each individual risk assessment and product a specific expiration data can also be entered. This can be done in the first screen for the risk assessment or for the product. This specific data overrules the generic entered date.
 
@@ -428,7 +428,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 ##### Bloque 6
 
-> ​<u>Custom product fields</u>
+> <u>Custom product fields</u>
 >
 > Within each premium account, 10 additional product data fields can be created that can be entered at product information. Select ‘Add column’ to create a new product field. Give the field a name and select ‘save’.	
 
@@ -481,7 +481,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 ##### Bloque 9
 
-> ​When you have activated Stoffenmanager® SHARE it is also possible to view product-WICs, RISK-WICs and SDS of products using a weblink. Following this url (which may be password protected) you arrive at an overview. Here you can directly search for:
+> When you have activated Stoffenmanager® SHARE it is also possible to view product-WICs, RISK-WICs and SDS of products using a weblink. Following this url (which may be password protected) you arrive at an overview. Here you can directly search for:
 > - Product WIC
 >
 > - Risk WIC
@@ -490,7 +490,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 >
 > You can search per location or filter the list. You can choose the relevant view (HTML or PDF) and the appearance (layout). Product information can also be downloaded as xml-file. These files can be used directly by other users who can import the file into their Stoffenmanager® account. This makes it more easy to exchange data.
 
-> Al activar Stoffenmanager® SHARE también es posible ver TIAT de productos, TIAT de riesgos, y HIS*  de productos usando un enlace. Al seguir dicho enlace (que podría estar protegido por contraseña) encontrará un resumen. En el resumen podrá buscar directamente por :
+> Al activar Stoffenmanager® SHARE también es posible ver TIAT de productos, TIAT de riesgos, y HIS* de productos usando un enlace. Al seguir dicho enlace (que podría estar protegido por contraseña) encontrará un resumen. En el resumen podrá buscar directamente por:
 >
 > - TIAT de producto
 >
@@ -701,7 +701,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 >
 > At assigning and unassigning location ([robot arm icon]) it is possible to quickly couple multiple products or risk assessments to other locations. For example, it is possible to couple all your products at once to a new location that you just created.
 
-> ​<u>Asignar y remover ubicaciones</u>
+> <u>Asignar y remover ubicaciones</u>
 >
 > En Asignar y remover ubicaciones ([ícono de brazo robótico]) es posible acoplar múltiples productos o evaluaciones de riesgo rápidamente a otras ubicaciones. Por ejemplo, es posible acoplar todos sus productos, al mismo tiempo, a una nueva ubicación recién creada.
 
@@ -742,8 +742,6 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 ##### Bloque 33
 
 > **Locations**
->
-> 
 >
 > Locations are hierarchically structured entities that serve to provide a structure in which data can be ordered, sorted and filtered. Products and risk assessments can be coupled to a single location. Subsequently, these products and risk assessments can be retrieved or filtered by the location to which they are coupled. At ‘Location Management’ the new locations can be created, updated, deleted or archive. It is also possible to change the hierarchical structure of the locations by dragging them to their new positions.
 
@@ -813,7 +811,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 | ([ícono de bote de basura])        | Eliminar el usuario existente - un nuevo usuario podrá ser añadido |
 | ([ícono de llave])                 | Editar permisos de usuario - por defecto, un usuario <u>no tiene</u> permisos. Esto puede ser ajustado haciendo clic en el ícono |
 | ([ícono de recuperación])          | Enlace de recuperación de cuenta - el usuario recibirá un correo electrónico con un enlace para reestablecer su contraseña |
-| ([ícono de círculo rojo tachado ]) | Usuario sin permisos asinados - este usuario no tiene permisos o roles asignados aún. |
+| ([ícono de círculo rojo tachado ]) | Usuario sin permisos asinados - este usuario no tiene permisos o roles asignados aún |
 | Email                              | E-mail usado para el inicio de sesión                        |
 | Última actividad                   | Última vez que el usuario ha iniciado sesión en Stoffenmanager® |
 | Esta activada                      | Indica cuales usuarios han activado sus cuentas y cuales no  |
@@ -829,11 +827,11 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 ##### Bloque 40
 
-> After clicking on the icon ‘Update* User Rights’ ([ícono de llave]), the administrator arrives at an overview screen in which he or she can select / deselect items as appropriate to select those rights a user is going to receive. By default, a new user has no assigned rights. The rights apply at the level of each location and each functionality. The administrator can give rights to read, edit and delete. Some rights, such as rights to read, edit or delete a component, are not location-specific. This means that the rights cannot be instituted for each location but apply to the entire company. Clicking on the black arrow that appears at the top right-hand corner of the table takes the administrator to the next columns of functionalities located to the right. Click the ‘save’ button at the foot of the page to finish allocating rights and roles.
+> After clicking on the icon ‘Update* User Rights’ ([key icon]), the administrator arrives at an overview screen in which he or she can select / deselect items as appropriate to select those rights a user is going to receive. By default, a new user has no assigned rights. The rights apply at the level of each location and each functionality. The administrator can give rights to read, edit and delete. Some rights, such as rights to read, edit or delete a component, are not location-specific. This means that the rights cannot be instituted for each location but apply to the entire company. Clicking on the black arrow that appears at the top right-hand corner of the table takes the administrator to the next columns of functionalities located to the right. Click the ‘save’ button at the foot of the page to finish allocating rights and roles.
 
 *Interpretado como "Edit", según especifica el parágrafo anterior. 
 
-> Luego de hacer clic en el ícono "Editar permisos de usuario", el administrador es llevado a una vista donde él o ella puede seleccionar/deseleccionar ítems para establecer los permisos que dicho usuario recibirá. Por defecto, un usuario nuevo no posee permisos asignados. Los permisos se aplican por niveles para cada ubicación y cada función. El administrador puede asignar permisos para leer, editar y eliminar. Algunos permisos, como el de leer, editar y eliminar un componente, pueden ser globales†. Esto significa que los permisos no podrán ser aplicados para una ubicación en específico sino que aplicarán para toda la compañía. Al hacer clic en la flecha negra, se mostrarán las columnas para el resto de las funcionalidades. Haca clic en el botón de "guardar" al pie de la página para terminar de asignar permisos y roles.
+> Luego de hacer clic en el ícono "Editar permisos de usuario" ([ícono de llave]), el administrador es llevado a una vista donde él o ella puede seleccionar/deseleccionar ítems para establecer los permisos que dicho usuario recibirá. Por defecto, un usuario nuevo no posee permisos asignados. Los permisos se aplican por niveles para cada ubicación y cada función. El administrador puede asignar permisos para leer, editar y eliminar. Algunos permisos, como el de leer, editar y eliminar un componente, pueden ser globales†. Esto significa que los permisos no podrán ser aplicados para una ubicación en específico sino que aplicarán para toda la compañía. Al hacer clic en la flecha negra, se mostrarán las columnas para el resto de las funcionalidades. Haca clic en el botón de "guardar" al pie de la página para terminar de asignar permisos y roles.
 
 †Interpretado de "not location-specific".
 
@@ -895,7 +893,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 ##### Bloque 44
 
-> ​<u>Delete account</u>
+> <u>Delete account</u>
 >
 > Under delete account you can delete your basic (free) account. After selecting this icon you arrive at a page where you can delete your account. Please note: this can not be undone. All entered data is deleted and lost. Deleting users in a premium account is done by the administrator at ‘settings > users & permissions’.
 
@@ -1012,7 +1010,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 > - Campos específicos a productos de la compañía. Si ha creado campos adicionales para el producto (§ 3.1), podrá introducir la información aquí.
 > - Fecha de HIS (No obligatorio). Aquí podrá introducir la fecha de la hoja de información de seguridad (HIS); en la mayoría de los casos, ésta es la fecha de revisión. 
 > - Archivo HIS. Aquí podrá cargar la HIS del producto como PDF seleccionando "Escoger Archivo". También, podrá cargar una HIS en formato PDF para cada idioma disponible en Stoffenmanager®. Primero seleccione el lenguaje y luego seleccione el archivo que desea cargar. El lenguaje por defecto es escoge en función al lenguaje general seleccionado al iniciar sesión. Después de guardar y reabrir el producto, podrá descargar la HIS. También podrá ser descargada desde el resumen de producto, en la columna HIS, haciendo clic en el ícono ([ícono de descarga.]). Adicionalmente, para cada versión del producto podrá cargar una HIS específica.
-> - Su utiliza el módulo SHARE podrá, en la parte superior de la página, indicar si el producto puede ser publicado en una publicación SHARE. Esta opción está activada por defecto. Si no desea incluir este producto en publicaciones SHARE, desactive la opción.
+> - Si utiliza el módulo SHARE podrá, en la parte superior de la página, indicar si el producto puede ser publicado en una publicación SHARE. Esta opción está activada por defecto. Si no desea incluir este producto en publicaciones SHARE, desactive la opción.
 
 ##### Bloque 9
 
@@ -1033,7 +1031,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 >
 > - Información de salud y seguridad: Aquí, pueden seleccionarse las declaraciones H/P o frases R/S , según aparezcan en la HIS. Las declaraciones H y P  de Stoffenmanager®  están basadas en los sistemas UN-GHS y EU-CLP. Las declaraciones legalmente expiradas aparecerán tachadas en la caja de selección. Por razones históricas, estas declaraciones aun podrán ser seleccionadas y usadas en Stoffenmanager®. El convertidor CLP hace posible convertir frases R a declaraciones H. Al seleccionar declaraciones H o frases R, se indica la clase de peligro del producto junto a la caja de selección ("-" no hay peligro, "A" menos peligroso - "E" más peligroso). Para cada declaración H o frase R, se indica la clase de peligro correspondiente. Desde Stoffenmanager® 7.1,  se aplica el método de bandas de riesgo descrito por Arnone et. Al (2015). En pantalla de resumen de producto, podrá filtrar los productos por clase de peligro.<br>Sugerencia: mantenga presionada la tecla CTRL para seleccionar múltiples declaraciones H o P.
 > - Pictogramas de Peligro. Aquí podrá seleccionar los pictogramas de peligro y la palabra clave del producto, según se describe en la § 2 HIS.
-> - Composición del producto. (§ 3 HIS). Aquí podrá agregar los componentes del producto. Escoja un set de productos (por defecto será Stoffenmanager®) y seleccione un componente, buscándolo por su número CAS, su número EC o su número de registro REACH. Introduzca la concentración del componente en el producto. Nota: éste debe ser un único número, sin símbolos "<,>,%" o similares. Si en lugar de un número se indica un rango en  la HIS, p. ej. 10-20%, deberá introducir el valor medio del rango (15). Seleccione el botón ([ícono de seleccionar]) para asignar el componente al producto. Nota: ¡Introducir la composición es necesario para calcular la exposición cuantitativa! Los componentes pueden ser editados ([ícono de actualizar]) o creados ([ícono de agregar]) desde aquí.
+> - Composición del producto. (§ 3 HIS). Aquí podrá agregar los componentes del producto. Escoja un set de productos (por defecto será Stoffenmanager®) y seleccione un componente, buscándolo por su número CAS, su número EC o su número de registro REACH. Introduzca la concentración del componente en el producto. Nota: éste debe ser un único número, sin símbolos "<,>,%" o similares. Si en lugar de un número se indica un rango en  la HIS, p. ej. 10-20%, deberá introducir el valor medio del rango (15). Seleccione el botón ([ícono de conectar]) para asignar el componente al producto. Nota: ¡Introducir la composición es necesario para calcular la exposición cuantitativa! Los componentes pueden ser editados ([ícono de actualizar]) o creados ([ícono de agregar]) desde aquí.
 > - Los componentes que hayan sido agregados al producto podrán ser vistos haciendo clic directamente sobre el nombre del componente. La pantalla de componente aparecerá y podrá ver o modificar la información. Luego de guardar o cerrar, regresará a la pantalla de edición de producto.
 > - Los componentes que se encuentren conectados al producto podrán ser eliminados directamente incluso si se usan para alguna evaluación de riesgo. Al eliminar el componente, la evaluación de riesgo o el promedio diario de trabajo deberán ser recalculados. Antes de eliminar un componente, aparecerá un aviso para confirmar la acción.
 
@@ -1346,9 +1344,9 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 >
 > When multiple users work in a Premium account it is not always easy to share products because these are often coupled to locations. When a user does not have access to the specific locations the product is not visible. This could lead to more work and products being entered twice. The Digital Product Depot (DPD) can solve this problem. The DPD can be used as digital product catalogues for the location managers. Within the DPD products are centrally managed and products can be connected to all different locations. Specific user rights apply to the DPD. Users can be assigned read-select and/or edit rights. The enables the use of the DPD in various ways.
 
-> ​**Almacén Digital de Productos**
+> **Almacén Digital de Productos**
 >
-> Cuando múltiples usuarios trabajan en una misma cuenta premium, no siempre es fácil compartir productos porque éstos suelen estar acoplados a ubicaciones. Si un usuario no tiene permiso para acceder a una ubicación específica, entonces el producto no será visible. Ésto podría conllevar trabajo extra y productos duplicados. El Almacén Digital de Productos resuelve este problema. El ADP*  puede usarse como catálogos digitales de productos por los gerentes de las ubicaciones. Dentro del ADP, los productos se administran de forma centralizada y pueden ser conectados a todas las distintas ubicaciones. Para el ADP aplican permisos de usuario específicos. A los usuarios le pueden ser asignados permisos para leer-seleccionar y/o permisos para editar. Ésto activa el uso del ADP en varias maneras.
+> Cuando múltiples usuarios trabajan en una misma cuenta premium, no siempre es fácil compartir productos porque éstos suelen estar acoplados a ubicaciones. Si un usuario no tiene permiso para acceder a una ubicación específica, entonces el producto no será visible. Ésto podría conllevar trabajo extra y productos duplicados. El Almacén Digital de Productos resuelve este problema. El ADP* puede usarse como catálogos digitales de productos por los gerentes de las ubicaciones. Dentro del ADP, los productos se administran de forma centralizada y pueden ser conectados a todas las distintas ubicaciones. Para el ADP aplican permisos de usuario específicos. A los usuarios le pueden ser asignados permisos para leer-seleccionar y/o permisos para editar. Ésto activa el uso del ADP en varias maneras.
 
 *Traducción de las siglas DPD
 
@@ -1384,7 +1382,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 >
 > To perform a new risk assessment or to view completed assessments select ‘Prioritisation > Inhalation risk assessment’. This is where completed assessments are presented together with the risk scores. The risk assessments can be updated, deleted, copied or selected for the application of control measures. Risk assessments that are not valid anymore are highlighted in red. Via the ([three dot icon]) icon in the table header additional columns can be selected or deselected. The overview presented on screen can be exported to Excel. There is a direct link to the product assessed. Clicking this hyperlink directly opens the product where data can be viewed or changed. If the risk assessment is performed for a CMR-product a shield ([red warning icon]) is placed in front of the risk assessment. If the product contains components that are listed on a hazardous substance list this is indicated with an ([orange warning icon]) icon.
 
-> **Inhalation risk assessment**
+> **Evaluación de riesgo respiratorio**
 >
 > Para realizar una nueva evaluación o ver las evaluaciones completadas, seleccione "Priorización" > "Evaluación de riesgo respiratorio". Aquí es donde se presentan las evaluaciones completas junto con sus puntajes de riesgo. Las evaluaciones de riesgo pueden ser actualizadas, eliminadas, copiadas o seleccionadas para la aplicación de medidas de control. Las evaluaciones de riesgo que no ya no sean válidas serán resaltadas en rojo. Mediante el ícono  ([ícono de tres puntos]) en la cabecera de la tabla podrá seleccionar o deseleccionar columnas adicionales. El resumen mostrado en la pantalla podrá ser exportado a Excel. Aquí encontrará un enlace directo al producto evaluado. Hacer clic en el enlace abrirá directamente el producto, donde podrá ver o modificar su información. Si se realiza una evaluación de riesgo para un producto CMR, aparecerá el ícono ([ícono rojo de advertencia]) frente a la evaluación de riesgo. Si el producto contiene componentes que aparecen en alguna lista de sustancias peligrosas, será indicado con el ícono ([ícono naranja de advertencia]).
 
@@ -1542,7 +1540,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 > **Evaluación de riesgo dérmico**
 >
-> Además de una evaluación para los riesgos respiratorios, Stoffenmanager® ofrece la posibilidad de evaluar el riesgo de exposición dérmico. Esta evaluación es cualitativa. El resultado es un puntaje de riesgo (I, II, o III) para efectos sistémicos: efectos que ocurren como el resultado de la absorción de una sustancia en la sangre a través de la piel. Este proceso de evaluación se asemeja al proceso para riesgos respiratorios. Los productos que hayan sido introducidos en "Inventario" > "Productos" estarán disponibles para ser evaluados. 
+> Además de una evaluación para los riesgos respiratorios, Stoffenmanager® ofrece la posibilidad de evaluar el riesgo de exposición dérmico. Esta evaluación es cualitativa. El resultado es un puntaje de riesgo (I, II, o III) para locales y un puntaje de riesgo (I, II or III) para efectos sistémicos: efectos que ocurren como el resultado de la absorción de una sustancia en la sangre a través de la piel. Este proceso de evaluación se asemeja al proceso para riesgos respiratorios. Los productos que hayan sido introducidos en "Inventario" > "Productos" estarán disponibles para ser evaluados. 
 
 ##### Bloque 14
 
@@ -1560,7 +1558,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 > Click on the New Risk Assessment button to start a new risk assessment. This opens a new screen. You will be guided through the risk assessment in three steps.
 
-> Haca clic en el botón "Nueva evaluación de riesgo" para realizar una nueva evaluación de riesgo. Ésto abrirá una nueva pantalla. Luego, será guiado a través de la evaluación de riesgo en tres pasos.	
+> Haga clic en el botón "Nueva evaluación de riesgo" para realizar una nueva evaluación de riesgo. Ésto abrirá una nueva pantalla. Luego, será guiado a través de la evaluación de riesgo en tres pasos.	
 
 ##### Bloque 17
 
@@ -1569,12 +1567,22 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 > - Give the risk assessment a recognizable name that can be traced back to the process or the task being assessed.
 > - Select the location/department where the activity takes place.
 > - Optional: Expiration date: here you can define the validity date of the risk assessment. When no date is entered this information is not used by the program or a default general date is used that is entered at ‘settings > my company > notification settings’. At the risk assessment, you can enter a specific date. This date overrules the general value. Risk assessments that are expired are indicated in red in the risk assessment overview.
+> - Choose a product set. This can be ‘Stoffenmanager®’ – the database for manually entered products – or a product from an imported database.
+> - Choose the product that you want to assess. Both liquids and solids can be selected.
+> - For liquids, choose a dilution, if appropriate.
+> - Characterize the task performed. The tasks are described generically. When a task is selected, additional information appears that will help confirm whether the correct choice has been made.
+> - Optional: Select the PROC (REACH process category). This selection list is only available if this has been activated by the administrator. The relevant PROC can be assigned as description of the process. This PROC is not used in the risk assessment.
 
 > <u>Paso 1</u>
 >
 > - Dé un nombre reconocible a la evaluación de riesgo que pueda ser rastreado de vuelta al proceso que esta siendo evaluado. 
 > - Seleccione la ubicación/departamento donde la actividad toma lugar.
 > - Opcional: Fecha de expiración: aquí puede definir la fecha de validez de la evaluación de riesgo. Si no se introduce fecha alguna, esta información no se utiliza o se usa un valor genérico por defecto introducido en "Configuración" > "Mi compañía" > "ajustes de notificación". En la evaluación de riesgo podrá introducir una fecha en específico. Esta fecha anula el valor genérico. Las evaluaciones de riesgo que hayan expirado serán resaltadas en rojo en el resumen de evaluación de riesgo.
+> - Escoja el set de productos. Éste puede ser Stoffenmanager® – el set de productos introducidos manualmente, o un producto de algún set de productos importado
+> - Escoja el producto que desee evaluar. Tanto líquidos como sólidos pueden ser seleccionados
+> - Indique, de ser apropiado, si el líquido es una dilución. 
+> - Caracterice la tarea realizada. Las tareas son descritas de forma genérica. Al seleccionar una tarea, aparecerá información adicional que le ayudará a confirmar si ha escogido la opción correcta.
+> - Opcional: Seleccione el PROC (categoría de proceso REACH). Esta lista de selección solo estará disponible si ha sido activada por el administrador. La categoría PROC relevante podrá ser asignada como la descripción del proceso. La categoría PROC no es usada en la evaluación de riesgo. 
 
 ##### Bloque 18
 
@@ -1597,7 +1605,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 > - A hazard class for eyes (B – E) including advice on personal protection
 > - A specific warning for additional risks related to physical-chemical properties of the product or environmental hazards.
 
-> <u>Step 3</u>
+> <u>Paso 3</u>
 >
 > Aquí se presenta el resultado de la evaluación. Esto comprende:
 >
@@ -1620,7 +1628,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 > At Assessment you can perform a quantitative inhalation risk assessment of the exposure in mg/m3 for each component in the product. For this quantitative risk assessment more detailed information of the components, such as the vapor pressure and the occupational exposure limit value is required. These must be entered under ‘Inventory > Components’. Unfortunately, these data cannot always be found on the SDS. In this case, additional sources of information are required. Stoffenmanager® calculates the exposure during both the task and averaged over the full working day (daily average). The exposure concentrations can then be compared with the occupational exposure limit values like the 8-hour TWA (time-weighted average) or the short-term exposure limit (STEL – 15 min).
 
-> En Evaluación puede realizar evaluaciones cuantitativas de riesgo respiratorio de exposición en mg/m3 para cada componente en un producto. Para ésta evaluación, se requiere información más detallada de los componentes, como la presión de vapor y el valor límite de exposición ocupacional. Éstos deben ser introducidos en "Inventario" > "Componentes". Desafortunadamente, ésta información no siempre se encuentra disponible en la HIS. En tal caso, se requerirán fuentes de información adicionales. Stoffenmanager® calcula la exposición durante la tarea y, además, la exposición promediada sobre el día de trabajo (promedio diario). De esta manera, las concentraciones de exposición pueden ser comparadas con los valores límite de exposición ocupacional, como el  PPT de 8 horas (promedio ponderado en el tiempo), o el límite de exposición de corto plazo (LECT - 15 min)
+> En Evaluación puede realizar evaluaciones cuantitativas de riesgo respiratorio de exposición en mg/m3 para cada componente en un producto. Para ésta evaluación, se requiere información más detallada de los componentes, como la presión de vapor y el valor límite de exposición ocupacional. Éstos deben ser introducidos en "Inventario" > "Componentes". Desafortunadamente, ésta información no siempre se encuentra disponible en la HIS. En tal caso, se requerirán fuentes de información adicionales. Stoffenmanager® calcula la exposición durante la tarea y, además, la exposición promediada sobre el día de trabajo (promedio diario). De esta manera, las concentraciones de exposición pueden ser comparadas con los valores límite de exposición ocupacional, como el PPT de 8 horas (promedio ponderado en el tiempo), o el límite de exposición de corto plazo (LECT - 15 min)
 
 ##### Bloque 2
 
@@ -1640,7 +1648,9 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 >
 > To perform a new risk assessment or to view a completed assessment select ‘Assessment > Inhalation risk assessment’. This is where completed assessments are presented with the task concentrations in mg/m3. The risk assessments can be updated, deleted, copied or selected for the application of control measures. Risk assessments that are not valid anymore are highlighted in red. Via the ([three dot icon]) icon in the table header additional columns can be selected or deselected. The overview presented on screen can be exported to Excel. There is a direct link to the product assessed. Clicking this hyperlink directly opens the product where data can be viewed or changed. If the risk assessment is performed for a CMR-product a shield ([red warning icon]) is placed in front of the risk assessment. If the product contains components that are listed on a hazardous substance list this is indicated with an ([orange warning icon]) icon.
 
-> Para realizar una nueva evaluación o ver las evaluaciones completadas, seleccione "Evaluación" > "Evaluación de riesgo respiratorio". Aquí es donde se presentan las evaluaciones completas junto con las concentraciones de tarea en mg/m3. Las evaluaciones de riesgo pueden ser actualizadas, eliminadas, copiadas o seleccionadas para la aplicación de medidas de control. Las evaluaciones de riesgo que no ya no sean válidas serán resaltadas en rojo. Mediante el ícono  ([ícono de tres puntos]) en la cabecera de la tabla podrá seleccionar o deseleccionar columnas adicionales. El resumen mostrado en la pantalla podrá ser exportado a Excel. Aquí encontrará un enlace directo al producto evaluado. Hacer clic en el enlace abrirá directamente el producto, donde podrá ver o modificar su información. Si se realiza una evaluación de riesgo para un producto CMR, aparecerá el ícono ([ícono rojo de advertencia]) frente a la evaluación de riesgo. Si el producto contiene componentes que aparecen en alguna lista de sustancias peligrosas, será indicado con el ícono ([ícono naranja de advertencia]).
+> **Evaluación de riesgo respiratorio**
+>
+> Para realizar una nueva evaluación o ver las evaluaciones completadas, seleccione "Evaluación" > "Evaluación de riesgo respiratorio". Aquí es donde se presentan las evaluaciones completas junto con las concentraciones de tarea en mg/m3. Las evaluaciones de riesgo pueden ser actualizadas, eliminadas, copiadas o seleccionadas para la aplicación de medidas de control. Las evaluaciones de riesgo que no ya no sean válidas serán resaltadas en rojo. Mediante el ícono ([ícono de tres puntos]) en la cabecera de la tabla podrá seleccionar o deseleccionar columnas adicionales. El resumen mostrado en la pantalla podrá ser exportado a Excel. Aquí encontrará un enlace directo al producto evaluado. Hacer clic en el enlace abrirá directamente el producto, donde podrá ver o modificar su información. Si se realiza una evaluación de riesgo para un producto CMR, aparecerá el ícono ([ícono rojo de advertencia]) frente a la evaluación de riesgo. Si el producto contiene componentes que aparecen en alguna lista de sustancias peligrosas, será indicado con el ícono ([ícono naranja de advertencia]).
 
 ##### Bloque 5
 
@@ -1704,7 +1714,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 >
 > - Indique si la situación involucra dar forma a un objeto cortándolo o quitándole material (p. ej. lijando, serruchando, afilando, etc.).
 >
->   Nota: Stoffenmanager® solo se encuentra validado para estimar la exposición asociada a actividades abrasivas sobre madera y piedra. (Las operaciones de mecanizado sobre plásticos, metales, etc. están fuera del dominio de validez*)
+> Nota: Stoffenmanager® solo se encuentra validado para estimar la exposición asociada a actividades abrasivas sobre madera y piedra. (Las operaciones de mecanizado sobre plásticos, metales, etc. están fuera del dominio de validez*)
 >
 > Si involucra mecanizado:
 >
@@ -1719,7 +1729,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 > - Choose the product set. This may be Stoffenmanager® – the manually entered products, or a product from an imported product set.
 > - Select the product you wish to assess.
 
-> ​Si no involucra mecanizado:
+> Si no involucra mecanizado:
 >
 > - Escoja el set de productos. Éste puede ser Stoffenmanager® – el set de productos introducidos manualmente, o un producto de algún set de productos importado.
 > - Seleccione el producto que desea evaluar.
@@ -2016,7 +2026,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 >
 >Cuando la exposición a un producto no se encuentra controlada de forma apropiada y efectiva, pueden seleccionarse medidas de control suplementarias.
 >
->- Diríjase a "Control" > "Medidas de control"  seleccione respiratorias (priorización o evaluación) o dérmicas. Aparecerá un resumen con todas las evaluaciones de riesgo completadas.
+>- Diríjase a "Control" > "Medidas de control" seleccione respiratorias (priorización o evaluación) o dérmicas. Aparecerá un resumen con todas las evaluaciones de riesgo completadas.
 >
 >- Seleccione la evaluación de riesgo para abrirla. Luego, se mostrará una lista de medidas con medidas de control local y medidas técnicas. Solo podrán seleccionarse las medidas que reduzcan aún más la exposición, mediante el botón "Ver efecto". 
 >- Haga clic sobre Ver efecto para mostrar el efecto de la medida sobre el puntaje de riesgo
@@ -2134,7 +2144,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 ><u>Tarjetas de instrucciones del ambiente de trabajo para riesgos</u>
 >
->Además de las TIAT para productos, para cada evaluación de riesgo respiratorio o dérmico podrá generarse una TIAT de riesgo. La TIAT de riesgo es una combinación de información del producto e información específica sobre el ambiente de trabajo, como las condiciones de uso y las medidas de manejo de riesgo. La TIAT de riesgo puede visualizarse o descargarse como un reporte en formato de Word. Los parámetros de la evaluación de riesgo serán reescritos en un lenguaje más sencillo. La información de la evaluación de riesgo se divide en una parte relacionada con instrucciones de trabajo (que pueden ser influenciadas por el trabajador), y otra que provee una descripción más general de la situación sobre la cual se basa la evaluación de riesgo. La TIAT de riesgo puede ser generada desde el resumen de evaluación de riesgo seleccionando la columna "TIAT de riesgo". Seleccione ([ícono de ojo]) para ver la TIAT de riesgo en línea. Desde allí, podrá guardar la tarjeta como un documento Word. Seleccione ([ícono de descarga]) ara descargar directamente la TIAT de riesgo. 
+>Además de las TIAT para productos, para cada evaluación de riesgo respiratorio o dérmico podrá generarse una TIAT de riesgo. La TIAT de riesgo es una combinación de información del producto e información específica sobre el ambiente de trabajo, como las condiciones de uso y las medidas de manejo de riesgo. La TIAT de riesgo puede visualizarse o descargarse como un reporte en formato de Word. Los parámetros de la evaluación de riesgo serán reescritos en un lenguaje más sencillo. La información de la evaluación de riesgo se divide en una parte relacionada con instrucciones de trabajo (que pueden ser influenciadas por el trabajador), y otra que provee una descripción más general de la situación sobre la cual se basa la evaluación de riesgo. La TIAT de riesgo puede ser generada desde el resumen de evaluación de riesgo seleccionando la columna "TIAT de riesgo". Seleccione ([ícono de ojo]) para ver la TIAT de riesgo en línea. Desde allí, podrá guardar la tarjeta como un documento Word. Seleccione ([ícono de descarga]) para descargar directamente la TIAT de riesgo. 
 
 ##### Bloque 6
 
@@ -2144,7 +2154,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 > **Reportes**
 >
-> Stoffenmanager® ofrece la posibilidad de generar reportes sobre información básica, evaluaciones de riesgo completadas o registros. En "Comunicación" > "Reportes"  todas las evaluaciones de riesgo dérmico y respiratorio están disponibles y pueden ser generadas como archivos Word. Podrá aplicar distintos filtros para encontrar uno más reportes; p. ej. el reporte de las evaluaciones de riesgo realizadas a productos CMR.
+> Stoffenmanager® ofrece la posibilidad de generar reportes sobre información básica, evaluaciones de riesgo completadas o registros. En "Comunicación" > "Reportes" todas las evaluaciones de riesgo dérmico y respiratorio están disponibles y pueden ser generadas como archivos Word. Podrá aplicar distintos filtros para encontrar uno más reportes; p. ej. el reporte de las evaluaciones de riesgo realizadas a productos CMR.
 
 ##### Bloque 7
 
@@ -2274,7 +2284,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 
 > You can decide to update the component here and use the latest version for the product composition. A quicker option is to update the entire product directly in the product overview screen. Select the column ‘Up to date’ and select ‘update’. All components are then directly updated. You can indicate if the product should be updated and saved (you will overwrite the previous version) or updated with the creation of a new version.
 
-> Puede decidir actualizar el componente aquí y usar la última versión para la composición del producto. Una opción más rápida es actualizar el producto completamente desde el resumen de producto. Seleccione la columna "Está al día"  y seleccione "actualizar". Todos los componentes serán actualizados directamente. Podrá indicar si el producto debería ser actualizado y guardado (sobrescribiendo la versión anterior) o actualizado con la creación de una nueva versión.
+> Puede decidir actualizar el componente aquí y usar la última versión para la composición del producto. Una opción más rápida es actualizar el producto completamente desde el resumen de producto. Seleccione la columna "Está al día" y seleccione "actualizar". Todos los componentes serán actualizados directamente. Podrá indicar si el producto debería ser actualizado y guardado (sobrescribiendo la versión anterior) o actualizado con la creación de una nueva versión.
 
 ##### Bloque 6
 
@@ -2500,7 +2510,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 | **014** |   1.4   | 05-2015 | Nuevo    | -           | Introducción Exportar a Excel y Ordenar                      |
 | **015** |   1.5   | 08-2015 | Nuevo    | -           | Introducción ficha RCR al panel de control                   |
 | **016** |   1.5   | 08-2015 | Nuevo    | -           | Introducción importar información de componente mediante base de datos GESTIS de la IFA |
-| **017** |   1.5   | 08-2015 | Nuevo    | -           | Introducción filtrar productos sobre clase de peligro 		|
+| **017** |   1.5   | 08-2015 | Nuevo    | -           | Introducción de filtro para productos por clase de peligro |
 | **018** |   1.5   | 08-2015 | Nuevo    | -           | Introducción cálculo de RCR 									|
 | **019** |   1.5   | 08-2015 | Nuevo    | -           | Agregado artículo por Arnone, 2015 							|
 | **020** |   1.6   | 11-2015 | Nuevo    | -           | Mejoradas funciones de filtrado 								|
@@ -2540,7 +2550,7 @@ Ciudad Autónoma de Buenos Aires, enero de 2019.
 | **054** |   2.4   | 04-2017 | Actualización | -           | Reducido el número de campos obligatorios al introducir información de producto |
 | **055** |   2.4   | 04-2017 | Nuevo    | -           | Añadida carga de HIS para cada lenguaje disponible |
 | **056** |   2.4   | 04-2017 | Nuevo    | -           | Cambiado el orden de introducción de información de producto |
-| **057** |   2.4   | 04-2017 | Nuevo    | -           | Extendido el npumero de columnas disponibles en el resumen de evaluaciones de riesgo |
+| **057** |   2.4   | 04-2017 | Nuevo    | -           | Extendido el número de columnas disponibles en el resumen de evaluaciones de riesgo |
 | **058** |   2.4   | 04-2017 | Nuevo    | -           | Agregada clase de peligro ocular + agregados textos de advertencia especiales |
 | **059** |   2.4   | 04-2017 | Nuevo    | -           | Agregada clase de peligro ocular + agregados textos de advertencia especiales |
 | **060** |   2.4   | 04-2017 | Actualización | -           | Actualizado registro de productos peligrosos |
